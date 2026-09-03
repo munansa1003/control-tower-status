@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "ci": {
+    "control-tower": "running",
+    "daniel-daily-news": "none",
+    "daniel-tracker": "success",
+    "dyp-proto-team": "success",
+    "estate-ledger": "none",
+    "jaegyeong-study": "none",
+    "jjj-family-acb": "success",
+    "jump-quiz-island": "none",
+    "piston-issues": "success",
+    "us-value-lab": "success",
+    "weekly-reports": "none"
+  },
+  "deploy": {
+    "control-tower": "READY",
+    "daniel-daily-news": "READY",
+    "daniel-tracker": "READY",
+    "dyp-proto-team": "READY",
+    "jaegyeong-study": "READY",
+    "jjj-family-acb": "READY",
+    "us-value-lab": "READY"
+  },
+  "sourceFailStreak": {
+    "github": 0,
+    "vercel": 0
+  },
+  "lastSentAt": {}
+}
