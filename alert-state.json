@@ -1,7 +1,7 @@
 {
   "version": 1,
   "ci": {
-    "control-tower": "running",
+    "control-tower": "success",
     "daniel-daily-news": "none",
     "daniel-tracker": "success",
     "dyp-proto-team": "success",
