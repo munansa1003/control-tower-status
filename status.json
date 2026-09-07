@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 12커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "feat(schedule): 납기를 고칠 수 있게 — 새 칸에 담고 **원문은 안 건드린다** (세대 9)",
           "at": "2026-09-07T05:47:28Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/a574708986e83f87131423e158918c7e1f55ddd2"
-        },
-        {
-          "sha": "02b22c84e2215ff3097ce82e5ae6c755374c6f24",
-          "message": "feat(schedule): 짝 주조를 **전 기간에서 검색해** 고른다 · 휴무는 서버가 막는다",
-          "at": "2026-09-07T05:31:35Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/02b22c84e2215ff3097ce82e5ae6c755374c6f24"
-        },
-        {
-          "sha": "263d8673f2abe6ec9677aee55f7d79995907cf57",
-          "message": "feat(schedule): 달력의 「신규」 표식을 **뺀다** — 전제가 만료되는 표식이었다",
-          "at": "2026-09-07T05:21:20Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/263d8673f2abe6ec9677aee55f7d79995907cf57"
         }
       ],
       "ci": {
@@ -61,7 +49,7 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 17커밋 · CI 초록 · 배포 정상 16:13",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 16:13",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
@@ -69,18 +57,6 @@
           "message": "ci(M8): 공개 설정 발행 + 편집 큐 적용",
           "at": "2026-09-07T07:13:02Z",
           "url": "https://github.com/munansa1003/control-tower/commit/dc4823b19e010a8d2ff80be684fc3d079317a760"
-        },
-        {
-          "sha": "51afa458c62a64f4a0188692a3769b96988fbff5",
-          "message": "docs(M8): 구현 심사 기록 — 고친 6종과 보류한 4종",
-          "at": "2026-09-07T05:47:15Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/51afa458c62a64f4a0188692a3769b96988fbff5"
-        },
-        {
-          "sha": "e56fa9c6cb2295c9dce4c16274f471f1458c4e7f",
-          "message": "fix(M8): 심사가 잡은 고위험 6종 — 편집이 조용히 사라지던 경로들",
-          "at": "2026-09-07T05:45:58Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/e56fa9c6cb2295c9dce4c16274f471f1458c4e7f"
         }
       ],
       "ci": {
@@ -159,7 +135,7 @@
       "id": "daniel-tracker",
       "name": "Body Plan",
       "status": "ok",
-      "note": "오늘 7커밋 · CI 초록 · 배포 정상 19:14",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 19:14",
       "repoUrl": "https://github.com/munansa1003/daniel-tracker",
       "commits": [
         {
@@ -167,18 +143,6 @@
           "message": "Merge pull request #105 from munansa1003/claude/vercel-firebase-migration-design-lvay3m",
           "at": "2026-09-07T10:13:58Z",
           "url": "https://github.com/munansa1003/daniel-tracker/commit/ea27d00c1d9e6fd9b866729c73e96972336b1044"
-        },
-        {
-          "sha": "23c13c2ee73fd5750dff77ce42c54ab205c97c13",
-          "message": "docs(migration): 검토 지시 반영 — DR-12 채택·DR-2 실측 결정·DR-15(pinTag) 추가·SA 역할 4종·defineJsonSecret 안·WEB_API_KEY 폴백",
-          "at": "2026-09-07T07:25:16Z",
-          "url": "https://github.com/munansa1003/daniel-tracker/commit/23c13c2ee73fd5750dff77ce42c54ab205c97c13"
-        },
-        {
-          "sha": "8faae2668f477d589ed253988288262fe0c320fd",
-          "message": "test(bulk-delete-ui): 날짜 의존 제거 — 시계를 픽스처 안(2026-08-10)으로 고정 + alert 모킹",
-          "at": "2026-09-07T07:22:36Z",
-          "url": "https://github.com/munansa1003/daniel-tracker/commit/8faae2668f477d589ed253988288262fe0c320fd"
         }
       ],
       "ci": {
@@ -237,7 +201,7 @@
       "id": "jjj-family-acb",
       "name": "JJJ ACB",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 15:07",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 15:07",
       "repoUrl": "https://github.com/munansa1003/jjj-family-ACB",
       "commits": [
         {
@@ -282,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-07T12:43:18.810Z",
+  "lastRunAt": "2026-09-07T18:16:39.497Z",
   "sources": [
     {
       "source": "github",
