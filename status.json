@@ -61,9 +61,15 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "warn",
-      "note": "오늘 5커밋 · CI 진행 중 · 배포 취소됨",
+      "note": "오늘 6커밋 · CI 진행 중 · 배포 취소됨",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
+        {
+          "sha": "4fe87bafcf9e24e2bf43c182ba4e0ec551049676",
+          "message": "Revert \"test(M7-7): DoD 확인용 임시 대상 — 경보 실물 발송 검증 후 즉시 되돌린다\"",
+          "at": "2026-09-07T02:30:52Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/4fe87bafcf9e24e2bf43c182ba4e0ec551049676"
+        },
         {
           "sha": "2aa7440bdba2812abfe2369d2b646bf6c32847fc",
           "message": "test(M7-7): DoD 확인용 임시 대상 — 경보 실물 발송 검증 후 즉시 되돌린다",
@@ -75,23 +81,17 @@
           "message": "ci(M7-7): 경보 발신을 클라우드로 — dry-run 해제",
           "at": "2026-09-07T02:24:43Z",
           "url": "https://github.com/munansa1003/control-tower/commit/078462eed490b0c39fed5de4bba9310c9a26ebd5"
-        },
-        {
-          "sha": "bf66e77fc6f79b4e5fb8d7ecf6b32fceaa65cc5c",
-          "message": "ci(M7-7): 경보 발신을 클라우드로 — dry-run 해제 · NTFY_TOPIC 투입",
-          "at": "2026-09-07T02:20:55Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/bf66e77fc6f79b4e5fb8d7ecf6b32fceaa65cc5c"
         }
       ],
       "ci": {
         "state": "running",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34076484829",
-        "at": "2026-09-07T02:30:01Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34076539956",
+        "at": "2026-09-07T02:30:55Z"
       },
       "deploy": {
         "state": "CANCELED",
-        "at": "2026-09-07T02:30:03.308Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/9LR6bbWJ1Xmhw4UomCYUkC9vuWwL"
+        "at": "2026-09-07T02:30:57.236Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/Anzip75fRk1ytVSxhcH1hjTeTVvY"
       }
     },
     {
@@ -268,21 +268,13 @@
         "at": "2026-08-10T07:30:39.922Z",
         "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/2iuoNWAKrQZWfjpvB1XVasycGG4u"
       }
-    },
-    {
-      "id": "dod-probe",
-      "name": "DoD Probe",
-      "status": "warn",
-      "note": "github 수집 실패",
-      "repoUrl": "https://github.com/munansa1003/this-repo-does-not-exist-dod"
     }
   ],
-  "lastRunAt": "2026-09-07T02:30:28.503Z",
+  "lastRunAt": "2026-09-07T02:31:13.695Z",
   "sources": [
     {
       "source": "github",
-      "ok": false,
-      "error": "1건 실패: github munansa1003/this-repo-does-not-exist-dod: HTTP 404"
+      "ok": true
     },
     {
       "source": "vercel",
@@ -291,7 +283,7 @@
   ],
   "editable": false,
   "metrics": false,
-  "configRev": "2aa7440",
-  "configAt": "2026-09-07T11:29:57+09:00",
+  "configRev": "4fe87ba",
+  "configAt": "2026-09-07T11:30:52+09:00",
   "staleAfterMs": 7500000
 }
