@@ -29,9 +29,21 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록",
+      "note": "오늘 3커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
+        {
+          "sha": "ca8ae862dd51df20b454afc71c4a130e15b01d40",
+          "message": "docs(plan): 3-h 적용 실측 — 고객사 필터 10.2% → 97.4% · 역매핑 보존",
+          "at": "2026-09-07T00:11:20Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/ca8ae862dd51df20b454afc71c4a130e15b01d40"
+        },
+        {
+          "sha": "b8ecde20fe492100b6ddb2250537641306a361da",
+          "message": "docs(order): 주문서 스펙 v2 — 심사 A·B 병합 47건 반영",
+          "at": "2026-09-07T00:05:09Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/b8ecde20fe492100b6ddb2250537641306a361da"
+        },
         {
           "sha": "17eaa170a2fa02f061ef98091098290134432c39",
           "message": "feat(schedule): 3-h 고객사 필터 + 검토표로 119종 전수 판정",
@@ -41,8 +53,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34068348440",
-        "at": "2026-09-06T23:58:22Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34069011452",
+        "at": "2026-09-07T00:11:29Z"
       }
     },
     {
@@ -252,7 +264,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-07T00:05:05.996Z",
+  "lastRunAt": "2026-09-07T01:07:32.016Z",
   "sources": [
     {
       "source": "github",
