@@ -29,29 +29,35 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 9/3 · CI 초록",
+      "note": "오늘 1커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "4ea35ea09f9c5a83eb79001f9ca0e23e1901eab7",
-          "message": "docs(plan): 3-g 첫 주간 동기화 실측 — 운영 528 → 532 · 백로그 3건",
-          "at": "2026-09-03T00:57:16Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/4ea35ea09f9c5a83eb79001f9ca0e23e1901eab7"
+          "sha": "17eaa170a2fa02f061ef98091098290134432c39",
+          "message": "feat(schedule): 3-h 고객사 필터 + 검토표로 119종 전수 판정",
+          "at": "2026-09-06T23:58:02Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/17eaa170a2fa02f061ef98091098290134432c39"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/33701669290",
-        "at": "2026-09-03T00:57:29Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34068348440",
+        "at": "2026-09-06T23:58:22Z"
       }
     },
     {
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 08:15",
+      "note": "오늘 2커밋 · CI 초록 · 배포 정상 08:19",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
+        {
+          "sha": "5e2d209f25476ba94f028669aec0dc233c5a2141",
+          "message": "docs(M7-5): 클라우드 가동 — 첫 수집 성공 · CI 오염 방지 실물 확인",
+          "at": "2026-09-06T23:19:28Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/5e2d209f25476ba94f028669aec0dc233c5a2141"
+        },
         {
           "sha": "86aaf591f95ac888c1ac530d33df0c3aaf911802",
           "message": "ci(M7-5): 클라우드 수집 워크플로 — 매시간 수집 · 데드맨 핑",
@@ -61,13 +67,13 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34066380879",
-        "at": "2026-09-06T23:15:42Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34066564132",
+        "at": "2026-09-06T23:19:32Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-06T23:15:44.052Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/GknYWDL5zLVEWZwH1vcY1ggwar31"
+        "at": "2026-09-06T23:19:34.138Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/6jCnyJ6xXQNZF97NnAypSYUn4ZKL"
       }
     },
     {
@@ -246,7 +252,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-06T23:16:43.179Z",
+  "lastRunAt": "2026-09-07T00:05:05.996Z",
   "sources": [
     {
       "source": "github",
