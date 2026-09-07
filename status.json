@@ -61,9 +61,15 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 16커밋 · CI 초록 · 배포 정상 14:47",
+      "note": "오늘 17커밋 · CI 초록 · 배포 정상 16:13",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
+        {
+          "sha": "dc4823b19e010a8d2ff80be684fc3d079317a760",
+          "message": "ci(M8): 공개 설정 발행 + 편집 큐 적용",
+          "at": "2026-09-07T07:13:02Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/dc4823b19e010a8d2ff80be684fc3d079317a760"
+        },
         {
           "sha": "51afa458c62a64f4a0188692a3769b96988fbff5",
           "message": "docs(M8): 구현 심사 기록 — 고친 6종과 보류한 4종",
@@ -75,23 +81,17 @@
           "message": "fix(M8): 심사가 잡은 고위험 6종 — 편집이 조용히 사라지던 경로들",
           "at": "2026-09-07T05:45:58Z",
           "url": "https://github.com/munansa1003/control-tower/commit/e56fa9c6cb2295c9dce4c16274f471f1458c4e7f"
-        },
-        {
-          "sha": "16f548db604007205e9f3149a3d21d4a66e284fd",
-          "message": "docs(M8): 2~4단계 기록 + 손작업 절차 한 자리로 (SETUP 9절)",
-          "at": "2026-09-07T05:13:39Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/16f548db604007205e9f3149a3d21d4a66e284fd"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34088144538",
-        "at": "2026-09-07T05:47:19Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34094391140",
+        "at": "2026-09-07T07:13:07Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-07T05:47:21.199Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/DhPWnyLSKx1YzPrrr6ZD2ACojNtL"
+        "at": "2026-09-07T07:13:08.652Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/FgCnpZxhhmJLg138TzbA2eC6KJVT"
       }
     },
     {
@@ -159,25 +159,37 @@
       "id": "daniel-tracker",
       "name": "Body Plan",
       "status": "ok",
-      "note": "마지막 커밋 8/11 · CI 초록 · 배포 정상 08:34",
+      "note": "오늘 7커밋 · CI 초록 · 배포 정상 19:14",
       "repoUrl": "https://github.com/munansa1003/daniel-tracker",
       "commits": [
         {
-          "sha": "aca23a2a30df5bb9ca828837d0a8de6c55b0e79f",
-          "message": "Merge pull request #103 from munansa1003/claude/system-audit-2026-08-43ufzv",
-          "at": "2026-08-10T23:34:39Z",
-          "url": "https://github.com/munansa1003/daniel-tracker/commit/aca23a2a30df5bb9ca828837d0a8de6c55b0e79f"
+          "sha": "ea27d00c1d9e6fd9b866729c73e96972336b1044",
+          "message": "Merge pull request #105 from munansa1003/claude/vercel-firebase-migration-design-lvay3m",
+          "at": "2026-09-07T10:13:58Z",
+          "url": "https://github.com/munansa1003/daniel-tracker/commit/ea27d00c1d9e6fd9b866729c73e96972336b1044"
+        },
+        {
+          "sha": "23c13c2ee73fd5750dff77ce42c54ab205c97c13",
+          "message": "docs(migration): 검토 지시 반영 — DR-12 채택·DR-2 실측 결정·DR-15(pinTag) 추가·SA 역할 4종·defineJsonSecret 안·WEB_API_KEY 폴백",
+          "at": "2026-09-07T07:25:16Z",
+          "url": "https://github.com/munansa1003/daniel-tracker/commit/23c13c2ee73fd5750dff77ce42c54ab205c97c13"
+        },
+        {
+          "sha": "8faae2668f477d589ed253988288262fe0c320fd",
+          "message": "test(bulk-delete-ui): 날짜 의존 제거 — 시계를 픽스처 안(2026-08-10)으로 고정 + alert 모킹",
+          "at": "2026-09-07T07:22:36Z",
+          "url": "https://github.com/munansa1003/daniel-tracker/commit/8faae2668f477d589ed253988288262fe0c320fd"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/31442872932",
-        "at": "2026-08-10T23:34:41Z"
+        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/34110365202",
+        "at": "2026-09-07T10:14:01Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-08-10T23:34:42.250Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-tracker/EusSTTRUW3N7dbPjqJogJpabHTgF"
+        "at": "2026-09-07T10:14:01.804Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-tracker/9Pw4zQLXSnfrQBxmxM8JELxVYirs"
       }
     },
     {
@@ -270,7 +282,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-07T06:09:30.610Z",
+  "lastRunAt": "2026-09-07T12:43:18.810Z",
   "sources": [
     {
       "source": "github",

@@ -1,0 +1,67 @@
+{
+  "version": "sha256:93a8b8d93f218ddd",
+  "rev": "4fe87ba",
+  "projects": [
+    {
+      "id": "dyp-proto-team",
+      "name": "Proto Team",
+      "repo": "munansa1003/DYP_Proto_Team"
+    },
+    {
+      "id": "piston-issues",
+      "name": "Piston Issues",
+      "repo": "munansa1003/piston-issues"
+    },
+    {
+      "id": "control-tower",
+      "name": "Control Tower",
+      "repo": "munansa1003/control-tower"
+    },
+    {
+      "id": "estate-ledger",
+      "name": "Estate Ledger",
+      "repo": "munansa1003/estate-ledger"
+    },
+    {
+      "id": "us-value-lab",
+      "name": "US Value Lab",
+      "repo": "munansa1003/us-value-lab"
+    },
+    {
+      "id": "weekly-reports",
+      "name": "Weekly Reports",
+      "repo": "munansa1003/weekly-reports"
+    },
+    {
+      "id": "daniel-tracker",
+      "name": "Body Plan",
+      "repo": "munansa1003/daniel-tracker"
+    },
+    {
+      "id": "jump-quiz-island",
+      "name": "Jump Quiz",
+      "repo": "munansa1003/jump-quiz-island"
+    },
+    {
+      "id": "jaegyeong-study",
+      "name": "Jaegyeong Study",
+      "repo": "munansa1003/jaegyeong-study"
+    },
+    {
+      "id": "jjj-family-acb",
+      "name": "JJJ ACB",
+      "repo": "munansa1003/jjj-family-ACB"
+    },
+    {
+      "id": "daniel-daily-news",
+      "name": "Daily News",
+      "repo": "munansa1003/Daniel-daily-news"
+    },
+    {
+      "id": "ghost-house",
+      "name": "Ghost House",
+      "repo": "munansa1003/ghost-house",
+      "retired": "2026-09-01T23:40:50.067Z"
+    }
+  ]
+}
