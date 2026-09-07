@@ -29,69 +29,69 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 4커밋 · CI 진행 중",
+      "note": "오늘 12커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "556114827223b322f8af4b653b9810af58bc14d2",
-          "message": "feat(schedule): 새 건에서 품목을 만들고 **고객사를 그 자리에서 붙인다**",
-          "at": "2026-09-07T02:28:20Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/556114827223b322f8af4b653b9810af58bc14d2"
+          "sha": "a574708986e83f87131423e158918c7e1f55ddd2",
+          "message": "feat(schedule): 납기를 고칠 수 있게 — 새 칸에 담고 **원문은 안 건드린다** (세대 9)",
+          "at": "2026-09-07T05:47:28Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/a574708986e83f87131423e158918c7e1f55ddd2"
         },
         {
-          "sha": "ca8ae862dd51df20b454afc71c4a130e15b01d40",
-          "message": "docs(plan): 3-h 적용 실측 — 고객사 필터 10.2% → 97.4% · 역매핑 보존",
-          "at": "2026-09-07T00:11:20Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/ca8ae862dd51df20b454afc71c4a130e15b01d40"
+          "sha": "02b22c84e2215ff3097ce82e5ae6c755374c6f24",
+          "message": "feat(schedule): 짝 주조를 **전 기간에서 검색해** 고른다 · 휴무는 서버가 막는다",
+          "at": "2026-09-07T05:31:35Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/02b22c84e2215ff3097ce82e5ae6c755374c6f24"
         },
         {
-          "sha": "b8ecde20fe492100b6ddb2250537641306a361da",
-          "message": "docs(order): 주문서 스펙 v2 — 심사 A·B 병합 47건 반영",
-          "at": "2026-09-07T00:05:09Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/b8ecde20fe492100b6ddb2250537641306a361da"
+          "sha": "263d8673f2abe6ec9677aee55f7d79995907cf57",
+          "message": "feat(schedule): 달력의 「신규」 표식을 **뺀다** — 전제가 만료되는 표식이었다",
+          "at": "2026-09-07T05:21:20Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/263d8673f2abe6ec9677aee55f7d79995907cf57"
         }
       ],
       "ci": {
-        "state": "running",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34076403770",
-        "at": "2026-09-07T02:28:29Z"
+        "state": "success",
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34088166453",
+        "at": "2026-09-07T05:47:38Z"
       }
     },
     {
       "id": "control-tower",
       "name": "Control Tower",
-      "status": "warn",
-      "note": "오늘 6커밋 · CI 진행 중 · 배포 취소됨",
+      "status": "ok",
+      "note": "오늘 16커밋 · CI 초록 · 배포 정상 14:47",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
-          "sha": "4fe87bafcf9e24e2bf43c182ba4e0ec551049676",
-          "message": "Revert \"test(M7-7): DoD 확인용 임시 대상 — 경보 실물 발송 검증 후 즉시 되돌린다\"",
-          "at": "2026-09-07T02:30:52Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/4fe87bafcf9e24e2bf43c182ba4e0ec551049676"
+          "sha": "51afa458c62a64f4a0188692a3769b96988fbff5",
+          "message": "docs(M8): 구현 심사 기록 — 고친 6종과 보류한 4종",
+          "at": "2026-09-07T05:47:15Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/51afa458c62a64f4a0188692a3769b96988fbff5"
         },
         {
-          "sha": "2aa7440bdba2812abfe2369d2b646bf6c32847fc",
-          "message": "test(M7-7): DoD 확인용 임시 대상 — 경보 실물 발송 검증 후 즉시 되돌린다",
-          "at": "2026-09-07T02:29:57Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/2aa7440bdba2812abfe2369d2b646bf6c32847fc"
+          "sha": "e56fa9c6cb2295c9dce4c16274f471f1458c4e7f",
+          "message": "fix(M8): 심사가 잡은 고위험 6종 — 편집이 조용히 사라지던 경로들",
+          "at": "2026-09-07T05:45:58Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/e56fa9c6cb2295c9dce4c16274f471f1458c4e7f"
         },
         {
-          "sha": "078462eed490b0c39fed5de4bba9310c9a26ebd5",
-          "message": "ci(M7-7): 경보 발신을 클라우드로 — dry-run 해제",
-          "at": "2026-09-07T02:24:43Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/078462eed490b0c39fed5de4bba9310c9a26ebd5"
+          "sha": "16f548db604007205e9f3149a3d21d4a66e284fd",
+          "message": "docs(M8): 2~4단계 기록 + 손작업 절차 한 자리로 (SETUP 9절)",
+          "at": "2026-09-07T05:13:39Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/16f548db604007205e9f3149a3d21d4a66e284fd"
         }
       ],
       "ci": {
-        "state": "running",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34076539956",
-        "at": "2026-09-07T02:30:55Z"
+        "state": "success",
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34088144538",
+        "at": "2026-09-07T05:47:19Z"
       },
       "deploy": {
-        "state": "CANCELED",
-        "at": "2026-09-07T02:30:57.236Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/Anzip75fRk1ytVSxhcH1hjTeTVvY"
+        "state": "READY",
+        "at": "2026-09-07T05:47:21.199Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/DhPWnyLSKx1YzPrrr6ZD2ACojNtL"
       }
     },
     {
@@ -225,25 +225,25 @@
       "id": "jjj-family-acb",
       "name": "JJJ ACB",
       "status": "ok",
-      "note": "마지막 커밋 8/30 · CI 초록 · 배포 정상 14:07",
+      "note": "오늘 1커밋 · CI 초록 · 배포 정상 15:07",
       "repoUrl": "https://github.com/munansa1003/jjj-family-ACB",
       "commits": [
         {
-          "sha": "0724bfbe922b81f29d588b1bceb245acdec78e43",
-          "message": "feat: 단건 재분류(overrides) · 진행월 스냅샷 갱신 · 예산 중앙값",
-          "at": "2026-08-30T04:54:49Z",
-          "url": "https://github.com/munansa1003/jjj-family-ACB/commit/0724bfbe922b81f29d588b1bceb245acdec78e43"
+          "sha": "43476512ab9babb7967c6d6de261d4414fe28d1b",
+          "message": "chore(data): 2026-08 마감 정본화 + 2026-09 반영(어제까지) · import --until",
+          "at": "2026-09-07T06:07:15Z",
+          "url": "https://github.com/munansa1003/jjj-family-ACB/commit/43476512ab9babb7967c6d6de261d4414fe28d1b"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/jjj-family-ACB/actions/runs/33293991806",
-        "at": "2026-08-30T05:07:27Z"
+        "url": "https://github.com/munansa1003/jjj-family-ACB/actions/runs/34089441412",
+        "at": "2026-09-07T06:07:24Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-08-30T05:07:28.931Z",
-        "url": "https://vercel.com/munansa-2761s-projects/jjj-family-acb/7pAYNHdeVguVcSnmU3bruCcf1a5e"
+        "at": "2026-09-07T06:07:25.932Z",
+        "url": "https://vercel.com/munansa-2761s-projects/jjj-family-acb/65ZgG2DqW2n7VbwQYBp6en47PfbJ"
       }
     },
     {
@@ -270,7 +270,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-07T02:31:13.695Z",
+  "lastRunAt": "2026-09-07T06:09:30.610Z",
   "sources": [
     {
       "source": "github",
