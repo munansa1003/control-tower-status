@@ -1,7 +1,7 @@
 {
   "version": 1,
   "ci": {
-    "control-tower": "success",
+    "control-tower": "running",
     "daniel-daily-news": "none",
     "daniel-tracker": "success",
     "dyp-proto-team": "success",
@@ -14,7 +14,7 @@
     "weekly-reports": "none"
   },
   "deploy": {
-    "control-tower": "READY",
+    "control-tower": "CANCELED",
     "daniel-daily-news": "READY",
     "daniel-tracker": "READY",
     "dyp-proto-team": "READY",
@@ -23,8 +23,10 @@
     "us-value-lab": "READY"
   },
   "sourceFailStreak": {
-    "github": 2,
+    "github": 3,
     "vercel": 0
   },
-  "lastSentAt": {}
+  "lastSentAt": {
+    "source-failing:github": 1788748228505
+  }
 }
