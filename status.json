@@ -29,9 +29,15 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 3커밋 · CI 초록",
+      "note": "오늘 4커밋 · CI 진행 중",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
+        {
+          "sha": "556114827223b322f8af4b653b9810af58bc14d2",
+          "message": "feat(schedule): 새 건에서 품목을 만들고 **고객사를 그 자리에서 붙인다**",
+          "at": "2026-09-07T02:28:20Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/556114827223b322f8af4b653b9810af58bc14d2"
+        },
         {
           "sha": "ca8ae862dd51df20b454afc71c4a130e15b01d40",
           "message": "docs(plan): 3-h 적용 실측 — 고객사 필터 10.2% → 97.4% · 역매핑 보존",
@@ -43,49 +49,49 @@
           "message": "docs(order): 주문서 스펙 v2 — 심사 A·B 병합 47건 반영",
           "at": "2026-09-07T00:05:09Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/b8ecde20fe492100b6ddb2250537641306a361da"
-        },
-        {
-          "sha": "17eaa170a2fa02f061ef98091098290134432c39",
-          "message": "feat(schedule): 3-h 고객사 필터 + 검토표로 119종 전수 판정",
-          "at": "2026-09-06T23:58:02Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/17eaa170a2fa02f061ef98091098290134432c39"
         }
       ],
       "ci": {
-        "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34069011452",
-        "at": "2026-09-07T00:11:29Z"
+        "state": "running",
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34076403770",
+        "at": "2026-09-07T02:28:29Z"
       }
     },
     {
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록 · 배포 정상 08:19",
+      "note": "오늘 4커밋 · CI 초록 · 배포 정상 11:24",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
+        {
+          "sha": "078462eed490b0c39fed5de4bba9310c9a26ebd5",
+          "message": "ci(M7-7): 경보 발신을 클라우드로 — dry-run 해제",
+          "at": "2026-09-07T02:24:43Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/078462eed490b0c39fed5de4bba9310c9a26ebd5"
+        },
+        {
+          "sha": "bf66e77fc6f79b4e5fb8d7ecf6b32fceaa65cc5c",
+          "message": "ci(M7-7): 경보 발신을 클라우드로 — dry-run 해제 · NTFY_TOPIC 투입",
+          "at": "2026-09-07T02:20:55Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/bf66e77fc6f79b4e5fb8d7ecf6b32fceaa65cc5c"
+        },
         {
           "sha": "5e2d209f25476ba94f028669aec0dc233c5a2141",
           "message": "docs(M7-5): 클라우드 가동 — 첫 수집 성공 · CI 오염 방지 실물 확인",
           "at": "2026-09-06T23:19:28Z",
           "url": "https://github.com/munansa1003/control-tower/commit/5e2d209f25476ba94f028669aec0dc233c5a2141"
-        },
-        {
-          "sha": "86aaf591f95ac888c1ac530d33df0c3aaf911802",
-          "message": "ci(M7-5): 클라우드 수집 워크플로 — 매시간 수집 · 데드맨 핑",
-          "at": "2026-09-06T23:15:35Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/86aaf591f95ac888c1ac530d33df0c3aaf911802"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34066564132",
-        "at": "2026-09-06T23:19:32Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34076197295",
+        "at": "2026-09-07T02:24:47Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-06T23:19:34.138Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/6jCnyJ6xXQNZF97NnAypSYUn4ZKL"
+        "at": "2026-09-07T02:24:48.796Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/HPbMJ67aMXUFWNYFmouBBWGSk4q3"
       }
     },
     {
@@ -264,7 +270,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-07T01:07:32.016Z",
+  "lastRunAt": "2026-09-07T02:29:22.017Z",
   "sources": [
     {
       "source": "github",
