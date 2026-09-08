@@ -29,39 +29,27 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 22커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "ad7c46b6d499e125fc97b94ab27a8f7f3b0eb5ba",
-          "message": "fix(test): 돌연변이 둘이 더 살아남았다 — **2겹에 가려진 자리**와 **한 번도 안 불린 가지**",
-          "at": "2026-09-08T05:35:18Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/ad7c46b6d499e125fc97b94ab27a8f7f3b0eb5ba"
-        },
-        {
-          "sha": "6149647a807ea2d0f1c83a7f7555586e2fe11a61",
-          "message": "fix(test): 휴지통 건 검사가 **엉뚱한 이유로 통과**하고 있었다 — 돌연변이 ⑮ 가 잡았다",
-          "at": "2026-09-08T05:32:32Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/6149647a807ea2d0f1c83a7f7555586e2fe11a61"
-        },
-        {
-          "sha": "c03d13068cbb34a0022ea2af216f5d15c432fcc2",
-          "message": "fix(test): 돌연변이가 **무효 단언**을 잡았다 — `textContent` 는 감춰도 글자를 낸다",
-          "at": "2026-09-08T05:29:50Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/c03d13068cbb34a0022ea2af216f5d15c432fcc2"
+          "sha": "28b9bfacf89560c1286c963fa34c41a89d26b351",
+          "message": "docs: CI 결과를 M2.1 기록에 적고, 돌연변이 하네스 구멍을 백로그에 남긴다",
+          "at": "2026-09-08T12:38:28Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/28b9bfacf89560c1286c963fa34c41a89d26b351"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34191304172",
-        "at": "2026-09-08T05:37:02Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34227232558",
+        "at": "2026-09-08T12:38:36Z"
       }
     },
     {
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 16:13",
+      "note": "마지막 커밋 9/7 · CI 초록 · 배포 정상 16:13",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
@@ -147,7 +135,7 @@
       "id": "daniel-tracker",
       "name": "Body Plan",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 19:14",
+      "note": "마지막 커밋 9/7 · CI 초록 · 배포 정상 19:14",
       "repoUrl": "https://github.com/munansa1003/daniel-tracker",
       "commits": [
         {
@@ -213,7 +201,7 @@
       "id": "jjj-family-acb",
       "name": "JJJ ACB",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 15:07",
+      "note": "마지막 커밋 9/7 · CI 초록 · 배포 정상 15:07",
       "repoUrl": "https://github.com/munansa1003/jjj-family-ACB",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-08T11:26:14.488Z",
+  "lastRunAt": "2026-09-08T16:42:30.253Z",
   "sources": [
     {
       "source": "github",
