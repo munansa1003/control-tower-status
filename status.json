@@ -29,32 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 4커밋 · CI 초록",
+      "note": "오늘 22커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "3aa9722942cac605fa6b2067f30263f077846f61",
-          "message": "feat(schedule): 납기에 `ASAP` · **진짜 날짜 검증** · 동기화가 미지정 품목을 말한다",
-          "at": "2026-09-08T00:09:55Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/3aa9722942cac605fa6b2067f30263f077846f61"
+          "sha": "ad7c46b6d499e125fc97b94ab27a8f7f3b0eb5ba",
+          "message": "fix(test): 돌연변이 둘이 더 살아남았다 — **2겹에 가려진 자리**와 **한 번도 안 불린 가지**",
+          "at": "2026-09-08T05:35:18Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/ad7c46b6d499e125fc97b94ab27a8f7f3b0eb5ba"
         },
         {
-          "sha": "1e85b479fa3b191bb9e63901336cc82b5ad90a7d",
-          "message": "docs(deploy): `6f44404` 배포 완료 — 세대 9→10 · 실측 11/11",
-          "at": "2026-09-07T23:55:15Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/1e85b479fa3b191bb9e63901336cc82b5ad90a7d"
+          "sha": "6149647a807ea2d0f1c83a7f7555586e2fe11a61",
+          "message": "fix(test): 휴지통 건 검사가 **엉뚱한 이유로 통과**하고 있었다 — 돌연변이 ⑮ 가 잡았다",
+          "at": "2026-09-08T05:32:32Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/6149647a807ea2d0f1c83a7f7555586e2fe11a61"
         },
         {
-          "sha": "6f44404964aed0156698335b3254748bc4fcc5bc",
-          "message": "docs(deploy): 배포 기록 — 오래된 것이 위로, M0 셋 줄을 배포 직전 초안으로",
-          "at": "2026-09-07T23:43:15Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/6f44404964aed0156698335b3254748bc4fcc5bc"
+          "sha": "c03d13068cbb34a0022ea2af216f5d15c432fcc2",
+          "message": "fix(test): 돌연변이가 **무효 단언**을 잡았다 — `textContent` 는 감춰도 글자를 낸다",
+          "at": "2026-09-08T05:29:50Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/c03d13068cbb34a0022ea2af216f5d15c432fcc2"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34172433363",
-        "at": "2026-09-08T00:10:03Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34191304172",
+        "at": "2026-09-08T05:37:02Z"
       }
     },
     {
@@ -258,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-08T00:28:02.269Z",
+  "lastRunAt": "2026-09-08T06:00:52.707Z",
   "sources": [
     {
       "source": "github",
