@@ -29,20 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 4커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "a574708986e83f87131423e158918c7e1f55ddd2",
-          "message": "feat(schedule): 납기를 고칠 수 있게 — 새 칸에 담고 **원문은 안 건드린다** (세대 9)",
-          "at": "2026-09-07T05:47:28Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/a574708986e83f87131423e158918c7e1f55ddd2"
+          "sha": "3aa9722942cac605fa6b2067f30263f077846f61",
+          "message": "feat(schedule): 납기에 `ASAP` · **진짜 날짜 검증** · 동기화가 미지정 품목을 말한다",
+          "at": "2026-09-08T00:09:55Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/3aa9722942cac605fa6b2067f30263f077846f61"
+        },
+        {
+          "sha": "1e85b479fa3b191bb9e63901336cc82b5ad90a7d",
+          "message": "docs(deploy): `6f44404` 배포 완료 — 세대 9→10 · 실측 11/11",
+          "at": "2026-09-07T23:55:15Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/1e85b479fa3b191bb9e63901336cc82b5ad90a7d"
+        },
+        {
+          "sha": "6f44404964aed0156698335b3254748bc4fcc5bc",
+          "message": "docs(deploy): 배포 기록 — 오래된 것이 위로, M0 셋 줄을 배포 직전 초안으로",
+          "at": "2026-09-07T23:43:15Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/6f44404964aed0156698335b3254748bc4fcc5bc"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34088166453",
-        "at": "2026-09-07T05:47:38Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34172433363",
+        "at": "2026-09-08T00:10:03Z"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-07T21:36:30.235Z",
+  "lastRunAt": "2026-09-08T00:28:02.269Z",
   "sources": [
     {
       "source": "github",
