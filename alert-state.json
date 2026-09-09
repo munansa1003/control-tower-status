@@ -9,7 +9,7 @@
     "jaegyeong-study": "none",
     "jjj-family-acb": "success",
     "jump-quiz-island": "none",
-    "piston-issues": "success",
+    "piston-issues": "failure",
     "us-value-lab": "success",
     "weekly-reports": "none"
   },
@@ -27,6 +27,7 @@
     "vercel": 0
   },
   "lastSentAt": {
+    "ci-red:piston-issues": 1788953505659,
     "source-failing:github": 1788748228505
   }
 }
