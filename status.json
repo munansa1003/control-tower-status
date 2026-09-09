@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "down",
-      "note": "오늘 15커밋 · CI 실패",
+      "note": "마지막 커밋 어제 · CI 실패",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "fix(mutate): L⑥ 을 실제로 판정하는 자리로 재조준한다",
           "at": "2026-09-09T07:55:12Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/b3f181679c4ce519a2c3f35a79c5bd701e809a22"
-        },
-        {
-          "sha": "883db03f206a3c437b384bf71b2b361111ca2502",
-          "message": "fix(mutate): 3-l 변이의 낡은·CRLF 취약 앵커를 고친다",
-          "at": "2026-09-09T07:53:24Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/883db03f206a3c437b384bf71b2b361111ca2502"
-        },
-        {
-          "sha": "bd29df7da4dc9f3c3f29ebd1b904b5fd067763f9",
-          "message": "feat(schedule): Alt 로 끌어 복제 · 고른 뒤 Del 로 휴지통 (3-l)",
-          "at": "2026-09-09T07:50:50Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/bd29df7da4dc9f3c3f29ebd1b904b5fd067763f9"
         }
       ],
       "ci": {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-09T11:31:45.657Z",
+  "lastRunAt": "2026-09-09T16:43:45.702Z",
   "sources": [
     {
       "source": "github",
