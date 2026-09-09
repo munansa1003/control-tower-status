@@ -29,32 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 9커밋 · CI 초록",
+      "note": "오늘 11커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
+        {
+          "sha": "ed67a5f17dc31eab61e8fc47d20cd60e702c3557",
+          "message": "docs(deploy): `b61877a` 배포 기록 — 세대 11→12 · 표 재작성 · 실측 12/12",
+          "at": "2026-09-09T03:00:01Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/ed67a5f17dc31eab61e8fc47d20cd60e702c3557"
+        },
+        {
+          "sha": "b61877a50ffa5bfffe6ac37dee96a97fc9610b06",
+          "message": "chore: 탐침 폴더(.probe/)를 무시한다 — 배포를 막고 있었다",
+          "at": "2026-09-09T01:26:49Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/b61877a50ffa5bfffe6ac37dee96a97fc9610b06"
+        },
         {
           "sha": "f474ecf86256dbe80bdb87cde4bb39380900a234",
           "message": "docs(order): M3 진행 기록 — 보류 넷 · 새 발견 다섯 · M6 확인 목록 +5 · M5 목록",
           "at": "2026-09-09T00:31:19Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/f474ecf86256dbe80bdb87cde4bb39380900a234"
-        },
-        {
-          "sha": "f58b995f77161a0d2b7190a0b90703465fabf009",
-          "message": "test(order): M3 화면·서버 검사 — App 배선을 덮고 돌연변이 13종",
-          "at": "2026-09-09T00:23:42Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/f58b995f77161a0d2b7190a0b90703465fabf009"
-        },
-        {
-          "sha": "e17a7b5a7386de3fce3700ff201845b411832542",
-          "message": "test(schedule): 왼쪽 끝 붙이기를 **화면에서도** 잰다 — 돌연변이 J① 이 약했다",
-          "at": "2026-09-09T00:23:02Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/e17a7b5a7386de3fce3700ff201845b411832542"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34295381917",
-        "at": "2026-09-09T00:31:32Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34305405254",
+        "at": "2026-09-09T03:00:09Z"
       }
     },
     {
@@ -258,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-09T01:16:46.263Z",
+  "lastRunAt": "2026-09-09T06:06:06.682Z",
   "sources": [
     {
       "source": "github",
