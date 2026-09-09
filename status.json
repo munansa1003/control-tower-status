@@ -29,20 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 9커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "28b9bfacf89560c1286c963fa34c41a89d26b351",
-          "message": "docs: CI 결과를 M2.1 기록에 적고, 돌연변이 하네스 구멍을 백로그에 남긴다",
-          "at": "2026-09-08T12:38:28Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/28b9bfacf89560c1286c963fa34c41a89d26b351"
+          "sha": "f474ecf86256dbe80bdb87cde4bb39380900a234",
+          "message": "docs(order): M3 진행 기록 — 보류 넷 · 새 발견 다섯 · M6 확인 목록 +5 · M5 목록",
+          "at": "2026-09-09T00:31:19Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/f474ecf86256dbe80bdb87cde4bb39380900a234"
+        },
+        {
+          "sha": "f58b995f77161a0d2b7190a0b90703465fabf009",
+          "message": "test(order): M3 화면·서버 검사 — App 배선을 덮고 돌연변이 13종",
+          "at": "2026-09-09T00:23:42Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/f58b995f77161a0d2b7190a0b90703465fabf009"
+        },
+        {
+          "sha": "e17a7b5a7386de3fce3700ff201845b411832542",
+          "message": "test(schedule): 왼쪽 끝 붙이기를 **화면에서도** 잰다 — 돌연변이 J① 이 약했다",
+          "at": "2026-09-09T00:23:02Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/e17a7b5a7386de3fce3700ff201845b411832542"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34227232558",
-        "at": "2026-09-08T12:38:36Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34295381917",
+        "at": "2026-09-09T00:31:32Z"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-08T22:44:12.321Z",
+  "lastRunAt": "2026-09-09T01:16:46.263Z",
   "sources": [
     {
       "source": "github",
