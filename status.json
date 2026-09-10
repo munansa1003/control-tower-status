@@ -28,21 +28,21 @@
     {
       "id": "piston-issues",
       "name": "Piston Issues",
-      "status": "down",
-      "note": "마지막 커밋 어제 · CI 실패",
+      "status": "ok",
+      "note": "오늘 1커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "b3f181679c4ce519a2c3f35a79c5bd701e809a22",
-          "message": "fix(mutate): L⑥ 을 실제로 판정하는 자리로 재조준한다",
-          "at": "2026-09-09T07:55:12Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/b3f181679c4ce519a2c3f35a79c5bd701e809a22"
+          "sha": "dbda5edce23d5f5243887f944a5c8de871c97953",
+          "message": "docs(deploy): `b3f1816` 배포 기록 — 축 14/14 · 마이그레이션 없음 · 세대 12 유지",
+          "at": "2026-09-10T00:52:58Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/dbda5edce23d5f5243887f944a5c8de871c97953"
         }
       ],
       "ci": {
-        "state": "failure",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34326636647",
-        "at": "2026-09-09T07:58:53Z"
+        "state": "success",
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34423177753",
+        "at": "2026-09-10T00:53:12Z"
       }
     },
     {
@@ -117,14 +117,14 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 9/3",
+      "note": "오늘 1커밋",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
-          "sha": "4f5449d3c2856b46d0deaae3a751e092cab9da4d",
-          "message": "docs: 주간 개발 리포트 2026-09-03",
-          "at": "2026-09-02T23:13:56Z",
-          "url": "https://github.com/munansa1003/weekly-reports/commit/4f5449d3c2856b46d0deaae3a751e092cab9da4d"
+          "sha": "02f0af95a735f9f5747b6337755b94b10eb7b189",
+          "message": "docs: 주간 개발 리포트 2026-09-10",
+          "at": "2026-09-09T23:13:08Z",
+          "url": "https://github.com/munansa1003/weekly-reports/commit/02f0af95a735f9f5747b6337755b94b10eb7b189"
         }
       ],
       "ci": {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-09T22:36:21.962Z",
+  "lastRunAt": "2026-09-10T01:08:34.830Z",
   "sources": [
     {
       "source": "github",
