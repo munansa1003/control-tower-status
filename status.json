@@ -49,25 +49,37 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "마지막 커밋 9/7 · CI 초록 · 배포 정상 16:13",
+      "note": "오늘 8커밋 · CI 초록 · 배포 정상 16:49",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
-          "sha": "dc4823b19e010a8d2ff80be684fc3d079317a760",
-          "message": "ci(M8): 공개 설정 발행 + 편집 큐 적용",
-          "at": "2026-09-07T07:13:02Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/dc4823b19e010a8d2ff80be684fc3d079317a760"
+          "sha": "8a7b3c6c6d7b931ac7043454424b4dd821b898a3",
+          "message": "feat(M8-7): 최근 결과 — 거부만 배너로, 나머지는 톱니 안으로",
+          "at": "2026-09-10T07:49:03Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/8a7b3c6c6d7b931ac7043454424b4dd821b898a3"
+        },
+        {
+          "sha": "408fed60403fb7d93e953ae39527e4ab94101e01",
+          "message": "feat(M8-6c): 회사 PC 에서 고친다 — 로그인 버튼 · 반영 대기 · 거부 배너",
+          "at": "2026-09-10T07:44:24Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/408fed60403fb7d93e953ae39527e4ab94101e01"
+        },
+        {
+          "sha": "5848f71689b8b30479930754ba76d60d57d587c6",
+          "message": "feat(M8-6b): PATCH 는 202 를 낸다 — 편집을 서명해 공개 큐에 놓는다",
+          "at": "2026-09-10T07:28:45Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/5848f71689b8b30479930754ba76d60d57d587c6"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34094391140",
-        "at": "2026-09-07T07:13:07Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34451878978",
+        "at": "2026-09-10T07:49:07Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-07T07:13:08.652Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/FgCnpZxhhmJLg138TzbA2eC6KJVT"
+        "at": "2026-09-10T07:49:09.109Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/2bPbqGA8VHstnKrKngAJnxsZTi1e"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-10T06:02:26.119Z",
+  "lastRunAt": "2026-09-10T11:28:15.530Z",
   "sources": [
     {
       "source": "github",
