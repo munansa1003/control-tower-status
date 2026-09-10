@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -49,7 +49,7 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 8커밋 · CI 초록 · 배포 정상 16:49",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 16:49",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
@@ -57,18 +57,6 @@
           "message": "feat(M8-7): 최근 결과 — 거부만 배너로, 나머지는 톱니 안으로",
           "at": "2026-09-10T07:49:03Z",
           "url": "https://github.com/munansa1003/control-tower/commit/8a7b3c6c6d7b931ac7043454424b4dd821b898a3"
-        },
-        {
-          "sha": "408fed60403fb7d93e953ae39527e4ab94101e01",
-          "message": "feat(M8-6c): 회사 PC 에서 고친다 — 로그인 버튼 · 반영 대기 · 거부 배너",
-          "at": "2026-09-10T07:44:24Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/408fed60403fb7d93e953ae39527e4ab94101e01"
-        },
-        {
-          "sha": "5848f71689b8b30479930754ba76d60d57d587c6",
-          "message": "feat(M8-6b): PATCH 는 202 를 낸다 — 편집을 서명해 공개 큐에 놓는다",
-          "at": "2026-09-10T07:28:45Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/5848f71689b8b30479930754ba76d60d57d587c6"
         }
       ],
       "ci": {
@@ -129,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-10T11:28:15.530Z",
+  "lastRunAt": "2026-09-10T16:29:32.564Z",
   "sources": [
     {
       "source": "github",
