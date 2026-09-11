@@ -29,45 +29,63 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 2커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "dbda5edce23d5f5243887f944a5c8de871c97953",
-          "message": "docs(deploy): `b3f1816` 배포 기록 — 축 14/14 · 마이그레이션 없음 · 세대 12 유지",
-          "at": "2026-09-10T00:52:58Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/dbda5edce23d5f5243887f944a5c8de871c97953"
+          "sha": "d5cef772fe51f00e1ba56ff34c84377174d004ac",
+          "message": "docs(plan): 엑셀과 웹은 따로 관리한다 — 동기화는 부를 때만 (2026-09-10 결정)",
+          "at": "2026-09-11T00:04:55Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/d5cef772fe51f00e1ba56ff34c84377174d004ac"
+        },
+        {
+          "sha": "6802932f9d31fa07cb6a49e97a810775b6212e91",
+          "message": "fix(schedule): 휴지통에 든 건이 **날짜를 붙잡고 있던 것**을 푼다 (세대 13)",
+          "at": "2026-09-11T00:04:42Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/6802932f9d31fa07cb6a49e97a810775b6212e91"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34423177753",
-        "at": "2026-09-10T00:53:12Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34545033674",
+        "at": "2026-09-11T00:06:08Z"
       }
     },
     {
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 16:49",
+      "note": "오늘 3커밋 · CI 초록 · 배포 정상 09:39",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
-          "sha": "8a7b3c6c6d7b931ac7043454424b4dd821b898a3",
-          "message": "feat(M8-7): 최근 결과 — 거부만 배너로, 나머지는 톱니 안으로",
-          "at": "2026-09-10T07:49:03Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/8a7b3c6c6d7b931ac7043454424b4dd821b898a3"
+          "sha": "e6202c7ef54571d9dff5eb67ddbe067a2ceddeaa",
+          "message": "queue: 이름 Jump Quiz→Jump Quiz.",
+          "at": "2026-09-11T00:48:29Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/e6202c7ef54571d9dff5eb67ddbe067a2ceddeaa"
+        },
+        {
+          "sha": "df426a26973b15fbda25b29314bd4b367fc58d5a",
+          "message": "fix(M8): 큐에 쓴 직후 되읽기가 HTTP 캐시에 막히던 것 — 첫 실사용이 잡은 오경보",
+          "at": "2026-09-11T00:39:21Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/df426a26973b15fbda25b29314bd4b367fc58d5a"
+        },
+        {
+          "sha": "5189f8f584da8b414dc70f0deaff5cebc00d2494",
+          "message": "feat(ui): 카드 패널 헤더 한 줄 압축 — 이니셜 원 + 출처 알약",
+          "at": "2026-09-11T00:22:19Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/5189f8f584da8b414dc70f0deaff5cebc00d2494"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34451878978",
-        "at": "2026-09-10T07:49:07Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34547422050",
+        "at": "2026-09-11T00:39:32Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-10T07:49:09.109Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/2bPbqGA8VHstnKrKngAJnxsZTi1e"
+        "at": "2026-09-11T00:39:29.995Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/3LvRS8G1mT1PQBLsADd7a9RiFpUD"
       }
     },
     {
@@ -158,7 +176,7 @@
     },
     {
       "id": "jump-quiz-island",
-      "name": "Jump Quiz",
+      "name": "Jump Quiz.",
       "status": "ok",
       "note": "마지막 커밋 7/25",
       "repoUrl": "https://github.com/munansa1003/jump-quiz-island",
@@ -246,7 +264,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-10T22:39:01.834Z",
+  "lastRunAt": "2026-09-11T00:48:32.492Z",
   "sources": [
     {
       "source": "github",
@@ -259,7 +277,7 @@
   ],
   "editable": false,
   "metrics": false,
-  "configRev": "4fe87ba",
-  "configAt": "2026-09-07T11:30:52+09:00",
+  "configRev": "e6202c7",
+  "configAt": "2026-09-11T00:48:29Z",
   "staleAfterMs": 7500000
 }

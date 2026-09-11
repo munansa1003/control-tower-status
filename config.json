@@ -1,6 +1,6 @@
 {
-  "version": "sha256:93a8b8d93f218ddd",
-  "rev": "4fe87ba",
+  "version": "sha256:0db10f4e072a1f3d",
+  "rev": "e6202c7",
   "projects": [
     {
       "id": "dyp-proto-team",
@@ -39,7 +39,7 @@
     },
     {
       "id": "jump-quiz-island",
-      "name": "Jump Quiz",
+      "name": "Jump Quiz.",
       "repo": "munansa1003/jump-quiz-island"
     },
     {
