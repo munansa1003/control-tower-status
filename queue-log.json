@@ -15,5 +15,13 @@
     "summary": "이름 Jump Quiz!!→Jump Quiz^^",
     "result": "rejected",
     "error": "이름이 그 사이 바뀌었다: jump-quiz-island 는 지금 \"Jump Quiz!!\" 이다"
+  },
+  {
+    "at": "2026-09-11T04:21:05.690Z",
+    "file": "20260911T023723138Z-73cd9afa.json",
+    "by": "munansa1003",
+    "baseVersion": "sha256:700928ce1a32a65f",
+    "summary": "이름 Jump Quiz!!→Jump Quiz",
+    "result": "applied"
   }
 ]

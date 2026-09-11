@@ -60,38 +60,38 @@
     {
       "id": "control-tower",
       "name": "Control Tower",
-      "status": "warn",
-      "note": "오늘 5커밋 · CI 초록 · 배포 취소됨",
+      "status": "ok",
+      "note": "오늘 8커밋 · CI 초록 · 배포 정상 13:12",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
-          "sha": "7875b21829c86b18bb0741822773fd90f72e5da7",
-          "message": "Update collector.config.json",
-          "at": "2026-09-11T02:32:51Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/7875b21829c86b18bb0741822773fd90f72e5da7"
+          "sha": "1deb6d2b143d00a431dd05f8b128ad0357eb45f0",
+          "message": "queue: 이름 Jump Quiz!!→Jump Quiz",
+          "at": "2026-09-11T04:21:05Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/1deb6d2b143d00a431dd05f8b128ad0357eb45f0"
         },
         {
-          "sha": "fd684092dc89ae028920c9f05b7ce3706807411b",
-          "message": "docs(M8): 첫 실사용 기록 — 큐가 처음 돌았고, 그 한 바퀴가 버그를 잡았다",
-          "at": "2026-09-11T00:53:36Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/fd684092dc89ae028920c9f05b7ce3706807411b"
+          "sha": "552bc2c8f873643b74cbc74360d3ed15dbda22f9",
+          "message": "fix(M7/M8): 정지 임계를 파생에서 측정으로 — 4시간 (사용자 결정)",
+          "at": "2026-09-11T04:12:45Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/552bc2c8f873643b74cbc74360d3ed15dbda22f9"
         },
         {
-          "sha": "e6202c7ef54571d9dff5eb67ddbe067a2ceddeaa",
-          "message": "queue: 이름 Jump Quiz→Jump Quiz.",
-          "at": "2026-09-11T00:48:29Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/e6202c7ef54571d9dff5eb67ddbe067a2ceddeaa"
+          "sha": "8b20f5b8cf45c2b98ff0abe188fe1a8952bd8aac",
+          "message": "docs(M8): 마감 — DoD 4종 종결, 품질 성적서에 M8 반영",
+          "at": "2026-09-11T02:36:48Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/8b20f5b8cf45c2b98ff0abe188fe1a8952bd8aac"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34555039449",
-        "at": "2026-09-11T02:32:53Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34561354977",
+        "at": "2026-09-11T04:12:50Z"
       },
       "deploy": {
-        "state": "CANCELED",
-        "at": "2026-09-11T02:32:55.321Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/BvQt4qmKGtc3cwKrEk8tFo7TSeEn"
+        "state": "READY",
+        "at": "2026-09-11T04:12:52.062Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/J1t1G1ZoJopysaXLZ5Bmo62FEXh2"
       }
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "id": "jump-quiz-island",
-      "name": "Jump Quiz!!",
+      "name": "Jump Quiz",
       "status": "ok",
       "note": "마지막 커밋 7/25",
       "repoUrl": "https://github.com/munansa1003/jump-quiz-island",
@@ -270,7 +270,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-11T02:34:48.610Z",
+  "lastRunAt": "2026-09-11T04:21:08.579Z",
   "sources": [
     {
       "source": "github",
@@ -283,7 +283,7 @@
   ],
   "editable": false,
   "metrics": false,
-  "configRev": "7875b21",
-  "configAt": "2026-09-11T11:32:51+09:00",
-  "staleAfterMs": 7500000
+  "configRev": "1deb6d2",
+  "configAt": "2026-09-11T04:21:05Z",
+  "staleAfterMs": 14400000
 }
