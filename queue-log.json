@@ -6,5 +6,14 @@
     "baseVersion": "sha256:93a8b8d93f218ddd",
     "summary": "이름 Jump Quiz→Jump Quiz.",
     "result": "applied"
+  },
+  {
+    "at": "2026-09-11T02:34:46.428Z",
+    "file": "20260911T015115376Z-243962f0.json",
+    "by": "munansa1003",
+    "baseVersion": "sha256:0db10f4e072a1f3d",
+    "summary": "이름 Jump Quiz!!→Jump Quiz^^",
+    "result": "rejected",
+    "error": "이름이 그 사이 바뀌었다: jump-quiz-island 는 지금 \"Jump Quiz!!\" 이다"
   }
 ]

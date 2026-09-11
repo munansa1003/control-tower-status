@@ -14,7 +14,7 @@
     "weekly-reports": "none"
   },
   "deploy": {
-    "control-tower": "READY",
+    "control-tower": "CANCELED",
     "daniel-daily-news": "READY",
     "daniel-tracker": "READY",
     "dyp-proto-team": "READY",
