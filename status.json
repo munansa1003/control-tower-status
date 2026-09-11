@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 5커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(plan): 3-m 기록 — 원문 세부 칸을 열었고, 세대 13 이 안 돌던 것을 고쳤다",
           "at": "2026-09-11T02:14:16Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/471726ae1b6defdbe5d16f7e8513a5d66fe5f9dd"
-        },
-        {
-          "sha": "2182e403d1a22aa669b63fc55dcf8b5adc237ca6",
-          "message": "feat(schedule): 원문 세부 칸을 연다 — 앱에서 고칠 길이 없던 마지막 칸 (3-m)",
-          "at": "2026-09-11T02:09:12Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/2182e403d1a22aa669b63fc55dcf8b5adc237ca6"
-        },
-        {
-          "sha": "89bb1975b27990424194812c1c921baaf3b06fe5",
-          "message": "fix(schedule): 세대 13 이 운영에서 **한 번도 안 돌았다** — 그걸 고친다 (세대 14)",
-          "at": "2026-09-11T00:48:40Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/89bb1975b27990424194812c1c921baaf3b06fe5"
         }
       ],
       "ci": {
@@ -61,7 +49,7 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 12커밋 · CI 초록 · 배포 정상 13:53",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 13:53",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
@@ -69,18 +57,6 @@
           "message": "docs(M7): 데드맨 8-3 종결 — 가짜 DOWN 이 계산에서 관측이 됐다",
           "at": "2026-09-11T04:53:30Z",
           "url": "https://github.com/munansa1003/control-tower/commit/04d6f900411481b24dcac3678695af1592878859"
-        },
-        {
-          "sha": "c4d358b5aa08d7780dfaea222023fcc6b00eea3c",
-          "message": "fix(M8): 부수 파일 격리 + 문서의 M7 전제 정정",
-          "at": "2026-09-11T04:43:07Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/c4d358b5aa08d7780dfaea222023fcc6b00eea3c"
-        },
-        {
-          "sha": "4ad998be024743b859ea85f0a1cb823695f78d55",
-          "message": "docs(M7): 데드맨 체크 존재 확인 — 8-3 두 항목 종결",
-          "at": "2026-09-11T04:40:49Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/4ad998be024743b859ea85f0a1cb823695f78d55"
         }
       ],
       "ci": {
@@ -141,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 9/10",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -270,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-11T11:29:52.839Z",
+  "lastRunAt": "2026-09-11T16:34:05.302Z",
   "sources": [
     {
       "source": "github",
