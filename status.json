@@ -61,37 +61,37 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 8커밋 · CI 초록 · 배포 정상 13:12",
+      "note": "오늘 12커밋 · CI 초록 · 배포 정상 13:53",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
-          "sha": "1deb6d2b143d00a431dd05f8b128ad0357eb45f0",
-          "message": "queue: 이름 Jump Quiz!!→Jump Quiz",
-          "at": "2026-09-11T04:21:05Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/1deb6d2b143d00a431dd05f8b128ad0357eb45f0"
+          "sha": "04d6f900411481b24dcac3678695af1592878859",
+          "message": "docs(M7): 데드맨 8-3 종결 — 가짜 DOWN 이 계산에서 관측이 됐다",
+          "at": "2026-09-11T04:53:30Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/04d6f900411481b24dcac3678695af1592878859"
         },
         {
-          "sha": "552bc2c8f873643b74cbc74360d3ed15dbda22f9",
-          "message": "fix(M7/M8): 정지 임계를 파생에서 측정으로 — 4시간 (사용자 결정)",
-          "at": "2026-09-11T04:12:45Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/552bc2c8f873643b74cbc74360d3ed15dbda22f9"
+          "sha": "c4d358b5aa08d7780dfaea222023fcc6b00eea3c",
+          "message": "fix(M8): 부수 파일 격리 + 문서의 M7 전제 정정",
+          "at": "2026-09-11T04:43:07Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/c4d358b5aa08d7780dfaea222023fcc6b00eea3c"
         },
         {
-          "sha": "8b20f5b8cf45c2b98ff0abe188fe1a8952bd8aac",
-          "message": "docs(M8): 마감 — DoD 4종 종결, 품질 성적서에 M8 반영",
-          "at": "2026-09-11T02:36:48Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/8b20f5b8cf45c2b98ff0abe188fe1a8952bd8aac"
+          "sha": "4ad998be024743b859ea85f0a1cb823695f78d55",
+          "message": "docs(M7): 데드맨 체크 존재 확인 — 8-3 두 항목 종결",
+          "at": "2026-09-11T04:40:49Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/4ad998be024743b859ea85f0a1cb823695f78d55"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34561354977",
-        "at": "2026-09-11T04:12:50Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34563896948",
+        "at": "2026-09-11T04:53:34Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-11T04:12:52.062Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/J1t1G1ZoJopysaXLZ5Bmo62FEXh2"
+        "at": "2026-09-11T04:53:36.277Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/46kJ7K634FTsc6EnV7n3hXGF19vj"
       }
     },
     {
@@ -270,7 +270,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-11T04:21:08.579Z",
+  "lastRunAt": "2026-09-11T06:04:57.034Z",
   "sources": [
     {
       "source": "github",
