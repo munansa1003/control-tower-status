@@ -29,9 +29,15 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록",
+      "note": "오늘 3커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
+        {
+          "sha": "89bb1975b27990424194812c1c921baaf3b06fe5",
+          "message": "fix(schedule): 세대 13 이 운영에서 **한 번도 안 돌았다** — 그걸 고친다 (세대 14)",
+          "at": "2026-09-11T00:48:40Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/89bb1975b27990424194812c1c921baaf3b06fe5"
+        },
         {
           "sha": "d5cef772fe51f00e1ba56ff34c84377174d004ac",
           "message": "docs(plan): 엑셀과 웹은 따로 관리한다 — 동기화는 부를 때만 (2026-09-10 결정)",
@@ -47,17 +53,23 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34545033674",
-        "at": "2026-09-11T00:06:08Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/34548145046",
+        "at": "2026-09-11T00:49:48Z"
       }
     },
     {
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 3커밋 · CI 초록 · 배포 정상 09:39",
+      "note": "오늘 4커밋 · CI 초록 · 배포 정상 09:53",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
+        {
+          "sha": "fd684092dc89ae028920c9f05b7ce3706807411b",
+          "message": "docs(M8): 첫 실사용 기록 — 큐가 처음 돌았고, 그 한 바퀴가 버그를 잡았다",
+          "at": "2026-09-11T00:53:36Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/fd684092dc89ae028920c9f05b7ce3706807411b"
+        },
         {
           "sha": "e6202c7ef54571d9dff5eb67ddbe067a2ceddeaa",
           "message": "queue: 이름 Jump Quiz→Jump Quiz.",
@@ -69,23 +81,17 @@
           "message": "fix(M8): 큐에 쓴 직후 되읽기가 HTTP 캐시에 막히던 것 — 첫 실사용이 잡은 오경보",
           "at": "2026-09-11T00:39:21Z",
           "url": "https://github.com/munansa1003/control-tower/commit/df426a26973b15fbda25b29314bd4b367fc58d5a"
-        },
-        {
-          "sha": "5189f8f584da8b414dc70f0deaff5cebc00d2494",
-          "message": "feat(ui): 카드 패널 헤더 한 줄 압축 — 이니셜 원 + 출처 알약",
-          "at": "2026-09-11T00:22:19Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/5189f8f584da8b414dc70f0deaff5cebc00d2494"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/34547422050",
-        "at": "2026-09-11T00:39:32Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/34548415681",
+        "at": "2026-09-11T00:53:43Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-11T00:39:29.995Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/3LvRS8G1mT1PQBLsADd7a9RiFpUD"
+        "at": "2026-09-11T00:53:44.971Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/HsB6bkfocjvEzPSAZEMXRgp1YV6K"
       }
     },
     {
@@ -264,7 +270,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-11T00:48:32.492Z",
+  "lastRunAt": "2026-09-11T01:10:10.466Z",
   "sources": [
     {
       "source": "github",
