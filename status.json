@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "마지막 커밋 9/11 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -49,7 +49,7 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 13:53",
+      "note": "마지막 커밋 9/11 · CI 초록 · 배포 정상 13:53",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
@@ -92,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 09:11",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 09:11",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-12T14:12:29.120Z",
+  "lastRunAt": "2026-09-12T17:15:12.063Z",
   "sources": [
     {
       "source": "github",
