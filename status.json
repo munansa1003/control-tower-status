@@ -74,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-14T14:10:52.268Z",
+  "lastRunAt": "2026-09-14T19:26:32.216Z",
   "sources": [
     {
       "source": "github",
