@@ -74,14 +74,14 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 9/1",
+      "note": "오늘 1커밋",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
-          "sha": "bf85f67ae4a43ab5685ce612e418f5b2b5ea4106",
-          "message": "feat: DAY5 S0+S1 — DAY5.md 0006 번호 갱신 + app/ 스캐폴드·이메일 인증 게이트 (check·check:app 그린)",
-          "at": "2026-09-01T06:50:51Z",
-          "url": "https://github.com/munansa1003/estate-ledger/commit/bf85f67ae4a43ab5685ce612e418f5b2b5ea4106"
+          "sha": "97add4b160c8647c97d4d7a18fcdde5ec430c9f2",
+          "message": "chore: weekly digest inbox (2026-09-13)",
+          "at": "2026-09-13T22:54:59Z",
+          "url": "https://github.com/munansa1003/estate-ledger/commit/97add4b160c8647c97d4d7a18fcdde5ec430c9f2"
         }
       ],
       "ci": {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-13T22:27:40.529Z",
+  "lastRunAt": "2026-09-14T01:11:38.112Z",
   "sources": [
     {
       "source": "github",
