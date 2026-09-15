@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 4커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(plan): 동기화를 «끈다» — 부를 때만에서 한 칸 더 (2026-09-15 사용자 결정)",
           "at": "2026-09-15T05:27:53Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/8506658135e4039b8d4cddd6be4cfcfe5fee2531"
-        },
-        {
-          "sha": "576a4c20c2ade7aef609a7f1e4fb0bcafecb5b9c",
-          "message": "docs(deploy): 031f4bb 배포 기록 — 그리고 «빠져 있던» 2182e40 줄을 뒤늦게 채운다",
-          "at": "2026-09-15T05:05:16Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/576a4c20c2ade7aef609a7f1e4fb0bcafecb5b9c"
-        },
-        {
-          "sha": "031f4bb7dfaef42ba04edb005f80bcb1638d94fd",
-          "message": "docs(plan): 실행기 flake 를 «분모까지» 셌다 — 점이 아니라 26% 다",
-          "at": "2026-09-15T04:52:30Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/031f4bb7dfaef42ba04edb005f80bcb1638d94fd"
         }
       ],
       "ci": {
@@ -86,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 9/14",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-15T13:38:35.855Z",
+  "lastRunAt": "2026-09-15T18:15:52.167Z",
   "sources": [
     {
       "source": "github",
