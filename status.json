@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "down",
-      "note": "오늘 15커밋 · CI 실패",
+      "note": "마지막 커밋 어제 · CI 실패",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(plan): P-2 기록 — 골든이 «못 재는» 자리와 동등한 변형 둘",
           "at": "2026-09-16T10:34:15Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/5283b9086362ff2033eed6397e7f9cb2cd0a08cc"
-        },
-        {
-          "sha": "bd6927e56d7e1256159fb1c4a639c9fba37fc2d0",
-          "message": "feat(plan): 엔진 배선 — 쓰기가 날짜를 «만들고» 그 수를 말한다 (3-o P-2b)",
-          "at": "2026-09-16T10:32:31Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/bd6927e56d7e1256159fb1c4a639c9fba37fc2d0"
-        },
-        {
-          "sha": "fb8c7bbf6c4fd41a6b527b7e2058fedfd1353ffd",
-          "message": "feat(plan): 일정 엔진 이식 — 골든 26값이 «전부» 맞았다 (3-o P-2a)",
-          "at": "2026-09-16T10:27:10Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/fb8c7bbf6c4fd41a6b527b7e2058fedfd1353ffd"
         }
       ],
       "ci": {
@@ -61,7 +49,7 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 09:36",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 09:36",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-16T11:45:00.348Z",
+  "lastRunAt": "2026-09-16T17:05:26.870Z",
   "sources": [
     {
       "source": "github",
