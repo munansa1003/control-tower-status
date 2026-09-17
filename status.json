@@ -29,20 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "down",
-      "note": "마지막 커밋 어제 · CI 실패",
+      "note": "오늘 8커밋 · CI 실패",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "5283b9086362ff2033eed6397e7f9cb2cd0a08cc",
-          "message": "docs(plan): P-2 기록 — 골든이 «못 재는» 자리와 동등한 변형 둘",
-          "at": "2026-09-16T10:34:15Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/5283b9086362ff2033eed6397e7f9cb2cd0a08cc"
+          "sha": "32b4fe007eaec885dee861846576ab4786417ac7",
+          "message": "docs(plan): P-4 기록 — 화면 본체 · P-1 이 «안 만든» 서버 경로 넷 · 돌연변이 12/12",
+          "at": "2026-09-17T00:55:06Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/32b4fe007eaec885dee861846576ab4786417ac7"
+        },
+        {
+          "sha": "ffeb097edf2c7ccef28beacb9f48756da00220e7",
+          "message": "test(plan): 돌연변이가 «살아남은» 자리 둘을 메운다 — 📌 서버 경로와 Tab 이동 (3-o P-4)",
+          "at": "2026-09-17T00:52:58Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/ffeb097edf2c7ccef28beacb9f48756da00220e7"
+        },
+        {
+          "sha": "dfc1ccf53105dcd9d919cf2cc7f7255c60e0b2f7",
+          "message": "feat(plan): 「프로젝트 일정」 화면 본체 — 목록 · 머리 카드 · 새 계획 · 간트 · 문구 46 (3-o P-4)",
+          "at": "2026-09-17T00:47:46Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/dfc1ccf53105dcd9d919cf2cc7f7255c60e0b2f7"
         }
       ],
       "ci": {
         "state": "failure",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35086093107",
-        "at": "2026-09-16T10:38:45Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35168998625",
+        "at": "2026-09-17T01:02:47Z"
       }
     },
     {
@@ -117,14 +129,14 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 9/10",
+      "note": "오늘 1커밋",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
-          "sha": "02f0af95a735f9f5747b6337755b94b10eb7b189",
-          "message": "docs: 주간 개발 리포트 2026-09-10",
-          "at": "2026-09-09T23:13:08Z",
-          "url": "https://github.com/munansa1003/weekly-reports/commit/02f0af95a735f9f5747b6337755b94b10eb7b189"
+          "sha": "0f61e388af684183d059b2e4746f9134d34d05a1",
+          "message": "docs: 주간 개발 리포트 2026-09-17",
+          "at": "2026-09-16T23:14:18Z",
+          "url": "https://github.com/munansa1003/weekly-reports/commit/0f61e388af684183d059b2e4746f9134d34d05a1"
         }
       ],
       "ci": {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-16T23:00:47.635Z",
+  "lastRunAt": "2026-09-17T01:29:51.837Z",
   "sources": [
     {
       "source": "github",
