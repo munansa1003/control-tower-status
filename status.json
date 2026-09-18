@@ -29,9 +29,21 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록",
+      "note": "오늘 3커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
+        {
+          "sha": "d9ff32a2be89e3a1265fd99b4c635312c432ec82",
+          "message": "fix(plan): 「글자수도 그대로」가 옳았다 — 표 위의 7줄을 3줄로, 그리고 «규칙이 0개»였던 폼 칸 (3-o P-10·P-11)",
+          "at": "2026-09-18T02:15:12Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/d9ff32a2be89e3a1265fd99b4c635312c432ec82"
+        },
+        {
+          "sha": "7517a236c6d8e7e9fe31e36afc504acf6f84f76b",
+          "message": "fix(plan): 디자인 토큰 — 「도스 같다」를 실측하고, 두 달간 «빨간 테두리»였던 결함을 닫는다 (3-o P-9)",
+          "at": "2026-09-18T01:17:34Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/7517a236c6d8e7e9fe31e36afc504acf6f84f76b"
+        },
         {
           "sha": "61d941358e450638901ee67ab918c5f3a8d2c68f",
           "message": "fix(plan): 간트 레이아웃 수리 — 축을 «만들고», 0px 로 눌린 이름 열을 되살린다 (3-o P-8)",
@@ -41,33 +53,39 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35289919632",
-        "at": "2026-09-18T00:08:31Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35298648153",
+        "at": "2026-09-18T02:15:47Z"
       }
     },
     {
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 14:04",
+      "note": "오늘 2커밋 · CI 초록 · 배포 정상 11:21",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
-          "sha": "dbe38db0736b744bbd53cdb22be1dfc7680f9872",
-          "message": "test(dashboard): 겹침 카드의 리포 앵커를 검사망에 넣는다 + 주석의 자기오인 정정",
-          "at": "2026-09-17T05:03:48Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/dbe38db0736b744bbd53cdb22be1dfc7680f9872"
+          "sha": "cd9db4c6d4c8915045284812000b0f6c649bd56a",
+          "message": "feat(dashboard): 달력에 회사 휴무일 — 표를 둘로 두고 작업일수로 채점한다",
+          "at": "2026-09-18T02:21:24Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/cd9db4c6d4c8915045284812000b0f6c649bd56a"
+        },
+        {
+          "sha": "9e88cac195b65da9d8eca99a1a9b6a740cf3b2e6",
+          "message": "chore: 사내 원본 문서를 공개 리포에서 막는다",
+          "at": "2026-09-18T02:21:08Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/9e88cac195b65da9d8eca99a1a9b6a740cf3b2e6"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/35184288542",
-        "at": "2026-09-17T05:04:10Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/35299015774",
+        "at": "2026-09-18T02:21:32Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-17T05:04:12.326Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/Gw8b1BEE1BM4PBZnnoJ8hQHKUsHp"
+        "at": "2026-09-18T02:21:34.792Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/Gfikw8sFjkKhwChWyXgQkEeQSWpq"
       }
     },
     {
@@ -246,7 +264,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-18T00:28:00.368Z",
+  "lastRunAt": "2026-09-18T05:59:47.159Z",
   "sources": [
     {
       "source": "github",
