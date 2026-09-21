@@ -28,21 +28,27 @@
     {
       "id": "piston-issues",
       "name": "Piston Issues",
-      "status": "ok",
-      "note": "마지막 커밋 9/18 · CI 초록",
+      "status": "down",
+      "note": "오늘 2커밋 · CI 실패",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "d9ff32a2be89e3a1265fd99b4c635312c432ec82",
-          "message": "fix(plan): 「글자수도 그대로」가 옳았다 — 표 위의 7줄을 3줄로, 그리고 «규칙이 0개»였던 폼 칸 (3-o P-10·P-11)",
-          "at": "2026-09-18T02:15:12Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/d9ff32a2be89e3a1265fd99b4c635312c432ec82"
+          "sha": "82a9c9de423eba16f6ac26eec4ebde4e802fad88",
+          "message": "feat(schedule): 달력 머리의 손짓 안내 줄을 지운다 — 없앤 것은 «안내»지 손짓이 아니다 (3-p)",
+          "at": "2026-09-21T05:05:04Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/82a9c9de423eba16f6ac26eec4ebde4e802fad88"
+        },
+        {
+          "sha": "f6a67674ede8ea52527d65abd57132bfa7df3517",
+          "message": "feat(schedule): 달력을 일~토 7열로 열고, 일요일과 공휴일을 «빨간 숫자»로 (3-p)",
+          "at": "2026-09-21T04:54:34Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/f6a67674ede8ea52527d65abd57132bfa7df3517"
         }
       ],
       "ci": {
-        "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35298648153",
-        "at": "2026-09-18T02:15:47Z"
+        "state": "failure",
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35563249396",
+        "at": "2026-09-21T05:05:10Z"
       }
     },
     {
@@ -246,7 +252,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-21T01:11:59.930Z",
+  "lastRunAt": "2026-09-21T06:27:37.927Z",
   "sources": [
     {
       "source": "github",
