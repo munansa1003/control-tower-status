@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "down",
-      "note": "오늘 2커밋 · CI 실패",
+      "note": "마지막 커밋 어제 · CI 실패",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,12 +37,6 @@
           "message": "feat(schedule): 달력 머리의 손짓 안내 줄을 지운다 — 없앤 것은 «안내»지 손짓이 아니다 (3-p)",
           "at": "2026-09-21T05:05:04Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/82a9c9de423eba16f6ac26eec4ebde4e802fad88"
-        },
-        {
-          "sha": "f6a67674ede8ea52527d65abd57132bfa7df3517",
-          "message": "feat(schedule): 달력을 일~토 7열로 열고, 일요일과 공휴일을 «빨간 숫자»로 (3-p)",
-          "at": "2026-09-21T04:54:34Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/f6a67674ede8ea52527d65abd57132bfa7df3517"
         }
       ],
       "ci": {
@@ -80,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -252,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-21T14:17:31.836Z",
+  "lastRunAt": "2026-09-21T19:35:26.471Z",
   "sources": [
     {
       "source": "github",
