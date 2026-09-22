@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 9커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "feat(schedule): 만들기 창 2쪽 — 가공 사양. 서버도 API 도 0줄이다 (3-q 4/4)",
           "at": "2026-09-22T02:07:21Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/4eed9bcc2ee3c323f941998f164d27aa4596b4c1"
-        },
-        {
-          "sha": "94df57c6c51d2a26b4e21f71a1f3a931ce8bee0c",
-          "message": "docs(deploy): 3-q 5/5 배포 기록 — 612a08c · 글자 기본 「더 크게」 · 서버 0줄",
-          "at": "2026-09-22T01:53:47Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/94df57c6c51d2a26b4e21f71a1f3a931ce8bee0c"
-        },
-        {
-          "sha": "612a08c2415f999cd7abfd01c2be7c80e5e505f5",
-          "message": "feat(schedule): 일정 글자 크기를 사람이 고른다 — 기본은 「더 크게」 (3-q 5/5)",
-          "at": "2026-09-22T01:49:11Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/612a08c2415f999cd7abfd01c2be7c80e5e505f5"
         }
       ],
       "ci": {
@@ -86,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 9/21",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -116,8 +104,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/32006077502",
-        "at": "2026-08-17T07:29:59Z"
+        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/33253050507",
+        "at": "2026-08-29T12:39:26Z"
       },
       "deploy": {
         "state": "READY",
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-22T15:00:01.390Z",
+  "lastRunAt": "2026-09-22T18:58:21.818Z",
   "sources": [
     {
       "source": "github",
