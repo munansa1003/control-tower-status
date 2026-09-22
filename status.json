@@ -28,21 +28,33 @@
     {
       "id": "piston-issues",
       "name": "Piston Issues",
-      "status": "down",
-      "note": "마지막 커밋 어제 · CI 실패",
+      "status": "ok",
+      "note": "오늘 9커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "82a9c9de423eba16f6ac26eec4ebde4e802fad88",
-          "message": "feat(schedule): 달력 머리의 손짓 안내 줄을 지운다 — 없앤 것은 «안내»지 손짓이 아니다 (3-p)",
-          "at": "2026-09-21T05:05:04Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/82a9c9de423eba16f6ac26eec4ebde4e802fad88"
+          "sha": "4eed9bcc2ee3c323f941998f164d27aa4596b4c1",
+          "message": "feat(schedule): 만들기 창 2쪽 — 가공 사양. 서버도 API 도 0줄이다 (3-q 4/4)",
+          "at": "2026-09-22T02:07:21Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/4eed9bcc2ee3c323f941998f164d27aa4596b4c1"
+        },
+        {
+          "sha": "94df57c6c51d2a26b4e21f71a1f3a931ce8bee0c",
+          "message": "docs(deploy): 3-q 5/5 배포 기록 — 612a08c · 글자 기본 「더 크게」 · 서버 0줄",
+          "at": "2026-09-22T01:53:47Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/94df57c6c51d2a26b4e21f71a1f3a931ce8bee0c"
+        },
+        {
+          "sha": "612a08c2415f999cd7abfd01c2be7c80e5e505f5",
+          "message": "feat(schedule): 일정 글자 크기를 사람이 고른다 — 기본은 「더 크게」 (3-q 5/5)",
+          "at": "2026-09-22T01:49:11Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/612a08c2415f999cd7abfd01c2be7c80e5e505f5"
         }
       ],
       "ci": {
-        "state": "failure",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35563249396",
-        "at": "2026-09-21T05:05:10Z"
+        "state": "success",
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35678395759",
+        "at": "2026-09-22T02:08:54Z"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-21T23:21:06.029Z",
+  "lastRunAt": "2026-09-22T05:06:12.335Z",
   "sources": [
     {
       "source": "github",
