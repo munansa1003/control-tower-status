@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "마지막 커밋 9/22 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-23T11:46:39.981Z",
+  "lastRunAt": "2026-09-23T17:10:27.947Z",
   "sources": [
     {
       "source": "github",
