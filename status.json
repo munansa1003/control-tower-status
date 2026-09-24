@@ -16,8 +16,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/33149222272",
-        "at": "2026-08-28T06:49:03Z"
+        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/31451640888",
+        "at": "2026-08-11T02:11:57Z"
       },
       "deploy": {
         "state": "READY",
@@ -41,8 +41,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35678395759",
-        "at": "2026-09-22T02:08:54Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35298648153",
+        "at": "2026-09-18T02:15:47Z"
       }
     },
     {
@@ -117,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-24T10:07:45.363Z",
+  "lastRunAt": "2026-09-24T15:12:31.663Z",
   "sources": [
     {
       "source": "github",
