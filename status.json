@@ -104,8 +104,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/33253050507",
-        "at": "2026-08-29T12:39:26Z"
+        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/29647868823",
+        "at": "2026-07-18T14:21:11Z"
       },
       "deploy": {
         "state": "READY",
@@ -201,25 +201,37 @@
       "id": "jjj-family-acb",
       "name": "JJJ ACB",
       "status": "ok",
-      "note": "마지막 커밋 9/7 · CI 초록 · 배포 정상 15:07",
+      "note": "오늘 3커밋 · CI 초록 · 배포 정상 15:32",
       "repoUrl": "https://github.com/munansa1003/jjj-family-ACB",
       "commits": [
         {
-          "sha": "43476512ab9babb7967c6d6de261d4414fe28d1b",
-          "message": "chore(data): 2026-08 마감 정본화 + 2026-09 반영(어제까지) · import --until",
-          "at": "2026-09-07T06:07:15Z",
-          "url": "https://github.com/munansa1003/jjj-family-ACB/commit/43476512ab9babb7967c6d6de261d4414fe28d1b"
+          "sha": "51ab2a85bf088f4b137979255226ca7078ca7013",
+          "message": "chore(data): 2026-04~06 마감 정본화 — 소급 재분류 7행(Δ지출 -622,151) · 골든 1,220셀 전량 일치",
+          "at": "2026-09-25T05:37:07Z",
+          "url": "https://github.com/munansa1003/jjj-family-ACB/commit/51ab2a85bf088f4b137979255226ca7078ca7013"
+        },
+        {
+          "sha": "613a8bac767650db9b7c806314e7007297bfd222",
+          "message": "test(golden): 게이지 재교정 — 2025-09-25 export 기준 58개월 (사용자 승인, GitHub API 반영)",
+          "at": "2026-09-25T05:30:34Z",
+          "url": "https://github.com/munansa1003/jjj-family-ACB/commit/613a8bac767650db9b7c806314e7007297bfd222"
+        },
+        {
+          "sha": "875213cc657de09f77d2d3ef8dadf8fc1745ce87",
+          "message": "chore(data): 2026-09 반영 (09-06~09-24, 261행) + 스냅샷 09-25 + 9/4 재분류 override",
+          "at": "2026-09-25T04:17:28Z",
+          "url": "https://github.com/munansa1003/jjj-family-ACB/commit/875213cc657de09f77d2d3ef8dadf8fc1745ce87"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/jjj-family-ACB/actions/runs/34089441412",
-        "at": "2026-09-07T06:07:24Z"
+        "url": "https://github.com/munansa1003/jjj-family-ACB/actions/runs/36103303201",
+        "at": "2026-09-25T06:32:16Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-07T06:07:25.932Z",
-        "url": "https://vercel.com/munansa-2761s-projects/jjj-family-acb/65ZgG2DqW2n7VbwQYBp6en47PfbJ"
+        "at": "2026-09-25T06:32:17.785Z",
+        "url": "https://vercel.com/munansa-2761s-projects/jjj-family-acb/ASbKrnXGxBdsx8AyEihBGpbEXYFE"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-25T01:35:40.426Z",
+  "lastRunAt": "2026-09-25T07:55:49.254Z",
   "sources": [
     {
       "source": "github",
