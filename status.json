@@ -117,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 9/24",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -201,7 +201,7 @@
       "id": "jjj-family-acb",
       "name": "JJJ ACB",
       "status": "ok",
-      "note": "오늘 3커밋 · CI 초록 · 배포 정상 15:32",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 15:32",
       "repoUrl": "https://github.com/munansa1003/jjj-family-ACB",
       "commits": [
         {
@@ -209,18 +209,6 @@
           "message": "chore(data): 2026-04~06 마감 정본화 — 소급 재분류 7행(Δ지출 -622,151) · 골든 1,220셀 전량 일치",
           "at": "2026-09-25T05:37:07Z",
           "url": "https://github.com/munansa1003/jjj-family-ACB/commit/51ab2a85bf088f4b137979255226ca7078ca7013"
-        },
-        {
-          "sha": "613a8bac767650db9b7c806314e7007297bfd222",
-          "message": "test(golden): 게이지 재교정 — 2025-09-25 export 기준 58개월 (사용자 승인, GitHub API 반영)",
-          "at": "2026-09-25T05:30:34Z",
-          "url": "https://github.com/munansa1003/jjj-family-ACB/commit/613a8bac767650db9b7c806314e7007297bfd222"
-        },
-        {
-          "sha": "875213cc657de09f77d2d3ef8dadf8fc1745ce87",
-          "message": "chore(data): 2026-09 반영 (09-06~09-24, 261행) + 스냅샷 09-25 + 9/4 재분류 override",
-          "at": "2026-09-25T04:17:28Z",
-          "url": "https://github.com/munansa1003/jjj-family-ACB/commit/875213cc657de09f77d2d3ef8dadf8fc1745ce87"
         }
       ],
       "ci": {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-25T13:54:44.622Z",
+  "lastRunAt": "2026-09-25T18:41:55.134Z",
   "sources": [
     {
       "source": "github",
