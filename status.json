@@ -104,8 +104,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/29647868823",
-        "at": "2026-07-18T14:21:11Z"
+        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/33253050507",
+        "at": "2026-08-29T12:39:26Z"
       },
       "deploy": {
         "state": "READY",
@@ -258,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-25T07:55:49.254Z",
+  "lastRunAt": "2026-09-25T13:54:44.622Z",
   "sources": [
     {
       "source": "github",
