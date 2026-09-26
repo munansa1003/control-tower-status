@@ -92,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 09:33",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 09:33",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -201,7 +201,7 @@
       "id": "jjj-family-acb",
       "name": "JJJ ACB",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 15:32",
+      "note": "마지막 커밋 9/25 · CI 초록 · 배포 정상 15:32",
       "repoUrl": "https://github.com/munansa1003/jjj-family-ACB",
       "commits": [
         {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-26T13:10:53.333Z",
+  "lastRunAt": "2026-09-26T17:14:50.802Z",
   "sources": [
     {
       "source": "github",
