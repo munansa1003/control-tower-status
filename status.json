@@ -29,32 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 3커밋 · CI 진행 중",
+      "note": "오늘 10커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "d85ac6807ecccb6ae8c7f687e6eec0487dc53909",
-          "message": "docs(deploy): 3-r 배포 기록 — 1a7059e · 서버 한 곳 · 세대 15 그대로",
-          "at": "2026-09-28T01:43:16Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/d85ac6807ecccb6ae8c7f687e6eec0487dc53909"
+          "sha": "a1d5cb827185d60f7e43ea93f0e186b7ccd0489d",
+          "message": "docs(deploy): 3-t 배포 기록 — 080d236 · 서버 0줄 · 세대 15 그대로",
+          "at": "2026-09-28T04:23:51Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/a1d5cb827185d60f7e43ea93f0e186b7ccd0489d"
         },
         {
-          "sha": "1a7059ec8bb39c64f69dc2956674a95e7a37bbf1",
-          "message": "feat(schedule): 만들기 창 「접수 · 가공」 — 소재 넷 대신 가공 사양·수량, 2쪽 없이 한 트랜잭션 (3-r)",
-          "at": "2026-09-28T01:29:25Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/1a7059ec8bb39c64f69dc2956674a95e7a37bbf1"
+          "sha": "080d236a6ba4269d21a8ee133fdfb7d0ee160f84",
+          "message": "feat(schedule): 작업창의 「활동 이력」도 접힌 채로 연다 — 다른 묶음과 같은 접기 (3-t)",
+          "at": "2026-09-28T04:13:48Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/080d236a6ba4269d21a8ee133fdfb7d0ee160f84"
         },
         {
-          "sha": "5fe85a3765966d92bf62422f0bfd10ebcaa9c79e",
-          "message": "docs(plan): 정본의 머리가 「3-q 는 1/4」이라고 말하고 있었다 — 낡음 아홉, 거짓 하나",
-          "at": "2026-09-27T23:51:46Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/5fe85a3765966d92bf62422f0bfd10ebcaa9c79e"
+          "sha": "976f0f53ee9d25c6f03aea213ae22c87ed67ac41",
+          "message": "docs(deploy): 3-s 배포 기록 — fc62f08 · 서버 0줄 · 세대 15 그대로",
+          "at": "2026-09-28T03:18:13Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/976f0f53ee9d25c6f03aea213ae22c87ed67ac41"
         }
       ],
       "ci": {
-        "state": "running",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/36367063734",
-        "at": "2026-09-28T01:43:23Z"
+        "state": "success",
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/36377546445",
+        "at": "2026-09-28T04:24:08Z"
       }
     },
     {
@@ -258,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-28T01:43:36.007Z",
+  "lastRunAt": "2026-09-28T08:45:27.342Z",
   "sources": [
     {
       "source": "github",
