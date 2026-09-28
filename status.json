@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 10커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(deploy): 3-t 배포 기록 — 080d236 · 서버 0줄 · 세대 15 그대로",
           "at": "2026-09-28T04:23:51Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/a1d5cb827185d60f7e43ea93f0e186b7ccd0489d"
-        },
-        {
-          "sha": "080d236a6ba4269d21a8ee133fdfb7d0ee160f84",
-          "message": "feat(schedule): 작업창의 「활동 이력」도 접힌 채로 연다 — 다른 묶음과 같은 접기 (3-t)",
-          "at": "2026-09-28T04:13:48Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/080d236a6ba4269d21a8ee133fdfb7d0ee160f84"
-        },
-        {
-          "sha": "976f0f53ee9d25c6f03aea213ae22c87ed67ac41",
-          "message": "docs(deploy): 3-s 배포 기록 — fc62f08 · 서버 0줄 · 세대 15 그대로",
-          "at": "2026-09-28T03:18:13Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/976f0f53ee9d25c6f03aea213ae22c87ed67ac41"
         }
       ],
       "ci": {
@@ -86,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-28T08:45:27.342Z",
+  "lastRunAt": "2026-09-28T17:41:47.157Z",
   "sources": [
     {
       "source": "github",
