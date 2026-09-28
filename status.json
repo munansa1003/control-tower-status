@@ -29,20 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 9/22 · CI 초록",
+      "note": "오늘 3커밋 · CI 진행 중",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "4eed9bcc2ee3c323f941998f164d27aa4596b4c1",
-          "message": "feat(schedule): 만들기 창 2쪽 — 가공 사양. 서버도 API 도 0줄이다 (3-q 4/4)",
-          "at": "2026-09-22T02:07:21Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/4eed9bcc2ee3c323f941998f164d27aa4596b4c1"
+          "sha": "d85ac6807ecccb6ae8c7f687e6eec0487dc53909",
+          "message": "docs(deploy): 3-r 배포 기록 — 1a7059e · 서버 한 곳 · 세대 15 그대로",
+          "at": "2026-09-28T01:43:16Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/d85ac6807ecccb6ae8c7f687e6eec0487dc53909"
+        },
+        {
+          "sha": "1a7059ec8bb39c64f69dc2956674a95e7a37bbf1",
+          "message": "feat(schedule): 만들기 창 「접수 · 가공」 — 소재 넷 대신 가공 사양·수량, 2쪽 없이 한 트랜잭션 (3-r)",
+          "at": "2026-09-28T01:29:25Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/1a7059ec8bb39c64f69dc2956674a95e7a37bbf1"
+        },
+        {
+          "sha": "5fe85a3765966d92bf62422f0bfd10ebcaa9c79e",
+          "message": "docs(plan): 정본의 머리가 「3-q 는 1/4」이라고 말하고 있었다 — 낡음 아홉, 거짓 하나",
+          "at": "2026-09-27T23:51:46Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/5fe85a3765966d92bf62422f0bfd10ebcaa9c79e"
         }
       ],
       "ci": {
-        "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/35678395759",
-        "at": "2026-09-22T02:08:54Z"
+        "state": "running",
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/36367063734",
+        "at": "2026-09-28T01:43:23Z"
       }
     },
     {
@@ -74,14 +86,14 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 9/21",
+      "note": "오늘 1커밋",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
-          "sha": "48b01d58687fec91793b351a47f05dee452b0ff3",
-          "message": "chore: weekly digest inbox (2026-09-20)",
-          "at": "2026-09-20T23:01:20Z",
-          "url": "https://github.com/munansa1003/estate-ledger/commit/48b01d58687fec91793b351a47f05dee452b0ff3"
+          "sha": "3e1292a5dd694a622b273be14ddf5c5953697684",
+          "message": "chore: weekly digest inbox (2026-09-27)",
+          "at": "2026-09-27T23:41:01Z",
+          "url": "https://github.com/munansa1003/estate-ledger/commit/3e1292a5dd694a622b273be14ddf5c5953697684"
         }
       ],
       "ci": {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-27T22:17:17.620Z",
+  "lastRunAt": "2026-09-28T01:43:36.007Z",
   "sources": [
     {
       "source": "github",
