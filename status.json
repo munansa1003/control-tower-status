@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 5커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(plan): 「검사가 개발 DB 를 연다」 백로그 — 4파일 → 8파일 · 13:39 에 Stop 게이트를 실제로 빨갛게 했다",
           "at": "2026-09-29T04:49:52Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/277537f0369a3daa5708f97e62235e5eccc2c361"
-        },
-        {
-          "sha": "8a0dd05c384b8334e7bfcb7b2f71499d4a3e4557",
-          "message": "docs(deploy): 3-u 배포 기록 — e04953a · 서버 바뀜 · 세대 15 그대로 · CI 윈도 UTC 두 번 → c3a3eea 에서 초록",
-          "at": "2026-09-29T03:38:08Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/8a0dd05c384b8334e7bfcb7b2f71499d4a3e4557"
-        },
-        {
-          "sha": "c3a3eea7fb8fa486728627daa82ceec72caf5aa4",
-          "message": "test(ci): 검사 한도 15초 → 40초 — 윈도 CI 꼬리가 2.5~3배 흔들린다 · 훅 15초는 그대로 (3-u 후속 둘째)",
-          "at": "2026-09-29T03:23:05Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/c3a3eea7fb8fa486728627daa82ceec72caf5aa4"
         }
       ],
       "ci": {
@@ -86,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 9/28",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -116,8 +104,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/29647868823",
-        "at": "2026-07-18T14:21:11Z"
+        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/33253050507",
+        "at": "2026-08-29T12:39:26Z"
       },
       "deploy": {
         "state": "READY",
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-29T13:01:44.687Z",
+  "lastRunAt": "2026-09-29T18:40:27.775Z",
   "sources": [
     {
       "source": "github",
