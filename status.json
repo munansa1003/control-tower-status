@@ -29,26 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록",
+      "note": "오늘 5커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "15a2461e2915240f957c721c34c2d7bfabb7b6af",
-          "message": "docs(deploy): 3-v 배포 기록 — 3c1d156 · 서버 바뀜 · 세대 15 그대로 · CI 여섯 잡 초록",
-          "at": "2026-09-30T01:47:09Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/15a2461e2915240f957c721c34c2d7bfabb7b6af"
+          "sha": "841b1dca1775f3b4e6270b6e12604ea910b2aed0",
+          "message": "docs(deploy): 「처음 등록」 문 배포 기록 — 01bf98b · 서버 0줄 · 세대 15 그대로 · 등록 코드 교체(값 미기재) · CI 4잡 초록",
+          "at": "2026-09-30T05:57:22Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/841b1dca1775f3b4e6270b6e12604ea910b2aed0"
         },
         {
-          "sha": "3c1d156b1e48e101b46ea713fc536487c7a9ddd9",
-          "message": "feat(schedule): 달력 긴급 · 양산소재 표식과 그 입력 자리 (3-v)",
-          "at": "2026-09-30T01:32:34Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/3c1d156b1e48e101b46ea713fc536487c7a9ddd9"
+          "sha": "01bf98b383bd4689d432b7c3c6ea96229df5ca92",
+          "message": "feat(auth): 로그인 창에 「처음 등록」 칸 — 가입 문이 처음부터 보인다 · 이름 자동완성 · 명부 확인",
+          "at": "2026-09-30T05:32:18Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/01bf98b383bd4689d432b7c3c6ea96229df5ca92"
+        },
+        {
+          "sha": "0b66648bb0dc94ff80cd5aad9d5c1ca66dc825bf",
+          "message": "perf(ci): Actions 분 — UTC 셀 둘을 빼고(4셀 → 2셀) 잡마다 시간 제한을 둔다",
+          "at": "2026-09-30T02:39:55Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/0b66648bb0dc94ff80cd5aad9d5c1ca66dc825bf"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/36656892760",
-        "at": "2026-09-30T01:48:48Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/36675824104",
+        "at": "2026-09-30T05:57:31Z"
       }
     },
     {
@@ -110,8 +116,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/33253050507",
-        "at": "2026-08-29T12:39:26Z"
+        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/30443463570",
+        "at": "2026-07-29T10:23:13Z"
       },
       "deploy": {
         "state": "READY",
@@ -252,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-30T02:09:58.904Z",
+  "lastRunAt": "2026-09-30T08:39:41.704Z",
   "sources": [
     {
       "source": "github",
