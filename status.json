@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 5커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(deploy): 「처음 등록」 문 배포 기록 — 01bf98b · 서버 0줄 · 세대 15 그대로 · 등록 코드 교체(값 미기재) · CI 4잡 초록",
           "at": "2026-09-30T05:57:22Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/841b1dca1775f3b4e6270b6e12604ea910b2aed0"
-        },
-        {
-          "sha": "01bf98b383bd4689d432b7c3c6ea96229df5ca92",
-          "message": "feat(auth): 로그인 창에 「처음 등록」 칸 — 가입 문이 처음부터 보인다 · 이름 자동완성 · 명부 확인",
-          "at": "2026-09-30T05:32:18Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/01bf98b383bd4689d432b7c3c6ea96229df5ca92"
-        },
-        {
-          "sha": "0b66648bb0dc94ff80cd5aad9d5c1ca66dc825bf",
-          "message": "perf(ci): Actions 분 — UTC 셀 둘을 빼고(4셀 → 2셀) 잡마다 시간 제한을 둔다",
-          "at": "2026-09-30T02:39:55Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/0b66648bb0dc94ff80cd5aad9d5c1ca66dc825bf"
         }
       ],
       "ci": {
@@ -116,8 +104,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/30443463570",
-        "at": "2026-07-29T10:23:13Z"
+        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/30638507421",
+        "at": "2026-07-31T14:25:09Z"
       },
       "deploy": {
         "state": "READY",
@@ -159,8 +147,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/34110365202",
-        "at": "2026-09-07T10:14:01Z"
+        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/30319872785",
+        "at": "2026-07-28T01:18:26Z"
       },
       "deploy": {
         "state": "READY",
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-30T08:39:41.704Z",
+  "lastRunAt": "2026-09-30T15:57:28.731Z",
   "sources": [
     {
       "source": "github",
