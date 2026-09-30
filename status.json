@@ -29,20 +29,26 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 2커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "277537f0369a3daa5708f97e62235e5eccc2c361",
-          "message": "docs(plan): 「검사가 개발 DB 를 연다」 백로그 — 4파일 → 8파일 · 13:39 에 Stop 게이트를 실제로 빨갛게 했다",
-          "at": "2026-09-29T04:49:52Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/277537f0369a3daa5708f97e62235e5eccc2c361"
+          "sha": "15a2461e2915240f957c721c34c2d7bfabb7b6af",
+          "message": "docs(deploy): 3-v 배포 기록 — 3c1d156 · 서버 바뀜 · 세대 15 그대로 · CI 여섯 잡 초록",
+          "at": "2026-09-30T01:47:09Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/15a2461e2915240f957c721c34c2d7bfabb7b6af"
+        },
+        {
+          "sha": "3c1d156b1e48e101b46ea713fc536487c7a9ddd9",
+          "message": "feat(schedule): 달력 긴급 · 양산소재 표식과 그 입력 자리 (3-v)",
+          "at": "2026-09-30T01:32:34Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/3c1d156b1e48e101b46ea713fc536487c7a9ddd9"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/36523380328",
-        "at": "2026-09-29T04:50:07Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/36656892760",
+        "at": "2026-09-30T01:48:48Z"
       }
     },
     {
@@ -246,7 +252,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-09-29T22:59:59.052Z",
+  "lastRunAt": "2026-09-30T02:09:58.904Z",
   "sources": [
     {
       "source": "github",
