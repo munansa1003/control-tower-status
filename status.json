@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "마지막 커밋 9/30 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -92,38 +92,32 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록 · 배포 정상 09:48",
+      "note": "오늘 1커밋 · CI 초록 · 배포 정상 03:44",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
-          "sha": "a1370ef61ef2c278bdd72ba0cbdd465911117220",
-          "message": "chore(earnings): morning run 2026-10-01T00:47:06Z",
-          "at": "2026-10-01T00:47:06Z",
-          "url": "https://github.com/munansa1003/us-value-lab/commit/a1370ef61ef2c278bdd72ba0cbdd465911117220"
-        },
-        {
-          "sha": "2fb3ffdd1e92200974e68b47aa7fac92445c3047",
-          "message": "chore(earnings): evening run 2026-09-30T18:17:28Z",
-          "at": "2026-09-30T18:17:28Z",
-          "url": "https://github.com/munansa1003/us-value-lab/commit/2fb3ffdd1e92200974e68b47aa7fac92445c3047"
+          "sha": "26393179effd27fd6e49436f131e745d54ab6a4d",
+          "message": "chore(earnings): evening run 2026-10-01T18:42:55Z",
+          "at": "2026-10-01T18:42:55Z",
+          "url": "https://github.com/munansa1003/us-value-lab/commit/26393179effd27fd6e49436f131e745d54ab6a4d"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/29225239348",
-        "at": "2026-07-13T05:00:06Z"
+        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/33253050507",
+        "at": "2026-08-29T12:39:26Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-10-01T00:48:39.293Z",
-        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/9gUejXNQB11ZsCxuGBietK1bFYhg"
+        "at": "2026-10-01T18:44:32.643Z",
+        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/7mMMEygbhiFzvzPPhmDgywnj3fKy"
       }
     },
     {
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -153,8 +147,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/30319872785",
-        "at": "2026-07-28T01:18:26Z"
+        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/34110365202",
+        "at": "2026-09-07T10:14:01Z"
       },
       "deploy": {
         "state": "READY",
@@ -252,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-01T14:33:35.658Z",
+  "lastRunAt": "2026-10-01T20:22:26.887Z",
   "sources": [
     {
       "source": "github",
