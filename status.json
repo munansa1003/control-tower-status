@@ -92,14 +92,14 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 10:04",
+      "note": "오늘 1커밋 · CI 초록 · 배포 정상 10:06",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
-          "sha": "e17920762388deb2284ab54e6336f4419dd1153b",
-          "message": "chore(earnings): morning run 2026-10-02T01:02:42Z",
-          "at": "2026-10-02T01:02:42Z",
-          "url": "https://github.com/munansa1003/us-value-lab/commit/e17920762388deb2284ab54e6336f4419dd1153b"
+          "sha": "4cdde1b2de27616987845fe8250cc3bb5f20e672",
+          "message": "chore(screen): weekly refresh 2026-10-03T01:06:40Z",
+          "at": "2026-10-03T01:06:40Z",
+          "url": "https://github.com/munansa1003/us-value-lab/commit/4cdde1b2de27616987845fe8250cc3bb5f20e672"
         }
       ],
       "ci": {
@@ -109,8 +109,8 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-10-02T01:04:11.316Z",
-        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/FKkWrk34H5sDQaYDaPu4F4Pb1G7v"
+        "at": "2026-10-03T01:06:43.784Z",
+        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/6vo37cseUFZJ94cC7SVACjzDEqVZ"
       }
     },
     {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-02T23:49:58.112Z",
+  "lastRunAt": "2026-10-03T05:25:10.133Z",
   "sources": [
     {
       "source": "github",
