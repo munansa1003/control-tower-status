@@ -92,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 10:06",
+      "note": "마지막 커밋 10/3 · CI 초록 · 배포 정상 10:06",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -104,8 +104,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/33253050507",
-        "at": "2026-08-29T12:39:26Z"
+        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/29480779572",
+        "at": "2026-07-16T07:41:33Z"
       },
       "deploy": {
         "state": "READY",
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-04T09:53:50.407Z",
+  "lastRunAt": "2026-10-04T15:25:04.247Z",
   "sources": [
     {
       "source": "github",
