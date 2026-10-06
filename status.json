@@ -29,20 +29,20 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 9/30 · CI 초록",
+      "note": "오늘 1커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "841b1dca1775f3b4e6270b6e12604ea910b2aed0",
-          "message": "docs(deploy): 「처음 등록」 문 배포 기록 — 01bf98b · 서버 0줄 · 세대 15 그대로 · 등록 코드 교체(값 미기재) · CI 4잡 초록",
-          "at": "2026-09-30T05:57:22Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/841b1dca1775f3b4e6270b6e12604ea910b2aed0"
+          "sha": "1a27d56d86cdff2751bcc6d111cb4d471b3449f7",
+          "message": "feat(stock): 6단계 재고 관리 S2 — 표 4 · 뷰 2 · 트리거 7 · 라우트 11 · 세대 16 (화면 없음 · 개시 전 쓰기 409)",
+          "at": "2026-10-06T05:08:29Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/1a27d56d86cdff2751bcc6d111cb4d471b3449f7"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/36675824104",
-        "at": "2026-09-30T05:57:31Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37417070785",
+        "at": "2026-10-06T05:08:38Z"
       }
     },
     {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-06T00:51:07.364Z",
+  "lastRunAt": "2026-10-06T07:37:22.291Z",
   "sources": [
     {
       "source": "github",
