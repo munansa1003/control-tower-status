@@ -29,20 +29,20 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 1커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "5bc4496c65fb7de7fc1f9f71695684645e1f1132",
-          "message": "feat(stock): 재고 관리 S3 — 이관 도구(읽기 전용 점검 + 쓰기 임포터) · 블라인드 골든 대조 · 독립 심사 15건 반영",
-          "at": "2026-10-06T14:03:40Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/5bc4496c65fb7de7fc1f9f71695684645e1f1132"
+          "sha": "0bbb76ef437d36ad4d8a343af242b25bff6ec101",
+          "message": "fix(stock): S3 재심사 8건 — 임포터에 주문서 번호 독립 대조 · 보관함 되살리기가 상자 번호를 잃던 것 · RING·D12 경계",
+          "at": "2026-10-06T16:22:55Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/0bbb76ef437d36ad4d8a343af242b25bff6ec101"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37475842730",
-        "at": "2026-10-06T14:03:55Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37495264016",
+        "at": "2026-10-06T16:23:02Z"
       }
     },
     {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-06T15:16:06.347Z",
+  "lastRunAt": "2026-10-06T20:23:35.136Z",
   "sources": [
     {
       "source": "github",
