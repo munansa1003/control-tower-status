@@ -29,20 +29,20 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "1a27d56d86cdff2751bcc6d111cb4d471b3449f7",
-          "message": "feat(stock): 6단계 재고 관리 S2 — 표 4 · 뷰 2 · 트리거 7 · 라우트 11 · 세대 16 (화면 없음 · 개시 전 쓰기 409)",
-          "at": "2026-10-06T05:08:29Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/1a27d56d86cdff2751bcc6d111cb4d471b3449f7"
+          "sha": "5bc4496c65fb7de7fc1f9f71695684645e1f1132",
+          "message": "feat(stock): 재고 관리 S3 — 이관 도구(읽기 전용 점검 + 쓰기 임포터) · 블라인드 골든 대조 · 독립 심사 15건 반영",
+          "at": "2026-10-06T14:03:40Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/5bc4496c65fb7de7fc1f9f71695684645e1f1132"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37417070785",
-        "at": "2026-10-06T05:08:38Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37475842730",
+        "at": "2026-10-06T14:03:55Z"
       }
     },
     {
@@ -74,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 10/5",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-06T07:37:22.291Z",
+  "lastRunAt": "2026-10-06T15:16:06.347Z",
   "sources": [
     {
       "source": "github",
