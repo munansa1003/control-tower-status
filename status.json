@@ -29,26 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록",
+      "note": "오늘 5커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "8e3d399cf0e84a71b981fb2ccd1c03f20bf7ef74",
-          "message": "test(backup): 재발 방지 검사의 빈틈 넷을 메운다 — 「미래의 실수」 9종을 심어 보니 4종이 빠져나갔다",
-          "at": "2026-10-07T00:21:51Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/8e3d399cf0e84a71b981fb2ccd1c03f20bf7ef74"
+          "sha": "2cbc39c3a989f5ef92d854a68afd85a0e569b762",
+          "message": "docs(plan): 재고 S4 정식 돌연변이 · CI 4잡 초록 기록 + 백로그 — 돌연변이 도구가 멈출 때 원복을 건너뛴다",
+          "at": "2026-10-07T03:34:19Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/2cbc39c3a989f5ef92d854a68afd85a0e569b762"
         },
         {
-          "sha": "0bbb76ef437d36ad4d8a343af242b25bff6ec101",
-          "message": "fix(stock): S3 재심사 8건 — 임포터에 주문서 번호 독립 대조 · 보관함 되살리기가 상자 번호를 잃던 것 · RING·D12 경계",
-          "at": "2026-10-06T16:22:55Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/0bbb76ef437d36ad4d8a343af242b25bff6ec101"
+          "sha": "7f4cf286ec1a2a406d074542244ac0270fc60bb6",
+          "message": "fix(stock): S4 뒤 CI 우분투 빨강 — 시드 검사가 윈도식 경로 글자로 판정 · 미리보기가 잡은 표 꺾임 둘",
+          "at": "2026-10-07T03:09:59Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/7f4cf286ec1a2a406d074542244ac0270fc60bb6"
+        },
+        {
+          "sha": "e92d5f6a9793ec4cd4d3bfdff4ee9c3b89bab295",
+          "message": "feat(stock): 재고 관리 S4 — 화면(개발 빌드 전용) · 서버 보강 · 시연 데이터 · 스펙 2차 심사 10건",
+          "at": "2026-10-07T02:54:26Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/e92d5f6a9793ec4cd4d3bfdff4ee9c3b89bab295"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37551584039",
-        "at": "2026-10-07T00:22:04Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37567380462",
+        "at": "2026-10-07T03:34:31Z"
       }
     },
     {
@@ -252,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-07T00:46:25.275Z",
+  "lastRunAt": "2026-10-07T07:17:53.958Z",
   "sources": [
     {
       "source": "github",
