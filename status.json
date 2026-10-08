@@ -29,20 +29,20 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 1커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "397aae2356b646dc07cf4213914e5c999c4fb544",
-          "message": "docs(plan): 재고 V9 — 정식 돌연변이 11묶음 전부(죽음 148 · 무해 아닌 생존 0) 기록",
-          "at": "2026-10-08T13:36:59Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/397aae2356b646dc07cf4213914e5c999c4fb544"
+          "sha": "4dff988178dda20c0f6502666a66f16db14e4cb2",
+          "message": "docs(stock): S5 개통 진행표 · 리허설 25/25 기록 + fix(test): 시연 도구 끝-끝 검사가 서버의 오늘을 쓴다(윈도 CI KST 0~9시)",
+          "at": "2026-10-08T21:35:52Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/4dff988178dda20c0f6502666a66f16db14e4cb2"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37785769102",
-        "at": "2026-10-08T13:37:06Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37847911390",
+        "at": "2026-10-08T21:35:59Z"
       }
     },
     {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-08T16:34:55.092Z",
+  "lastRunAt": "2026-10-08T22:09:27.346Z",
   "sources": [
     {
       "source": "github",
