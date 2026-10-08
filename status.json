@@ -33,16 +33,16 @@
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "5f3f3d7c0c1a44565ac6f2dd8455000a9f580d84",
-          "message": "docs(deploy): 3-w 배포 기록 — 2c86b10 · 세대 16 → 17 · 재고 S3·S4 동반",
-          "at": "2026-10-07T08:45:08Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/5f3f3d7c0c1a44565ac6f2dd8455000a9f580d84"
+          "sha": "397aae2356b646dc07cf4213914e5c999c4fb544",
+          "message": "docs(plan): 재고 V9 — 정식 돌연변이 11묶음 전부(죽음 148 · 무해 아닌 생존 0) 기록",
+          "at": "2026-10-08T13:36:59Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/397aae2356b646dc07cf4213914e5c999c4fb544"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37596081346",
-        "at": "2026-10-07T08:47:01Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37785769102",
+        "at": "2026-10-08T13:37:06Z"
       }
     },
     {
@@ -117,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-08T09:05:59.915Z",
+  "lastRunAt": "2026-10-08T16:34:55.092Z",
   "sources": [
     {
       "source": "github",
