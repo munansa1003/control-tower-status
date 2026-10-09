@@ -29,20 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록",
+      "note": "오늘 5커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "4dff988178dda20c0f6502666a66f16db14e4cb2",
-          "message": "docs(stock): S5 개통 진행표 · 리허설 25/25 기록 + fix(test): 시연 도구 끝-끝 검사가 서버의 오늘을 쓴다(윈도 CI KST 0~9시)",
-          "at": "2026-10-08T21:35:52Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/4dff988178dda20c0f6502666a66f16db14e4cb2"
+          "sha": "e9b4193f551f6d0bcc3adc897a3b0c10ba157006",
+          "message": "docs(stock): V9 완료(못하다 없음) · S5 ② 동결 시작 10-09 기록 — 기초일 10-09 · 운영 이관은 10-10 이후",
+          "at": "2026-10-09T00:42:32Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/e9b4193f551f6d0bcc3adc897a3b0c10ba157006"
+        },
+        {
+          "sha": "2c738e226e924ff860c39502d3570bd85b4c0e8a",
+          "message": "docs(deploy): 재고 개통 ① 운영 배포 기록 — 1d9f638 · 세대 17 → 18 · 재고 탭 운영 켬(이관 전)",
+          "at": "2026-10-09T00:24:15Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/2c738e226e924ff860c39502d3570bd85b4c0e8a"
+        },
+        {
+          "sha": "1d9f63813a0b295d6b8d95e548dc9625f057849a",
+          "message": "Merge main into s5-golive — 시연 도구 검사의 날짜 고침(윈도 CI KST 0~9시) · 개통 진행표를 브랜치도 품는다",
+          "at": "2026-10-08T21:36:06Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/1d9f63813a0b295d6b8d95e548dc9625f057849a"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37847911390",
-        "at": "2026-10-08T21:35:59Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37866150649",
+        "at": "2026-10-09T00:42:41Z"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-08T22:09:27.346Z",
+  "lastRunAt": "2026-10-09T02:15:12.098Z",
   "sources": [
     {
       "source": "github",
