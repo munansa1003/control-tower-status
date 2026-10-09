@@ -29,32 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 5커밋 · CI 초록",
+      "note": "오늘 10커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "e9b4193f551f6d0bcc3adc897a3b0c10ba157006",
-          "message": "docs(stock): V9 완료(못하다 없음) · S5 ② 동결 시작 10-09 기록 — 기초일 10-09 · 운영 이관은 10-10 이후",
-          "at": "2026-10-09T00:42:32Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/e9b4193f551f6d0bcc3adc897a3b0c10ba157006"
+          "sha": "fd2e944a50a1d82be3c19fd7698c98abfec4503b",
+          "message": "docs(deploy): 재고 「애플 결」 · 글꼴 · C 운영 배포 기록 — ee85a55 · 핀 칸 고침 b857246 · 세대 18 그대로",
+          "at": "2026-10-09T08:31:54Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/fd2e944a50a1d82be3c19fd7698c98abfec4503b"
         },
         {
-          "sha": "2c738e226e924ff860c39502d3570bd85b4c0e8a",
-          "message": "docs(deploy): 재고 개통 ① 운영 배포 기록 — 1d9f638 · 세대 17 → 18 · 재고 탭 운영 켬(이관 전)",
-          "at": "2026-10-09T00:24:15Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/2c738e226e924ff860c39502d3570bd85b4c0e8a"
+          "sha": "b8572464d2acbb6e05f10c0284fbe92c589bd6d6",
+          "message": "fix(issues): 목록 「주요」 점(●)이 Pretendard 에서 「●…」로 잘리던 것 — 핀 칸 좌우 여백 0",
+          "at": "2026-10-09T08:27:14Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/b8572464d2acbb6e05f10c0284fbe92c589bd6d6"
         },
         {
-          "sha": "1d9f63813a0b295d6b8d95e548dc9625f057849a",
-          "message": "Merge main into s5-golive — 시연 도구 검사의 날짜 고침(윈도 CI KST 0~9시) · 개통 진행표를 브랜치도 품는다",
-          "at": "2026-10-08T21:36:06Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/1d9f63813a0b295d6b8d95e548dc9625f057849a"
+          "sha": "ee85a553cfd7b8e65138097bfaba916ba1889c7c",
+          "message": "feat(stock): 재고 창 「애플 결」 안 3 — 시트형 창 · 둥근 묶음 표 · 아이콘 한 벌",
+          "at": "2026-10-09T07:57:30Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/ee85a553cfd7b8e65138097bfaba916ba1889c7c"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37866150649",
-        "at": "2026-10-09T00:42:41Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37905535226",
+        "at": "2026-10-09T08:32:01Z"
       }
     },
     {
@@ -258,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-09T02:15:12.098Z",
+  "lastRunAt": "2026-10-09T09:16:58.112Z",
   "sources": [
     {
       "source": "github",
