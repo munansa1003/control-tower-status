@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 10커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(deploy): 재고 「애플 결」 · 글꼴 · C 운영 배포 기록 — ee85a55 · 핀 칸 고침 b857246 · 세대 18 그대로",
           "at": "2026-10-09T08:31:54Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/fd2e944a50a1d82be3c19fd7698c98abfec4503b"
-        },
-        {
-          "sha": "b8572464d2acbb6e05f10c0284fbe92c589bd6d6",
-          "message": "fix(issues): 목록 「주요」 점(●)이 Pretendard 에서 「●…」로 잘리던 것 — 핀 칸 좌우 여백 0",
-          "at": "2026-10-09T08:27:14Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/b8572464d2acbb6e05f10c0284fbe92c589bd6d6"
-        },
-        {
-          "sha": "ee85a553cfd7b8e65138097bfaba916ba1889c7c",
-          "message": "feat(stock): 재고 창 「애플 결」 안 3 — 시트형 창 · 둥근 묶음 표 · 아이콘 한 벌",
-          "at": "2026-10-09T07:57:30Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/ee85a553cfd7b8e65138097bfaba916ba1889c7c"
         }
       ],
       "ci": {
@@ -129,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 10/8",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-09T09:16:58.112Z",
+  "lastRunAt": "2026-10-09T16:21:46.828Z",
   "sources": [
     {
       "source": "github",
