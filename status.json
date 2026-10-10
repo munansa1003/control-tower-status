@@ -29,20 +29,20 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 10/9 · CI 초록",
+      "note": "오늘 1커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "fd2e944a50a1d82be3c19fd7698c98abfec4503b",
-          "message": "docs(deploy): 재고 「애플 결」 · 글꼴 · C 운영 배포 기록 — ee85a55 · 핀 칸 고침 b857246 · 세대 18 그대로",
-          "at": "2026-10-09T08:31:54Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/fd2e944a50a1d82be3c19fd7698c98abfec4503b"
+          "sha": "aea471b0ad9151fe4e24b06d7f864c8d6169f757",
+          "message": "docs(stock): S5 ②~⑤ 끝 — 골든은 독립 계산기 3벌(사용자 결정) · 판정 다 됨 · 운영 사본 리허설 0 · 0 · 로트 37 대조 어긋남 0",
+          "at": "2026-10-10T15:33:09Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/aea471b0ad9151fe4e24b06d7f864c8d6169f757"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/37905535226",
-        "at": "2026-10-09T08:32:01Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38064082233",
+        "at": "2026-10-10T15:33:17Z"
       }
     },
     {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-10T15:26:08.800Z",
+  "lastRunAt": "2026-10-10T20:08:13.994Z",
   "sources": [
     {
       "source": "github",
