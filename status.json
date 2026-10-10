@@ -29,9 +29,15 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록",
+      "note": "오늘 2커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
+        {
+          "sha": "2205550c44cccea5c415f656cc505ec885c10240",
+          "message": "docs(stock): S5 ⑥ 운영 이관 · ⑦ 대조 끝 — 품명 18 · 로트 37 · 독립 대조 어긋남 0 · 노출 목록에 재고",
+          "at": "2026-10-10T23:22:55Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/2205550c44cccea5c415f656cc505ec885c10240"
+        },
         {
           "sha": "aea471b0ad9151fe4e24b06d7f864c8d6169f757",
           "message": "docs(stock): S5 ②~⑤ 끝 — 골든은 독립 계산기 3벌(사용자 결정) · 판정 다 됨 · 운영 사본 리허설 0 · 0 · 로트 37 대조 어긋남 0",
@@ -41,8 +47,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38064082233",
-        "at": "2026-10-10T15:33:17Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38094835003",
+        "at": "2026-10-10T23:23:05Z"
       }
     },
     {
@@ -246,7 +252,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-10T20:08:13.994Z",
+  "lastRunAt": "2026-10-10T23:37:43.493Z",
   "sources": [
     {
       "source": "github",
