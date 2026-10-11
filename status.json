@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 5커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(deploy): 재고 품명별 B2 운영 배포 기록 — d3147f8 17:14 · 서버 0줄 · 세대 18 · 롤백 좌표 b857246",
           "at": "2026-10-11T08:20:38Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/990f7511fb3759454ad44f7d5f86b40b2b528f2c"
-        },
-        {
-          "sha": "d3147f84b4aea238a4ab9540af942dc70339abca",
-          "message": "docs(stock): B2 정식 돌연변이 기록 — 127종 중 121 죽음(산 6 = [무해] 대조) · 5463976 · CI 4잡 초록",
-          "at": "2026-10-11T08:11:59Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/d3147f84b4aea238a4ab9540af942dc70339abca"
-        },
-        {
-          "sha": "5463976b69b842bd55f718952a8d98e0357a3b1e",
-          "message": "feat(stock): 품명별 B2 「합계 격자 + 인셋 구분선」 — 칸 = 합계 · 펼치기 · 자동 펼침 · 짧은 세로선",
-          "at": "2026-10-11T06:37:25Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/5463976b69b842bd55f718952a8d98e0357a3b1e"
         }
       ],
       "ci": {
@@ -104,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 10:43",
+      "note": "마지막 커밋 10/10 · CI 초록 · 배포 정상 10:43",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-11T13:01:06.186Z",
+  "lastRunAt": "2026-10-11T18:08:24.310Z",
   "sources": [
     {
       "source": "github",
