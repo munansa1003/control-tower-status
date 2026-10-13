@@ -29,9 +29,21 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록",
+      "note": "오늘 3커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
+        {
+          "sha": "dccf8be7b891ce1b78927c70b096ba71647a58b6",
+          "message": "docs(deploy): 재고 「요약」 탭 운영 배포 기록 — cbb5800 05:11 · 서버 0줄 · 세대 18 · 롤백 좌표 d3147f8",
+          "at": "2026-10-12T20:16:01Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/dccf8be7b891ce1b78927c70b096ba71647a58b6"
+        },
+        {
+          "sha": "cbb5800a6d010cd38c0106da40f606a62b09a886",
+          "message": "docs(stock): 「요약」 탭 정식 돌연변이 기록 — 114종 중 108 죽음(산 6 = [무해]) · 21d5537 · CI 4잡 초록",
+          "at": "2026-10-12T20:06:17Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/cbb5800a6d010cd38c0106da40f606a62b09a886"
+        },
         {
           "sha": "21d5537a64624111212d1fc47b73d10731f4eb4a",
           "message": "feat(stock): 재고 「요약」 탭 — 종류 카드 · 확인할 것 · 실사 진행 · 최근 움직임 (6판 · 서버 0줄)",
@@ -41,8 +53,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38296549332",
-        "at": "2026-10-12T19:16:29Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38303092961",
+        "at": "2026-10-12T20:16:07Z"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-12T19:51:16.645Z",
+  "lastRunAt": "2026-10-13T02:04:55.136Z",
   "sources": [
     {
       "source": "github",
