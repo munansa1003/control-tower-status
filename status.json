@@ -29,32 +29,20 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 5커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "7eb868996fe17edf97f7abb83afe940d1038e417",
-          "message": "docs(stock): 2부 「입고로 시작」 스펙 승인(초안 4 · 심사 2회 · 막는 것 0) + 리셋 R6 백업 기준 끝",
-          "at": "2026-10-13T07:42:28Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/7eb868996fe17edf97f7abb83afe940d1038e417"
-        },
-        {
-          "sha": "a7289d1490e8057f8315672987161d4df2fadce0",
-          "message": "docs(stock): 재고 리셋 10-13 14:07 기록 — 로트 37 · 거래 38 · 기초 비움 · 품명 18 남김 · 멈춤 약 7초",
-          "at": "2026-10-13T05:18:08Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/a7289d1490e8057f8315672987161d4df2fadce0"
-        },
-        {
-          "sha": "dccf8be7b891ce1b78927c70b096ba71647a58b6",
-          "message": "docs(deploy): 재고 「요약」 탭 운영 배포 기록 — cbb5800 05:11 · 서버 0줄 · 세대 18 · 롤백 좌표 d3147f8",
-          "at": "2026-10-12T20:16:01Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/dccf8be7b891ce1b78927c70b096ba71647a58b6"
+          "sha": "40e99438d00166a8ae8a083082c54bd1ef2504ca",
+          "message": "docs(deploy): 재고 2부 운영 배포 기록 — 3f17173 20:06 · 세대 19 · V13 통과 + 돌연변이 ⑱ 다시 겨눔",
+          "at": "2026-10-13T11:17:51Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/40e99438d00166a8ae8a083082c54bd1ef2504ca"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38364648732",
-        "at": "2026-10-13T07:44:56Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38389251153",
+        "at": "2026-10-13T11:17:58Z"
       }
     },
     {
@@ -86,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 10/12",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-13T09:31:04.265Z",
+  "lastRunAt": "2026-10-13T17:38:25.133Z",
   "sources": [
     {
       "source": "github",
