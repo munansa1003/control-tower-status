@@ -29,20 +29,26 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 2커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "40e99438d00166a8ae8a083082c54bd1ef2504ca",
-          "message": "docs(deploy): 재고 2부 운영 배포 기록 — 3f17173 20:06 · 세대 19 · V13 통과 + 돌연변이 ⑱ 다시 겨눔",
-          "at": "2026-10-13T11:17:51Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/40e99438d00166a8ae8a083082c54bd1ef2504ca"
+          "sha": "d0c3617965102ffb161add0a3c6ad143dbde5d32",
+          "message": "docs(deploy): 「고른다」 빼기 운영 배포 기록 — f9befa6 10:01 · 서버 0줄 · 세대 19 · 롤백 좌표 3f17173",
+          "at": "2026-10-14T01:04:43Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/d0c3617965102ffb161add0a3c6ad143dbde5d32"
+        },
+        {
+          "sha": "f9befa6c920045e6d20aa47eeb570540e2bb5a6f",
+          "message": "fix(stock): 고르는 칸의 빈 값에서 「고른다」를 뺀다 — 글 없이 꺾쇠만 (10-14 사용자)",
+          "at": "2026-10-14T00:46:21Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/f9befa6c920045e6d20aa47eeb570540e2bb5a6f"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38389251153",
-        "at": "2026-10-13T11:17:58Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38493741961",
+        "at": "2026-10-14T01:04:52Z"
       }
     },
     {
@@ -246,7 +252,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-13T22:52:20.462Z",
+  "lastRunAt": "2026-10-14T01:57:40.060Z",
   "sources": [
     {
       "source": "github",
