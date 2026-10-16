@@ -117,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 10/15",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-16T12:33:47.296Z",
+  "lastRunAt": "2026-10-16T17:29:58.101Z",
   "sources": [
     {
       "source": "github",
