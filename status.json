@@ -29,20 +29,26 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 2커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "a3af82a98936502c5798d12a03af4be48bbd3339",
-          "message": "test(mutate): 3-x 가 죽여 놓은 돌연변이 찾기 문자열 셋을 복구 — 정식 돌연변이 결과 기록 + 죽은 변이 37종 백로그",
-          "at": "2026-10-20T07:09:11Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/a3af82a98936502c5798d12a03af4be48bbd3339"
+          "sha": "089314922efac3e92381e8bfb82157f8c8e37950",
+          "message": "docs(stock): 백로그 ⓐ~ⓒ 푸시 기록 — 14374e0 · CI 4잡 초록 · 사용자 확인 반영 · 운영 배포 전",
+          "at": "2026-10-20T19:54:20Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/089314922efac3e92381e8bfb82157f8c8e37950"
+        },
+        {
+          "sha": "14374e0578d4e184c14ffb19e547f707f4ad373a",
+          "message": "feat(stock): 출고 창 고정 입력 영역 · 상자 번호 «없음» 집안 규칙 · PISTON 머리 한 줄 (백로그 ⓐ~ⓒ · 세대 불변)",
+          "at": "2026-10-20T19:41:04Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/14374e0578d4e184c14ffb19e547f707f4ad373a"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/39384685472",
-        "at": "2026-10-20T07:09:20Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/39487445675",
+        "at": "2026-10-20T19:54:31Z"
       }
     },
     {
@@ -246,7 +252,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-20T18:30:29.060Z",
+  "lastRunAt": "2026-10-20T22:22:01.235Z",
   "sources": [
     {
       "source": "github",
