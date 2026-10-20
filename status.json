@@ -29,20 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 10/14 · CI 초록",
+      "note": "오늘 7커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "d0c3617965102ffb161add0a3c6ad143dbde5d32",
-          "message": "docs(deploy): 「고른다」 빼기 운영 배포 기록 — f9befa6 10:01 · 서버 0줄 · 세대 19 · 롤백 좌표 3f17173",
-          "at": "2026-10-14T01:04:43Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/d0c3617965102ffb161add0a3c6ad143dbde5d32"
+          "sha": "a3af82a98936502c5798d12a03af4be48bbd3339",
+          "message": "test(mutate): 3-x 가 죽여 놓은 돌연변이 찾기 문자열 셋을 복구 — 정식 돌연변이 결과 기록 + 죽은 변이 37종 백로그",
+          "at": "2026-10-20T07:09:11Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/a3af82a98936502c5798d12a03af4be48bbd3339"
+        },
+        {
+          "sha": "30e59dba1913a1ca7418bcb5e5fbfcb7f790124d",
+          "message": "docs(stock): 정식 돌연변이 16묶음(77종) 결과 기록 — 죽음 66 · [무해] 생존 11 · 발견 0 · 판정 불가 0",
+          "at": "2026-10-20T06:37:22Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/30e59dba1913a1ca7418bcb5e5fbfcb7f790124d"
+        },
+        {
+          "sha": "2ccde6676b289e77aa747babb0c92c4ec006b6fb",
+          "message": "docs(deploy): 일정 3-x 운영 배포 기록 — 80f3887 15:09경 · 세대 20 · 롤백 좌표 58781b1",
+          "at": "2026-10-20T06:15:43Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/2ccde6676b289e77aa747babb0c92c4ec006b6fb"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/38493741961",
-        "at": "2026-10-14T01:04:52Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/39384685472",
+        "at": "2026-10-20T07:09:20Z"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-20T01:53:22.907Z",
+  "lastRunAt": "2026-10-20T07:41:23.766Z",
   "sources": [
     {
       "source": "github",
