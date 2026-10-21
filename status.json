@@ -29,9 +29,15 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록",
+      "note": "오늘 3커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
+        {
+          "sha": "bf2dee3d816182f86fbb72f2901499370cf03b48",
+          "message": "docs(deploy): 재고 후속 ⓐ~ⓒ 운영 배포 기록 — 0893149 · 10-21 08:25경 · 세대 20 → 20 · 롤백 좌표 80f3887",
+          "at": "2026-10-20T23:34:06Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/bf2dee3d816182f86fbb72f2901499370cf03b48"
+        },
         {
           "sha": "089314922efac3e92381e8bfb82157f8c8e37950",
           "message": "docs(stock): 백로그 ⓐ~ⓒ 푸시 기록 — 14374e0 · CI 4잡 초록 · 사용자 확인 반영 · 운영 배포 전",
@@ -47,8 +53,8 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/39487445675",
-        "at": "2026-10-20T19:54:31Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/39515874875",
+        "at": "2026-10-20T23:34:13Z"
       }
     },
     {
@@ -252,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-20T22:22:01.235Z",
+  "lastRunAt": "2026-10-21T01:40:04.428Z",
   "sources": [
     {
       "source": "github",
