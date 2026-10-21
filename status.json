@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 3커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(deploy): 재고 후속 ⓐ~ⓒ 운영 배포 기록 — 0893149 · 10-21 08:25경 · 세대 20 → 20 · 롤백 좌표 80f3887",
           "at": "2026-10-20T23:34:06Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/bf2dee3d816182f86fbb72f2901499370cf03b48"
-        },
-        {
-          "sha": "089314922efac3e92381e8bfb82157f8c8e37950",
-          "message": "docs(stock): 백로그 ⓐ~ⓒ 푸시 기록 — 14374e0 · CI 4잡 초록 · 사용자 확인 반영 · 운영 배포 전",
-          "at": "2026-10-20T19:54:20Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/089314922efac3e92381e8bfb82157f8c8e37950"
-        },
-        {
-          "sha": "14374e0578d4e184c14ffb19e547f707f4ad373a",
-          "message": "feat(stock): 출고 창 고정 입력 영역 · 상자 번호 «없음» 집안 규칙 · PISTON 머리 한 줄 (백로그 ⓐ~ⓒ · 세대 불변)",
-          "at": "2026-10-20T19:41:04Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/14374e0578d4e184c14ffb19e547f707f4ad373a"
         }
       ],
       "ci": {
@@ -104,14 +92,14 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "마지막 커밋 10/17 · CI 초록 · 배포 정상 09:21",
+      "note": "오늘 1커밋 · CI 초록 · 배포 정상 02:56",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
-          "sha": "ce4bb030e2854f22c7a958e87c886783463ee428",
-          "message": "chore(screen): weekly refresh 2026-10-17T00:21:03Z",
-          "at": "2026-10-17T00:21:03Z",
-          "url": "https://github.com/munansa1003/us-value-lab/commit/ce4bb030e2854f22c7a958e87c886783463ee428"
+          "sha": "3eb7501d8af10cd8e975833f0f0ea84ba45b106d",
+          "message": "chore(earnings): evening run 2026-10-21T17:55:24Z",
+          "at": "2026-10-21T17:55:24Z",
+          "url": "https://github.com/munansa1003/us-value-lab/commit/3eb7501d8af10cd8e975833f0f0ea84ba45b106d"
         }
       ],
       "ci": {
@@ -121,8 +109,8 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-10-17T00:21:09.622Z",
-        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/HaUnL6pzwukonAysA73AHxQZJgfY"
+        "at": "2026-10-21T17:56:55.969Z",
+        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/AV8M664MSzTCi4HjrPYxJNag6QZg"
       }
     },
     {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-21T13:53:35.285Z",
+  "lastRunAt": "2026-10-21T18:43:04.314Z",
   "sources": [
     {
       "source": "github",
