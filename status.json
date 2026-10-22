@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 6커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(deploy): 3-aa 휴일 관리 운영 배포 기록 — d1d84e9 · 10-22 14:12경 · 세대 20 → 20 · 롤백 좌표 134bb19",
           "at": "2026-10-22T05:42:04Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/6f86c90b978b2385ffddc777cecfe123a34de038"
-        },
-        {
-          "sha": "d1d84e9ecc45e9b6cf1ec8578a4401e499ad4f68",
-          "message": "feat(schedule): 휴일 관리 — 휴일표를 화면에서 더하고 감춘다 (3-aa · 세대 20 불변)",
-          "at": "2026-10-22T05:02:56Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/d1d84e9ecc45e9b6cf1ec8578a4401e499ad4f68"
-        },
-        {
-          "sha": "f6b404afc5d3b773e8b332b2b76548758c58d647",
-          "message": "docs(deploy): 3-z 달력 주차 열 운영 배포 기록 — 134bb19 · 10-22 09:47경 · 세대 20 → 20 · 롤백 좌표 355c1d5",
-          "at": "2026-10-22T00:59:31Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/f6b404afc5d3b773e8b332b2b76548758c58d647"
         }
       ],
       "ci": {
@@ -104,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 02:56",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 02:56",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -129,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-22T13:52:19.827Z",
+  "lastRunAt": "2026-10-22T18:36:12.935Z",
   "sources": [
     {
       "source": "github",
