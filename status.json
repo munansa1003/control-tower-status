@@ -29,20 +29,26 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 2커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "6f86c90b978b2385ffddc777cecfe123a34de038",
-          "message": "docs(deploy): 3-aa 휴일 관리 운영 배포 기록 — d1d84e9 · 10-22 14:12경 · 세대 20 → 20 · 롤백 좌표 134bb19",
-          "at": "2026-10-22T05:42:04Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/6f86c90b978b2385ffddc777cecfe123a34de038"
+          "sha": "60abd4c72311358747b46c7e84470d7a522c1a18",
+          "message": "docs(deploy): 3-ab 새 건 납기 기본값 운영 배포 기록 — 49d3717 · 10-23 15:44경 · 세대 20 → 20 · 롤백 좌표 d1d84e9",
+          "at": "2026-10-23T06:59:41Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/60abd4c72311358747b46c7e84470d7a522c1a18"
+        },
+        {
+          "sha": "49d37173fb7537e11a42419e68a9eff5e3b0a942",
+          "message": "feat(schedule): 새 건의 납기 기본값 «시작일 + 14일» (3-ab · 세대 20 불변)",
+          "at": "2026-10-23T06:41:14Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/49d37173fb7537e11a42419e68a9eff5e3b0a942"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/39729529117",
-        "at": "2026-10-22T05:42:12Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/39914931606",
+        "at": "2026-10-23T06:59:48Z"
       }
     },
     {
@@ -246,7 +252,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-23T01:35:41.023Z",
+  "lastRunAt": "2026-10-23T07:38:45.415Z",
   "sources": [
     {
       "source": "github",
