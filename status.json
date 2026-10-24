@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,12 +37,6 @@
           "message": "docs(deploy): 재고 후속 2 운영 배포 기록 — 89d4703 · 10-24 01:16경 · 세대 20 → 20 · 롤백 좌표 49d3717",
           "at": "2026-10-23T16:21:17Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/267c59d9b8909108e6c22febf11cc183dcf28dae"
-        },
-        {
-          "sha": "89d4703884033d93a6b861238c6459b6959e1efe",
-          "message": "feat(stock): 품명 삭제(로트 없는 품명만) + 값 줄 select 열린 목록 왼쪽 정렬 (후속 2 · 세대 20 불변)",
-          "at": "2026-10-23T15:29:22Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/89d4703884033d93a6b861238c6459b6959e1efe"
         }
       ],
       "ci": {
@@ -98,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 09:32",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 09:32",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -252,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-24T12:44:26.998Z",
+  "lastRunAt": "2026-10-24T16:40:06.633Z",
   "sources": [
     {
       "source": "github",
