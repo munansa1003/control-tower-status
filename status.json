@@ -29,32 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 10커밋 · CI 초록",
+      "note": "오늘 15커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "e40cf910d921fa206826e21e40c1814d4cd6bc4b",
-          "message": "docs(deploy): 1-h 준비 배포 ② 기록 — 08f68bf · 10-26 13:14경 · 세대 20 → 20 · 롤백 좌표 47e9c1e",
-          "at": "2026-10-26T04:16:46Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/e40cf910d921fa206826e21e40c1814d4cd6bc4b"
+          "sha": "80238f7bda198259cd13adc1c87c8dc521d88137",
+          "message": "docs(ops): 공용PC 로컬 폴더 권한 좁힘 기록 — 관리자 · SYSTEM · munansa 셋만",
+          "at": "2026-10-26T10:28:40Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/80238f7bda198259cd13adc1c87c8dc521d88137"
         },
         {
-          "sha": "08f68bf325a43200fa29a1e53392f791defd6b79",
-          "message": "docs(plan): 1-h 준비 R3 · R4 · R6 코드 끝 — 배포 ② 대기 · R3 z 실측 끝 표시",
-          "at": "2026-10-26T03:11:14Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/08f68bf325a43200fa29a1e53392f791defd6b79"
+          "sha": "66e2f699dd3054939c8d2e4f73b095c3dd13561f",
+          "message": "docs: 백업 18:00 첫 정기 실행 확인 — 1800.db + xlsx · ok",
+          "at": "2026-10-26T10:01:27Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/66e2f699dd3054939c8d2e4f73b095c3dd13561f"
         },
         {
-          "sha": "2fdb91035eb89eaf439462e2fef79ec56b532f6d",
-          "message": "feat(auth): 작은 수리 — 권한 화면 뒤집힘 · 잠금 해제 · 토요일 문구 · 드릴 일회용 비밀 (1-h 준비 R6 · 세대 20 불변)",
-          "at": "2026-10-26T03:10:00Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/2fdb91035eb89eaf439462e2fef79ec56b532f6d"
+          "sha": "8cd8489d69ea0f9b3e967b253adc0aa6e77527c2",
+          "message": "docs(deploy): 백업 일 2회 — 02aef82 배포 기록 · 18:00 작업 등록 확인 · 롤백 좌표 08f68bf",
+          "at": "2026-10-26T07:31:27Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/8cd8489d69ea0f9b3e967b253adc0aa6e77527c2"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/40268250322",
-        "at": "2026-10-26T04:16:53Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/40307731075",
+        "at": "2026-10-26T10:28:49Z"
       }
     },
     {
@@ -258,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-26T06:26:20.769Z",
+  "lastRunAt": "2026-10-26T14:21:39.471Z",
   "sources": [
     {
       "source": "github",
