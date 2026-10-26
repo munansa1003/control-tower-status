@@ -29,20 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 10/24 · CI 초록",
+      "note": "오늘 10커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "267c59d9b8909108e6c22febf11cc183dcf28dae",
-          "message": "docs(deploy): 재고 후속 2 운영 배포 기록 — 89d4703 · 10-24 01:16경 · 세대 20 → 20 · 롤백 좌표 49d3717",
-          "at": "2026-10-23T16:21:17Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/267c59d9b8909108e6c22febf11cc183dcf28dae"
+          "sha": "e40cf910d921fa206826e21e40c1814d4cd6bc4b",
+          "message": "docs(deploy): 1-h 준비 배포 ② 기록 — 08f68bf · 10-26 13:14경 · 세대 20 → 20 · 롤백 좌표 47e9c1e",
+          "at": "2026-10-26T04:16:46Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/e40cf910d921fa206826e21e40c1814d4cd6bc4b"
+        },
+        {
+          "sha": "08f68bf325a43200fa29a1e53392f791defd6b79",
+          "message": "docs(plan): 1-h 준비 R3 · R4 · R6 코드 끝 — 배포 ② 대기 · R3 z 실측 끝 표시",
+          "at": "2026-10-26T03:11:14Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/08f68bf325a43200fa29a1e53392f791defd6b79"
+        },
+        {
+          "sha": "2fdb91035eb89eaf439462e2fef79ec56b532f6d",
+          "message": "feat(auth): 작은 수리 — 권한 화면 뒤집힘 · 잠금 해제 · 토요일 문구 · 드릴 일회용 비밀 (1-h 준비 R6 · 세대 20 불변)",
+          "at": "2026-10-26T03:10:00Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/2fdb91035eb89eaf439462e2fef79ec56b532f6d"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/39986079554",
-        "at": "2026-10-23T16:21:26Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/40268250322",
+        "at": "2026-10-26T04:16:53Z"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-26T01:16:30.658Z",
+  "lastRunAt": "2026-10-26T06:26:20.769Z",
   "sources": [
     {
       "source": "github",
