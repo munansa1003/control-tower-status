@@ -117,14 +117,14 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 10/22",
+      "note": "오늘 1커밋",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
-          "sha": "9cab932e9564ac53c497320bea8d71a4367a75cf",
-          "message": "docs: 주간 개발 리포트 2026-10-22",
-          "at": "2026-10-21T23:18:31Z",
-          "url": "https://github.com/munansa1003/weekly-reports/commit/9cab932e9564ac53c497320bea8d71a4367a75cf"
+          "sha": "7bb6787c32845adfed972c939dbb40fb8d77debc",
+          "message": "docs: 주간 개발 리포트 2026-10-29",
+          "at": "2026-10-28T23:15:49Z",
+          "url": "https://github.com/munansa1003/weekly-reports/commit/7bb6787c32845adfed972c939dbb40fb8d77debc"
         }
       ],
       "ci": {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-28T18:54:13.037Z",
+  "lastRunAt": "2026-10-28T23:17:10.489Z",
   "sources": [
     {
       "source": "github",
