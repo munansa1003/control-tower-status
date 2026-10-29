@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,12 +37,6 @@
           "message": "docs(deploy): 3-ac 납기 여유 경고 배포 기록 — 3f081ed · 10-29 16:34경 · 세대 20 → 20 · 롤백 좌표 02aef82",
           "at": "2026-10-29T07:57:39Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/0603a65cef27db926a1c1d3807c97135a6b93b78"
-        },
-        {
-          "sha": "3f081ed97f4adff216e9bd58b746f0febe6ff8cb",
-          "message": "feat(schedule): 달력 «납기 여유 경고» — 주황 띠 + 품명 뒤 [N일] · 넘김 · 옮긴 직후 알림 한 줄 (3-ac)",
-          "at": "2026-10-29T07:31:16Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/3f081ed97f4adff216e9bd58b746f0febe6ff8cb"
         }
       ],
       "ci": {
@@ -98,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 03:42",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 03:42",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -123,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -252,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-29T10:08:16.886Z",
+  "lastRunAt": "2026-10-29T16:58:04.045Z",
   "sources": [
     {
       "source": "github",
