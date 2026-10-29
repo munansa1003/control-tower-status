@@ -29,20 +29,26 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 10/26 · CI 초록",
+      "note": "오늘 2커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "80238f7bda198259cd13adc1c87c8dc521d88137",
-          "message": "docs(ops): 공용PC 로컬 폴더 권한 좁힘 기록 — 관리자 · SYSTEM · munansa 셋만",
-          "at": "2026-10-26T10:28:40Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/80238f7bda198259cd13adc1c87c8dc521d88137"
+          "sha": "0603a65cef27db926a1c1d3807c97135a6b93b78",
+          "message": "docs(deploy): 3-ac 납기 여유 경고 배포 기록 — 3f081ed · 10-29 16:34경 · 세대 20 → 20 · 롤백 좌표 02aef82",
+          "at": "2026-10-29T07:57:39Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/0603a65cef27db926a1c1d3807c97135a6b93b78"
+        },
+        {
+          "sha": "3f081ed97f4adff216e9bd58b746f0febe6ff8cb",
+          "message": "feat(schedule): 달력 «납기 여유 경고» — 주황 띠 + 품명 뒤 [N일] · 넘김 · 옮긴 직후 알림 한 줄 (3-ac)",
+          "at": "2026-10-29T07:31:16Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/3f081ed97f4adff216e9bd58b746f0febe6ff8cb"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/40307731075",
-        "at": "2026-10-26T10:28:49Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/40838796810",
+        "at": "2026-10-29T07:57:46Z"
       }
     },
     {
@@ -246,7 +252,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-29T02:32:35.781Z",
+  "lastRunAt": "2026-10-29T10:08:16.886Z",
   "sources": [
     {
       "source": "github",
