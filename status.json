@@ -29,20 +29,32 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "오늘 4커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "0603a65cef27db926a1c1d3807c97135a6b93b78",
-          "message": "docs(deploy): 3-ac 납기 여유 경고 배포 기록 — 3f081ed · 10-29 16:34경 · 세대 20 → 20 · 롤백 좌표 02aef82",
-          "at": "2026-10-29T07:57:39Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/0603a65cef27db926a1c1d3807c97135a6b93b78"
+          "sha": "d08de48a92aa656174466695abca11a52ed74d9d",
+          "message": "docs(deploy): 범례 «납기 14일 ↓» 배포 기록 — fca84b1 · 10-30 09:30경 · 세대 20 → 20 · 롤백 좌표 08c4ce4",
+          "at": "2026-10-30T00:35:43Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/d08de48a92aa656174466695abca11a52ed74d9d"
+        },
+        {
+          "sha": "fca84b10eef4e28b12893f3bb0978544fabb25b0",
+          "message": "feat(schedule): 달력 범례 «납기 여유 14일 미만» -> «납기 14일 ↓» (3-ac)",
+          "at": "2026-10-30T00:20:52Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/fca84b10eef4e28b12893f3bb0978544fabb25b0"
+        },
+        {
+          "sha": "ff78d1a497d62299fee5544ccf8483b0cf6e48b2",
+          "message": "docs(deploy): 3-ac-3 지난 납기의 [넘김] 유지 배포 기록 — 08c4ce4 · 10-30 08:40경 · 세대 20 → 20 · 롤백 좌표 3f081ed",
+          "at": "2026-10-29T23:52:49Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/ff78d1a497d62299fee5544ccf8483b0cf6e48b2"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/40838796810",
-        "at": "2026-10-29T07:57:46Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/40980679116",
+        "at": "2026-10-30T00:35:51Z"
       }
     },
     {
@@ -246,7 +258,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-29T21:51:33.740Z",
+  "lastRunAt": "2026-10-30T02:00:03.499Z",
   "sources": [
     {
       "source": "github",
