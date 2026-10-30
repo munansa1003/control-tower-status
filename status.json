@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 8커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,18 +37,6 @@
           "message": "docs(deploy): 3-ad 현장 인쇄(2주 일정표) 배포 기록 — 4fe7bca · 10-30 14:08경 · 세대 20 → 20 · 롤백 좌표 fca84b1",
           "at": "2026-10-30T05:19:15Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/2024573ab2d466e64cc51269ead68ece627cbe4a"
-        },
-        {
-          "sha": "4fe7bca63d0aadb809736542cab06d3f242c3443",
-          "message": "feat(schedule): 현장 인쇄 — 2주 일정표(이번 주 자세히 + 다음 주 한 줄씩 · A4 가로 한 장) (3-ad)",
-          "at": "2026-10-30T05:01:29Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/4fe7bca63d0aadb809736542cab06d3f242c3443"
-        },
-        {
-          "sha": "080d0e26a22a1dc5db3b414dd47c401e52445672",
-          "message": "fix(gate): 넘어진 vitest 회차의 출력은 화면에 다시 쏟지 않는다 — 꼬리 15줄 + 파일",
-          "at": "2026-10-30T02:28:32Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/080d0e26a22a1dc5db3b414dd47c401e52445672"
         }
       ],
       "ci": {
@@ -104,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 03:50",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 03:50",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -129,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 10/29",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-10-30T08:44:20.538Z",
+  "lastRunAt": "2026-10-30T15:59:39.921Z",
   "sources": [
     {
       "source": "github",
