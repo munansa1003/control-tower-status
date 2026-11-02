@@ -74,14 +74,14 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 10/26",
+      "note": "오늘 1커밋",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
-          "sha": "3f265428434f2e1f3d70b144814a7b7295abe032",
-          "message": "chore: weekly digest inbox (2026-10-25)",
-          "at": "2026-10-25T23:02:09Z",
-          "url": "https://github.com/munansa1003/estate-ledger/commit/3f265428434f2e1f3d70b144814a7b7295abe032"
+          "sha": "31bb8d8d9c80c963a148733712b293fef46dc4c2",
+          "message": "chore: weekly digest inbox (2026-11-02)",
+          "at": "2026-11-02T00:17:52Z",
+          "url": "https://github.com/munansa1003/estate-ledger/commit/31bb8d8d9c80c963a148733712b293fef46dc4c2"
         }
       ],
       "ci": {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-11-01T21:14:08.176Z",
+  "lastRunAt": "2026-11-02T00:52:08.713Z",
   "sources": [
     {
       "source": "github",
