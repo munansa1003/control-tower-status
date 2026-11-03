@@ -29,20 +29,26 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 10/30 · CI 초록",
+      "note": "오늘 2커밋 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "2024573ab2d466e64cc51269ead68ece627cbe4a",
-          "message": "docs(deploy): 3-ad 현장 인쇄(2주 일정표) 배포 기록 — 4fe7bca · 10-30 14:08경 · 세대 20 → 20 · 롤백 좌표 fca84b1",
-          "at": "2026-10-30T05:19:15Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/2024573ab2d466e64cc51269ead68ece627cbe4a"
+          "sha": "8eb52e916376d0d2c91676fee6c69e546958f5b9",
+          "message": "docs(deploy): 3-ae 일정 이름 규칙(새 건은 품명 먼저) 배포 기록 — 7f8e370 · 11-03 11:04경 · 세대 20 → 20 · 롤백 좌표 4fe7bca",
+          "at": "2026-11-03T02:14:14Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/8eb52e916376d0d2c91676fee6c69e546958f5b9"
+        },
+        {
+          "sha": "7f8e37093c70ac280c176c5e473c619daa43b717",
+          "message": "fix(schedule): 새 건은 사람이 적은 품명이 먼저 — 복제본 · 고객사 붙인 건의 품명 고침이 화면에 안 나오던 것 (3-ae)",
+          "at": "2026-11-03T01:59:51Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/7f8e37093c70ac280c176c5e473c619daa43b717"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/41007798280",
-        "at": "2026-10-30T05:19:29Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/41564848124",
+        "at": "2026-11-03T02:14:19Z"
       }
     },
     {
@@ -246,7 +252,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-11-03T01:39:15.426Z",
+  "lastRunAt": "2026-11-03T09:40:28.897Z",
   "sources": [
     {
       "source": "github",
