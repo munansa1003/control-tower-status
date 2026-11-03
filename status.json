@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -37,12 +37,6 @@
           "message": "docs(deploy): 3-ae 일정 이름 규칙(새 건은 품명 먼저) 배포 기록 — 7f8e370 · 11-03 11:04경 · 세대 20 → 20 · 롤백 좌표 4fe7bca",
           "at": "2026-11-03T02:14:14Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/8eb52e916376d0d2c91676fee6c69e546958f5b9"
-        },
-        {
-          "sha": "7f8e37093c70ac280c176c5e473c619daa43b717",
-          "message": "fix(schedule): 새 건은 사람이 적은 품명이 먼저 — 복제본 · 고객사 붙인 건의 품명 고침이 화면에 안 나오던 것 (3-ae)",
-          "at": "2026-11-03T01:59:51Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/7f8e37093c70ac280c176c5e473c619daa43b717"
         }
       ],
       "ci": {
@@ -80,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 11/2",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -252,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-11-03T09:40:28.897Z",
+  "lastRunAt": "2026-11-03T17:54:06.066Z",
   "sources": [
     {
       "source": "github",
