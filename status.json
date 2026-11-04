@@ -226,14 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "마지막 커밋 8/10 · 배포 정상 16:30",
+      "note": "오늘 5커밋 · 배포 정상 11:29",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "39531d059c10348a3d17ed484da0856b487714f0",
-          "message": "docs(proposal): 뉴스 업그레이드 4가지 방향 제안서 (#21)",
-          "at": "2026-08-10T07:30:36Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/39531d059c10348a3d17ed484da0856b487714f0"
+          "sha": "a9e3a39bfd9b2ee7256928cdc31a5a0567579c08",
+          "message": "Rename M10-reactivation-phase1.md to milestones/M10-reactivation-phase1.md",
+          "at": "2026-11-04T02:29:06Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/a9e3a39bfd9b2ee7256928cdc31a5a0567579c08"
+        },
+        {
+          "sha": "4663a29fd8f875b957b08fe9877697848d21bc71",
+          "message": "Add settings.json for permission configurations",
+          "at": "2026-11-04T02:15:35Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/4663a29fd8f875b957b08fe9877697848d21bc71"
+        },
+        {
+          "sha": "733187ada13d44930e91f32dab40caa3cca5a9f9",
+          "message": "Delete .claude /settings.json",
+          "at": "2026-11-04T02:14:40Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/733187ada13d44930e91f32dab40caa3cca5a9f9"
         }
       ],
       "ci": {
@@ -241,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-08-10T07:30:39.922Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/2iuoNWAKrQZWfjpvB1XVasycGG4u"
+        "at": "2026-11-04T02:29:08.933Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/J3CeS14vvZEgA17dNT3sxwzMw3q5"
       }
     }
   ],
-  "lastRunAt": "2026-11-03T23:28:51.078Z",
+  "lastRunAt": "2026-11-04T06:37:59.982Z",
   "sources": [
     {
       "source": "github",
