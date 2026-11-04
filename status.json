@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "마지막 커밋 11/3 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -226,26 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 5커밋 · 배포 정상 11:29",
+      "note": "마지막 커밋 어제 · 배포 정상 20:55",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "a9e3a39bfd9b2ee7256928cdc31a5a0567579c08",
-          "message": "Rename M10-reactivation-phase1.md to milestones/M10-reactivation-phase1.md",
-          "at": "2026-11-04T02:29:06Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/a9e3a39bfd9b2ee7256928cdc31a5a0567579c08"
-        },
-        {
-          "sha": "4663a29fd8f875b957b08fe9877697848d21bc71",
-          "message": "Add settings.json for permission configurations",
-          "at": "2026-11-04T02:15:35Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/4663a29fd8f875b957b08fe9877697848d21bc71"
-        },
-        {
-          "sha": "733187ada13d44930e91f32dab40caa3cca5a9f9",
-          "message": "Delete .claude /settings.json",
-          "at": "2026-11-04T02:14:40Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/733187ada13d44930e91f32dab40caa3cca5a9f9"
+          "sha": "42526d1aa70e0dce285a7f94c87ccf463a992ddf",
+          "message": "Merge pull request #23 from munansa1003/claude/eager-volta-89boak",
+          "at": "2026-11-04T11:55:41Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/42526d1aa70e0dce285a7f94c87ccf463a992ddf"
         }
       ],
       "ci": {
@@ -253,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-04T02:29:08.933Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/J3CeS14vvZEgA17dNT3sxwzMw3q5"
+        "at": "2026-11-04T11:55:44.463Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/FS75puKsRpwJS6t872deDVVPDAxg"
       }
     }
   ],
-  "lastRunAt": "2026-11-04T06:37:59.982Z",
+  "lastRunAt": "2026-11-04T15:30:30.061Z",
   "sources": [
     {
       "source": "github",
