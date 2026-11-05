@@ -226,26 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 24커밋 · 배포 정상 10:59",
+      "note": "오늘 32커밋 · 배포 정상 17:56",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "b348bb90cf261749f2d264138196d2aeae5e59f8",
-          "message": "Merge pull request #26 from munansa1003/claude/zealous-thompson-6tjblo",
-          "at": "2026-11-05T01:59:43Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b348bb90cf261749f2d264138196d2aeae5e59f8"
+          "sha": "c336c9dfbbd4c7bc7fbddf38e44240ce397389a8",
+          "message": "Merge pull request #27 from munansa1003/ship/m10-1d-accuracy",
+          "at": "2026-11-05T08:56:24Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/c336c9dfbbd4c7bc7fbddf38e44240ce397389a8"
         },
         {
-          "sha": "01d4fa37db75fed2460fadeac10107a113c35666",
-          "message": "docs(progress): M10 1-C2 상태 pr_open · PR 26 · 백로그 1줄 (report '지금 규칙' 표 이름)",
-          "at": "2026-11-05T00:32:24Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/01d4fa37db75fed2460fadeac10107a113c35666"
+          "sha": "b6cfd4af0bbe3f2e2be64ae3ed849e5fb2db0576",
+          "message": "docs(progress): M10 1-D1 상태 pr_open · PR 27",
+          "at": "2026-11-05T08:55:55Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b6cfd4af0bbe3f2e2be64ae3ed849e5fb2db0576"
         },
         {
-          "sha": "d3ddc2292ed019951a0b21ead346b08714c201cb",
-          "message": "docs(m10-1c2): 정지점 1 답 · 구현 결과 (고장 6가지 · 작업실 화면 PC/휴대폰 · 다크 색) · 진행 기록 local_green",
-          "at": "2026-11-05T00:29:11Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/d3ddc2292ed019951a0b21ead346b08714c201cb"
+          "sha": "45d7be11a6c5440cdbfe737f84d74d9d32205bcc",
+          "message": "docs(m10-1d1): 장 끝난 뒤 실측 (11/5 17:41 KST) — 국내 변동 Yahoo = 네이버 · 네이버 마감 CLOSE · report 대조 · 백로그 1-D 3줄 [x]",
+          "at": "2026-11-05T08:50:57Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/45d7be11a6c5440cdbfe737f84d74d9d32205bcc"
         }
       ],
       "ci": {
@@ -253,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-05T01:59:46.603Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/AXgrabDPfmjKhWXZDotMowRqwhzi"
+        "at": "2026-11-05T08:56:27.902Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/5pSyi8sUWJpdjSUrQgvSkJYUPE6G"
       }
     }
   ],
-  "lastRunAt": "2026-11-05T02:33:12.588Z",
+  "lastRunAt": "2026-11-05T11:06:28.730Z",
   "sources": [
     {
       "source": "github",
