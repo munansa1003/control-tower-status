@@ -117,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -226,7 +226,7 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 32커밋 · 배포 정상 17:56",
+      "note": "마지막 커밋 어제 · 배포 정상 17:56",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
@@ -234,18 +234,6 @@
           "message": "Merge pull request #27 from munansa1003/ship/m10-1d-accuracy",
           "at": "2026-11-05T08:56:24Z",
           "url": "https://github.com/munansa1003/Daniel-daily-news/commit/c336c9dfbbd4c7bc7fbddf38e44240ce397389a8"
-        },
-        {
-          "sha": "b6cfd4af0bbe3f2e2be64ae3ed849e5fb2db0576",
-          "message": "docs(progress): M10 1-D1 상태 pr_open · PR 27",
-          "at": "2026-11-05T08:55:55Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b6cfd4af0bbe3f2e2be64ae3ed849e5fb2db0576"
-        },
-        {
-          "sha": "45d7be11a6c5440cdbfe737f84d74d9d32205bcc",
-          "message": "docs(m10-1d1): 장 끝난 뒤 실측 (11/5 17:41 KST) — 국내 변동 Yahoo = 네이버 · 네이버 마감 CLOSE · report 대조 · 백로그 1-D 3줄 [x]",
-          "at": "2026-11-05T08:50:57Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/45d7be11a6c5440cdbfe737f84d74d9d32205bcc"
         }
       ],
       "ci": {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-11-05T11:06:28.730Z",
+  "lastRunAt": "2026-11-05T18:49:18.596Z",
   "sources": [
     {
       "source": "github",
