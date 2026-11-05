@@ -117,14 +117,14 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 10/29",
+      "note": "오늘 1커밋",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
-          "sha": "7bb6787c32845adfed972c939dbb40fb8d77debc",
-          "message": "docs: 주간 개발 리포트 2026-10-29",
-          "at": "2026-10-28T23:15:49Z",
-          "url": "https://github.com/munansa1003/weekly-reports/commit/7bb6787c32845adfed972c939dbb40fb8d77debc"
+          "sha": "6156c07f0f1e5ce4b53d8d60b0c1d7adcdb9d54a",
+          "message": "docs: 주간 개발 리포트 2026-11-05",
+          "at": "2026-11-04T23:14:19Z",
+          "url": "https://github.com/munansa1003/weekly-reports/commit/6156c07f0f1e5ce4b53d8d60b0c1d7adcdb9d54a"
         }
       ],
       "ci": {
@@ -226,26 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 9커밋 · 배포 정상 06:39",
+      "note": "오늘 24커밋 · 배포 정상 10:59",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "d578e574b7b1ace445d6e3699ad4eb737da9fe7b",
-          "message": "Merge pull request #24 from munansa1003/claude/amazing-fermi-4fj8uk",
-          "at": "2026-11-04T21:39:31Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/d578e574b7b1ace445d6e3699ad4eb737da9fe7b"
+          "sha": "b348bb90cf261749f2d264138196d2aeae5e59f8",
+          "message": "Merge pull request #26 from munansa1003/claude/zealous-thompson-6tjblo",
+          "at": "2026-11-05T01:59:43Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b348bb90cf261749f2d264138196d2aeae5e59f8"
         },
         {
-          "sha": "88caf2ecbb94b93e2de7d1d8075c64df371c72f3",
-          "message": "docs(m10-1b): 정지점 2 결정 · 바꾸기 전후 비교 · 새 수집 2(06:26) · Bloomberg 실측 · 백로그 Yahoo 3줄",
-          "at": "2026-11-04T21:30:13Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/88caf2ecbb94b93e2de7d1d8075c64df371c72f3"
+          "sha": "01d4fa37db75fed2460fadeac10107a113c35666",
+          "message": "docs(progress): M10 1-C2 상태 pr_open · PR 26 · 백로그 1줄 (report '지금 규칙' 표 이름)",
+          "at": "2026-11-05T00:32:24Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/01d4fa37db75fed2460fadeac10107a113c35666"
         },
         {
-          "sha": "0b0c12dbbe052c2304586f5e2ee153490a794414",
-          "message": "fix(news-window): 시간대 균등 — 구간 안·남는 몫 모두 시간순 같은 간격 자리에서 (M10 1-B 정지점 2)",
-          "at": "2026-11-04T21:29:38Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/0b0c12dbbe052c2304586f5e2ee153490a794414"
+          "sha": "d3ddc2292ed019951a0b21ead346b08714c201cb",
+          "message": "docs(m10-1c2): 정지점 1 답 · 구현 결과 (고장 6가지 · 작업실 화면 PC/휴대폰 · 다크 색) · 진행 기록 local_green",
+          "at": "2026-11-05T00:29:11Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/d3ddc2292ed019951a0b21ead346b08714c201cb"
         }
       ],
       "ci": {
@@ -253,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-04T21:39:36.426Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/BaES7ra2Fpv5Z3EnM2sN8hJSxBET"
+        "at": "2026-11-05T01:59:46.603Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/AXgrabDPfmjKhWXZDotMowRqwhzi"
       }
     }
   ],
-  "lastRunAt": "2026-11-04T21:56:50.864Z",
+  "lastRunAt": "2026-11-05T02:33:12.588Z",
   "sources": [
     {
       "source": "github",
