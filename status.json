@@ -117,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 11/5",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -226,14 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "마지막 커밋 어제 · 배포 정상 17:56",
+      "note": "마지막 커밋 어제 · 배포 정상 22:08",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "c336c9dfbbd4c7bc7fbddf38e44240ce397389a8",
-          "message": "Merge pull request #27 from munansa1003/ship/m10-1d-accuracy",
-          "at": "2026-11-05T08:56:24Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/c336c9dfbbd4c7bc7fbddf38e44240ce397389a8"
+          "sha": "97b6d859f748131e6df546e6ea015ccdd0cae281",
+          "message": "Merge pull request #29 from munansa1003/claude/compassionate-dirac-c0futs",
+          "at": "2026-11-06T13:08:02Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/97b6d859f748131e6df546e6ea015ccdd0cae281"
         }
       ],
       "ci": {
@@ -241,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-05T08:56:27.902Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/5pSyi8sUWJpdjSUrQgvSkJYUPE6G"
+        "at": "2026-11-06T13:08:06.097Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/9X3f9cf666Rbwi4re9mZ4X76PpNT"
       }
     }
   ],
-  "lastRunAt": "2026-11-06T07:58:42.758Z",
+  "lastRunAt": "2026-11-06T15:58:53.189Z",
   "sources": [
     {
       "source": "github",
