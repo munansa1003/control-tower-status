@@ -92,14 +92,14 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "마지막 커밋 10/31 · CI 초록 · 배포 정상 10:33",
+      "note": "오늘 1커밋 · CI 초록 · 배포 정상 10:53",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
-          "sha": "06961c1b191a8bf2d9f34eab24c253247864499b",
-          "message": "chore(screen): weekly refresh 2026-10-31T01:33:07Z",
-          "at": "2026-10-31T01:33:07Z",
-          "url": "https://github.com/munansa1003/us-value-lab/commit/06961c1b191a8bf2d9f34eab24c253247864499b"
+          "sha": "8d40865a67c1a138ba752035cbf39557a6ef900d",
+          "message": "chore(screen): weekly refresh 2026-11-07T01:53:01Z",
+          "at": "2026-11-07T01:53:01Z",
+          "url": "https://github.com/munansa1003/us-value-lab/commit/8d40865a67c1a138ba752035cbf39557a6ef900d"
         }
       ],
       "ci": {
@@ -109,8 +109,8 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-10-31T01:33:10.762Z",
-        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/3B3oUdxeNyfpgmGHd81gq3ESfs9S"
+        "at": "2026-11-07T01:53:05.831Z",
+        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/2EovvtGrQxZ7vLhWbPE9NUs5Evrm"
       }
     },
     {
@@ -226,14 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "마지막 커밋 어제 · 배포 정상 22:08",
+      "note": "오늘 4커밋 · 배포 정상 10:05",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "97b6d859f748131e6df546e6ea015ccdd0cae281",
-          "message": "Merge pull request #29 from munansa1003/claude/compassionate-dirac-c0futs",
-          "at": "2026-11-06T13:08:02Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/97b6d859f748131e6df546e6ea015ccdd0cae281"
+          "sha": "887ddc02f65584326e2e92fdae4b8817c1274f66",
+          "message": "Merge pull request #30 from munansa1003/claude/m10-1f-workflow",
+          "at": "2026-11-07T01:05:07Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/887ddc02f65584326e2e92fdae4b8817c1274f66"
+        },
+        {
+          "sha": "7a3afe4c96f10e3c402fffcad68e140c760971bc",
+          "message": "docs(progress): M10 1-E merged (PR 29 · 97b6d85) · 1-F 절 local_green · 백로그 1줄 (예약 두 번이 붙어 올 때 2차의 checkout 커밋)",
+          "at": "2026-11-06T21:41:41Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/7a3afe4c96f10e3c402fffcad68e140c760971bc"
+        },
+        {
+          "sha": "02e860478a1e6c9e02fca7d44fbbf5d6c16652da",
+          "message": "ci(m10-1f): PR 검사 워크플로 — pull_request 마다 npm ci → npm run check (Node 22)",
+          "at": "2026-11-06T21:40:37Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/02e860478a1e6c9e02fca7d44fbbf5d6c16652da"
         }
       ],
       "ci": {
@@ -241,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-06T13:08:06.097Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/9X3f9cf666Rbwi4re9mZ4X76PpNT"
+        "at": "2026-11-07T01:05:11.182Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/BgstfbeXkjbUPYuzo3r1CrwYCasU"
       }
     }
   ],
-  "lastRunAt": "2026-11-06T21:34:55.956Z",
+  "lastRunAt": "2026-11-07T01:59:28.443Z",
   "sources": [
     {
       "source": "github",
