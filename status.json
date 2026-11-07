@@ -226,14 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "마지막 커밋 어제 · 배포 정상 13:29",
+      "note": "오늘 1커밋 · 배포 정상 07:44",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "ef3af89ba86070c5e41c66903214fadfa3450c4f",
-          "message": "Merge pull request #31 from munansa1003/claude/zen-volta-r9ccy9",
-          "at": "2026-11-07T04:29:34Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/ef3af89ba86070c5e41c66903214fadfa3450c4f"
+          "sha": "15118a74be6947a437611de67fd702ef41c9f77f",
+          "message": "chore(news): 2026-11-08 다이제스트 자동 생성",
+          "at": "2026-11-07T22:44:56Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/15118a74be6947a437611de67fd702ef41c9f77f"
         }
       ],
       "ci": {
@@ -241,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-07T04:29:37.902Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/9cjBhA8tW3rDPEkvo3esNNdQrzFj"
+        "at": "2026-11-07T22:44:58.788Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/E8RUbZ6JC6BSJXEZtid2NXYQtSo6"
       }
     }
   ],
-  "lastRunAt": "2026-11-07T20:16:52.399Z",
+  "lastRunAt": "2026-11-07T23:42:28.331Z",
   "sources": [
     {
       "source": "github",
