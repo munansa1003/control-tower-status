@@ -92,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 10:53",
+      "note": "마지막 커밋 11/7 · CI 초록 · 배포 정상 10:53",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -226,7 +226,7 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 4커밋 · 배포 정상 16:35",
+      "note": "마지막 커밋 어제 · 배포 정상 16:35",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
@@ -234,18 +234,6 @@
           "message": "Merge pull request #32 from munansa1003/claude/zen-volta-r9ccy9",
           "at": "2026-11-08T07:35:52Z",
           "url": "https://github.com/munansa1003/Daniel-daily-news/commit/6f622850d2aeef17d32aaf7b8c9e5b164b8769ac"
-        },
-        {
-          "sha": "3d8d6a74cc38ce924a55ee677d0ee88a76d4e1a6",
-          "message": "docs(progress): M10 1-F 재가동 merged (PR 31 · ef3af89) · 11/8 첫 예약 기록 · 1-F 뒤따름 절 local_green · 백로그 '재가동 PR 에서 판단' [x]",
-          "at": "2026-11-07T23:47:03Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/3d8d6a74cc38ce924a55ee677d0ee88a76d4e1a6"
-        },
-        {
-          "sha": "adbb5c26e960a464d0cac2e5de41252bf468c7f4",
-          "message": "ci(m10-1f): checkout 이 고른 가지의 끝을 받게 — actions/checkout@v5 에 ref: ${{ github.ref }}",
-          "at": "2026-11-07T23:45:02Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/adbb5c26e960a464d0cac2e5de41252bf468c7f4"
         }
       ],
       "ci": {
@@ -258,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-11-08T13:37:59.354Z",
+  "lastRunAt": "2026-11-08T18:52:18.867Z",
   "sources": [
     {
       "source": "github",
