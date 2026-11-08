@@ -226,14 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "마지막 커밋 어제 · 배포 정상 16:35",
+      "note": "오늘 21커밋 · 배포 정상 07:55",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "6f622850d2aeef17d32aaf7b8c9e5b164b8769ac",
-          "message": "Merge pull request #32 from munansa1003/claude/zen-volta-r9ccy9",
-          "at": "2026-11-08T07:35:52Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/6f622850d2aeef17d32aaf7b8c9e5b164b8769ac"
+          "sha": "ae40f2c23b663e9794330ea66276f5f218cad95e",
+          "message": "Merge pull request #34 from munansa1003/claude/modest-fermat-8g8ya8",
+          "at": "2026-11-08T22:54:58Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/ae40f2c23b663e9794330ea66276f5f218cad95e"
+        },
+        {
+          "sha": "58ccb215bd06e20c6ec9ed06337f3f6e3950671d",
+          "message": "chore(news): 2026-11-09 다이제스트 자동 생성",
+          "at": "2026-11-08T22:54:19Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/58ccb215bd06e20c6ec9ed06337f3f6e3950671d"
+        },
+        {
+          "sha": "2d8ce463c3f14e44e2c87679aac55ea9c3781f9d",
+          "message": "docs(progress): M11 0-2 상태 pr_open · PR 34",
+          "at": "2026-11-08T22:32:17Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/2d8ce463c3f14e44e2c87679aac55ea9c3781f9d"
         }
       ],
       "ci": {
@@ -241,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-08T07:35:55.787Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/AaoHZi2SXFnDxGyDMD4JV3wV6oR4"
+        "at": "2026-11-08T22:55:00.943Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/2HCa9jmWbEVSy3vTtkNHU7DHCqmJ"
       }
     }
   ],
-  "lastRunAt": "2026-11-08T18:52:18.867Z",
+  "lastRunAt": "2026-11-08T22:56:32.842Z",
   "sources": [
     {
       "source": "github",
