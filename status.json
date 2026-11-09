@@ -4,25 +4,31 @@
       "id": "dyp-proto-team",
       "name": "Proto Team",
       "status": "ok",
-      "note": "마지막 커밋 8/28 · CI 초록 · 배포 정상 15:49",
+      "note": "오늘 2커밋 · CI 초록 · 배포 정상 11:12",
       "repoUrl": "https://github.com/munansa1003/DYP_Proto_Team",
       "commits": [
         {
-          "sha": "01922bc1216bf27abbcf783ff45f286318fa8dd6",
-          "message": "feat(gantt): 행 수정 아이콘을 이모지에서 SVG 로 바꾼다 (C안) (#188)",
-          "at": "2026-08-28T06:49:00Z",
-          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/01922bc1216bf27abbcf783ff45f286318fa8dd6"
+          "sha": "e7c5e97ee3166da1ae713040673085d9e29a260a",
+          "message": "feat(ops): M1a 서버 따라잡기 — 버전 표시 · PT552 배포 도구 · 재무 결함 3건 (#191)",
+          "at": "2026-11-09T02:11:57Z",
+          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/e7c5e97ee3166da1ae713040673085d9e29a260a"
+        },
+        {
+          "sha": "f4353fd75d85621407a237281234f7321932437b",
+          "message": "chore(ops): M0 운영 안정화 — PC 밖 백업 도구 · 개발 서버 LAN 노출 차단 · 의존성 audit fix (#190)",
+          "at": "2026-11-08T22:59:37Z",
+          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/f4353fd75d85621407a237281234f7321932437b"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/33149222272",
-        "at": "2026-08-28T06:49:03Z"
+        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/42549586659",
+        "at": "2026-11-09T02:12:00Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-08-28T06:49:03.242Z",
-        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/4MNfdNRvCeRzyBYEdghtszia5fU8"
+        "at": "2026-11-09T02:12:01.271Z",
+        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/F2FKcHEggbq8J9KXsBZhjaKpQjZN"
       }
     },
     {
@@ -74,14 +80,14 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 11/2",
+      "note": "오늘 1커밋",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
-          "sha": "31bb8d8d9c80c963a148733712b293fef46dc4c2",
-          "message": "chore: weekly digest inbox (2026-11-02)",
-          "at": "2026-11-02T00:17:52Z",
-          "url": "https://github.com/munansa1003/estate-ledger/commit/31bb8d8d9c80c963a148733712b293fef46dc4c2"
+          "sha": "e8137060b5c796fd569acb76eb4e56f493f124f5",
+          "message": "chore: weekly digest inbox (2026-11-09)",
+          "at": "2026-11-09T00:34:41Z",
+          "url": "https://github.com/munansa1003/estate-ledger/commit/e8137060b5c796fd569acb76eb4e56f493f124f5"
         }
       ],
       "ci": {
@@ -226,26 +232,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 21커밋 · 배포 정상 07:55",
+      "note": "오늘 36커밋 · 배포 정상 09:31",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "ae40f2c23b663e9794330ea66276f5f218cad95e",
-          "message": "Merge pull request #34 from munansa1003/claude/modest-fermat-8g8ya8",
-          "at": "2026-11-08T22:54:58Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/ae40f2c23b663e9794330ea66276f5f218cad95e"
+          "sha": "76ff8d1af41d5fef41c496e698228cba3aaf7689",
+          "message": "Merge pull request #36 from munansa1003/claude/beautiful-euler-vzygd0",
+          "at": "2026-11-09T00:31:10Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/76ff8d1af41d5fef41c496e698228cba3aaf7689"
         },
         {
-          "sha": "58ccb215bd06e20c6ec9ed06337f3f6e3950671d",
-          "message": "chore(news): 2026-11-09 다이제스트 자동 생성",
-          "at": "2026-11-08T22:54:19Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/58ccb215bd06e20c6ec9ed06337f3f6e3950671d"
+          "sha": "c53150924551885dedf0c671714f73e20a5c8df6",
+          "message": "docs(progress): M11 1-1 — main (PR #35 워크플로 6줄 삭제 · 841eb2b) 을 이 가지에 합침 (1af3331) · 드라이런 준비 끝",
+          "at": "2026-11-09T00:17:37Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/c53150924551885dedf0c671714f73e20a5c8df6"
         },
         {
-          "sha": "2d8ce463c3f14e44e2c87679aac55ea9c3781f9d",
-          "message": "docs(progress): M11 0-2 상태 pr_open · PR 34",
-          "at": "2026-11-08T22:32:17Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/2d8ce463c3f14e44e2c87679aac55ea9c3781f9d"
+          "sha": "1af33319d35ee05360b0a5f6579e3d5323df6da0",
+          "message": "Merge origin/main (PR #35 — 워크플로 Fetch and build digest env 의 SUMMARIZE_MODEL · COMMENT_MODEL 6줄 삭제) into claude/beautiful-euler-vzygd0 — PR 가지 드라이런에서도 요약 · 코멘트가 코드 기본값 (Haiku 5.5) 으로 돌게 (M11 1-1 정지점 1 답 2)",
+          "at": "2026-11-09T00:17:05Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/1af33319d35ee05360b0a5f6579e3d5323df6da0"
         }
       ],
       "ci": {
@@ -253,12 +259,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-08T22:55:00.943Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/2HCa9jmWbEVSy3vTtkNHU7DHCqmJ"
+        "at": "2026-11-09T00:31:13.988Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/8a719x2atc36SMEFSucGzErokoDX"
       }
     }
   ],
-  "lastRunAt": "2026-11-08T22:56:32.842Z",
+  "lastRunAt": "2026-11-09T02:43:07.117Z",
   "sources": [
     {
       "source": "github",
