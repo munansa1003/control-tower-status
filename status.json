@@ -4,31 +4,37 @@
       "id": "dyp-proto-team",
       "name": "Proto Team",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록 · 배포 정상 11:12",
+      "note": "오늘 4커밋 · CI 초록 · 배포 정상 20:04",
       "repoUrl": "https://github.com/munansa1003/DYP_Proto_Team",
       "commits": [
+        {
+          "sha": "8d36bd994b4d266aea1466d7011c55e838172daa",
+          "message": "feat(security): M1b 보안 보강 — 관문 순서·127.0.0.1·관리 경로 PC 전용·감사 180일·06:00 백업·압축·재고권 안전장치 (#193)",
+          "at": "2026-11-09T11:04:52Z",
+          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/8d36bd994b4d266aea1466d7011c55e838172daa"
+        },
+        {
+          "sha": "8550089880c5c7d538ebedcc0985d2e8ea783122",
+          "message": "docs: M1a 배포 실행 기록 — 11:45 KST 배포·재무 재투입 결과·DoD 검증 (#192)",
+          "at": "2026-11-09T08:22:55Z",
+          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/8550089880c5c7d538ebedcc0985d2e8ea783122"
+        },
         {
           "sha": "e7c5e97ee3166da1ae713040673085d9e29a260a",
           "message": "feat(ops): M1a 서버 따라잡기 — 버전 표시 · PT552 배포 도구 · 재무 결함 3건 (#191)",
           "at": "2026-11-09T02:11:57Z",
           "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/e7c5e97ee3166da1ae713040673085d9e29a260a"
-        },
-        {
-          "sha": "f4353fd75d85621407a237281234f7321932437b",
-          "message": "chore(ops): M0 운영 안정화 — PC 밖 백업 도구 · 개발 서버 LAN 노출 차단 · 의존성 audit fix (#190)",
-          "at": "2026-11-08T22:59:37Z",
-          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/f4353fd75d85621407a237281234f7321932437b"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/42549586659",
-        "at": "2026-11-09T02:12:00Z"
+        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/42606090623",
+        "at": "2026-11-09T11:04:55Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-09T02:12:01.271Z",
-        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/F2FKcHEggbq8J9KXsBZhjaKpQjZN"
+        "at": "2026-11-09T11:04:56.351Z",
+        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/2rRYHWwRpxmzYxkx2KkEfcGNFT2U"
       }
     },
     {
@@ -232,26 +238,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 36커밋 · 배포 정상 09:31",
+      "note": "오늘 91커밋 · 배포 정상 20:22",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "76ff8d1af41d5fef41c496e698228cba3aaf7689",
-          "message": "Merge pull request #36 from munansa1003/claude/beautiful-euler-vzygd0",
-          "at": "2026-11-09T00:31:10Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/76ff8d1af41d5fef41c496e698228cba3aaf7689"
+          "sha": "850b0f05827f604ee38b7f83f4d4dd6c65eb5c07",
+          "message": "Merge pull request #40 from munansa1003/claude/m11-ai-news-first-togphn",
+          "at": "2026-11-09T11:22:24Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/850b0f05827f604ee38b7f83f4d4dd6c65eb5c07"
         },
         {
-          "sha": "c53150924551885dedf0c671714f73e20a5c8df6",
-          "message": "docs(progress): M11 1-1 — main (PR #35 워크플로 6줄 삭제 · 841eb2b) 을 이 가지에 합침 (1af3331) · 드라이런 준비 끝",
-          "at": "2026-11-09T00:17:37Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/c53150924551885dedf0c671714f73e20a5c8df6"
+          "sha": "a9f08dd800943436a949e0febe3bd63ae5cf0a05",
+          "message": "docs(m11-1-4): 드라이런 #84 한 줄 (사람 기록 — #83 과 같음 · 'AI' 칸 5건 모두 사건 1 과 같은 소식 · $0.1015) · 바로잡기 (가드가 건너뛴 회차는 #81 — run 42601843185 · 25초, #82 는 시작 전 취소) · 겹침 결정: 1-4 는 그대로 (병합은 사람 — 11/10 아침 운영 신문 확인 뒤) · 다음 조각 1-4b 'AI 칸 같은 소식 거르기' 를 명세 3장 1-4 다음에 한 줄 · 백로그 AI타임스 머리표 줄을 1-4b 로",
+          "at": "2026-11-09T11:06:15Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/a9f08dd800943436a949e0febe3bd63ae5cf0a05"
         },
         {
-          "sha": "1af33319d35ee05360b0a5f6579e3d5323df6da0",
-          "message": "Merge origin/main (PR #35 — 워크플로 Fetch and build digest env 의 SUMMARIZE_MODEL · COMMENT_MODEL 6줄 삭제) into claude/beautiful-euler-vzygd0 — PR 가지 드라이런에서도 요약 · 코멘트가 코드 기본값 (Haiku 5.5) 으로 돌게 (M11 1-1 정지점 1 답 2)",
-          "at": "2026-11-09T00:17:05Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/1af33319d35ee05360b0a5f6579e3d5323df6da0"
+          "sha": "941997efafe34090f73e232bf92b05c663918de8",
+          "message": "docs(m11-1-4): 드라이런 #83 결과 — 피드 24개 모두 받음 (받기 실패 0) · AI 데스크 실림 30 · 빼기 규칙 안 걸림 (전자신문 창 안 45 · NVIDIA 보도자료 파싱 됨 · The Verge 받아짐 → 뺄 피드 없음) · 실측 2 표 '드라이런' 칸 · ai 33 (AI 출처 21 · 경제 매체 12) · AI 출처가 든 곳 모두 0 · 'AI' 칸 5건 중 4건이 사건 2 와 같은 소식 (대가) · 비용 $0.1134 (AI 데스크 ≈ +$0.0043)",
+          "at": "2026-11-09T10:51:00Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/941997efafe34090f73e232bf92b05c663918de8"
         }
       ],
       "ci": {
@@ -259,12 +265,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-09T00:31:13.988Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/8a719x2atc36SMEFSucGzErokoDX"
+        "at": "2026-11-09T11:22:27.952Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/DCYLBZwsJfsw6Pqs8uKDriM1tE1b"
       }
     }
   ],
-  "lastRunAt": "2026-11-09T02:43:07.117Z",
+  "lastRunAt": "2026-11-09T11:44:53.023Z",
   "sources": [
     {
       "source": "github",
