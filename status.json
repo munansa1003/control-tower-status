@@ -4,9 +4,15 @@
       "id": "dyp-proto-team",
       "name": "Proto Team",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 09:43",
+      "note": "오늘 2커밋 · CI 초록 · 배포 정상 15:32",
       "repoUrl": "https://github.com/munansa1003/DYP_Proto_Team",
       "commits": [
+        {
+          "sha": "659f510e1c166c7a9832892a569329e6d3ab8d2f",
+          "message": "feat(m2a): 조용한 실패 없애기 PR-1 — 삭제가 이긴다·KV 허용 목록·잘못된 값 방어·첫 접속 폴링·로그아웃 캐시·콜드 부팅 게이트 (#202)",
+          "at": "2026-11-10T06:32:14Z",
+          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/659f510e1c166c7a9832892a569329e6d3ab8d2f"
+        },
         {
           "sha": "f6cdfc703bbc854c1baf201e951c890093322177",
           "message": "docs·chore: M1b 배포·좁히기 기록 + dependabot 메이저 PR 무시 (#201)",
@@ -16,13 +22,13 @@
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/42730409388",
-        "at": "2026-11-10T00:43:01Z"
+        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/42769176285",
+        "at": "2026-11-10T06:32:17Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-10T00:43:01.197Z",
-        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/CHjH55xzhmUWL15DTDUuzzu5oUXu"
+        "at": "2026-11-10T06:32:18.268Z",
+        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/BkxtkXynZaLxe4Dw4RT39T2R9KLS"
       }
     },
     {
@@ -226,26 +232,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 31커밋 · 배포 정상 13:18",
+      "note": "오늘 44커밋 · 배포 정상 16:36",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "0ed5c795cbc2a96317b7e5f8930f36edca612647",
-          "message": "Merge pull request #45 from munansa1003/claude/gifted-johnson-axmv1v",
-          "at": "2026-11-10T04:18:49Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/0ed5c795cbc2a96317b7e5f8930f36edca612647"
+          "sha": "1429c4578a62c9e1cd1fc0d05b27b0ed4e85535b",
+          "message": "chore(news): 2026-11-10 석간 자동 생성",
+          "at": "2026-11-10T07:36:48Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/1429c4578a62c9e1cd1fc0d05b27b0ed4e85535b"
         },
         {
-          "sha": "34d5ec542fec9dab966ba38a7dfe0a833be8c183",
-          "message": "docs(progress): M11 1-3a 상태 pr_open · PR 45 · main 합침 (PR #44 — 워크플로 판 입력 · 9872aa0)",
-          "at": "2026-11-10T00:02:39Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/34d5ec542fec9dab966ba38a7dfe0a833be8c183"
+          "sha": "43b85bb405e36ccf07c7c97e81d5da58bad37c91",
+          "message": "Merge pull request #46 from munansa1003/claude/news-bundle-size-optimization-9l1aen",
+          "at": "2026-11-10T06:23:32Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/43b85bb405e36ccf07c7c97e81d5da58bad37c91"
         },
         {
-          "sha": "9872aa0ce5f9867379d0fe52014b4c58606f4121",
-          "message": "Merge main (PR #44 — 워크플로 판 입력 3a4e6c8 · M10 끝 · '예약 일시중지' 문구 정리) into claude/gifted-johnson-axmv1v — 1-3 정지점 1 답 2 의 순서 (워크플로 → 이 PR 가지에 main 합침 → PR 가지 드라이런) · 3a4e6c8 의 워크플로는 계획 diff 적용본과 바이트 같음 · CLAUDE.md 마지막 업데이트 줄만 겹쳐 두 쪽을 합침 · npm run check 0 (시험 637)",
-          "at": "2026-11-09T23:48:38Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/9872aa0ce5f9867379d0fe52014b4c58606f4121"
+          "sha": "f10780594afb8225101358bc2e29852b55cc33fb",
+          "message": "docs(progress): M11 1-5 상태 pr_open · PR #46",
+          "at": "2026-11-10T06:15:26Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/f10780594afb8225101358bc2e29852b55cc33fb"
         }
       ],
       "ci": {
@@ -253,12 +259,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-10T04:18:53.088Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/12rPcipW8FqEhMJwewuecvhE2toW"
+        "at": "2026-11-10T07:36:51.514Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/DXDyKUi9du48FckWiNhmBx7iDSHD"
       }
     }
   ],
-  "lastRunAt": "2026-11-10T04:39:50.287Z",
+  "lastRunAt": "2026-11-10T13:33:37.329Z",
   "sources": [
     {
       "source": "github",
