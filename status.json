@@ -226,26 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 4커밋 · 배포 정상 04:46",
+      "note": "오늘 16커밋 · 배포 정상 08:21",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "592fdf0b911d5495f828094870414d02f9da6c4c",
-          "message": "Merge pull request #47 from munansa1003/claude/blissful-davinci-23gbzl",
-          "at": "2026-11-10T19:46:30Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/592fdf0b911d5495f828094870414d02f9da6c4c"
+          "sha": "cbec6571918df81427447a95a6ddd20cb02995f7",
+          "message": "Merge pull request #49 from munansa1003/claude/sleepy-pasteur-rkmy2e",
+          "at": "2026-11-10T23:20:58Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/cbec6571918df81427447a95a6ddd20cb02995f7"
         },
         {
-          "sha": "ad9b8e7da1b175f6b1489c1bb53f2e58993a443d",
-          "message": "docs(progress): M11 1-3b 상태 pr_open · PR #47 · 병합 결과 흉내 (이 가지 + main 의 11/11 본판) npm run check 0",
-          "at": "2026-11-10T19:29:52Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/ad9b8e7da1b175f6b1489c1bb53f2e58993a443d"
+          "sha": "46eb1633f717c98ced3f72ea19c002c60f63d8dd",
+          "message": "docs(progress): M11 2-0 상태 pr_open · PR #49",
+          "at": "2026-11-10T23:16:18Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/46eb1633f717c98ced3f72ea19c002c60f63d8dd"
         },
         {
-          "sha": "709b9b23f882a8e44e88ff84e47ee09f3d5894f7",
-          "message": "docs(m11-1-3b): 구현 결과 (시험 719 · 커밋마다 0 · 메인 JS 894.17kB — 석간이 나온 날 · 미리 받기 main 2,068.44 → 2,160.88KiB · 석간 하루치 평일 약 82KiB 청크 → 20MB 어림 2027-02-23 · 화면 대조 석간 없는 날 22쌍 PNG · 글자 같음 · 석간 있는 날 본판 글자 6쌍 같음 · '불러오는 중' 없음 · 오프라인 · 옛 날 석간 · 덜 된 날 · 다음 날 아침 흉내 · 일부러 고장 10가지 모두 잡음) · 스크린샷 8장 (milestones/M11-1-3b-screens — 실제 11/10 석간 · 시계 11/10 17:00 · 덜 된 날만 임시 석간) · README ('판' 줄 · 석간 절 운영 · 화면 · 라이브 줄 · 기능 · 파일 구조 · check:dist 줄) · CLAUDE.md (설계 원칙 1 · 마지막 업데이트) · 진행 기록 local_green · 백로그 1줄 추가 (석간 수집이 본판 글을 다시 담음) · 1줄 [x] (README '판' 줄) · 2줄 보탬 (20MB 어림 · 아이패드 왼쪽 칸)",
-          "at": "2026-11-10T19:27:24Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/709b9b23f882a8e44e88ff84e47ee09f3d5894f7"
+          "sha": "e64eba4afcd824baaa792ab1f53cd56e3a99642a",
+          "message": "docs(m11-2-0): 2단계 조각별 명세 — 4.0 조각 표 · 4.1 공통 · 2-1 ~ 2-6 여덟 칸 · 부록 A 실측",
+          "at": "2026-11-10T23:15:29Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/e64eba4afcd824baaa792ab1f53cd56e3a99642a"
         }
       ],
       "ci": {
@@ -253,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-10T19:46:34.621Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/6QbkNDxhxvixGQwfoKeTgcFXaoEq"
+        "at": "2026-11-10T23:21:01.792Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/DPw3pcWGufBJbrWai9AM9BEuLB3i"
       }
     }
   ],
-  "lastRunAt": "2026-11-10T20:53:16.443Z",
+  "lastRunAt": "2026-11-11T01:16:53.316Z",
   "sources": [
     {
       "source": "github",
