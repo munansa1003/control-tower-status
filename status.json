@@ -226,14 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "마지막 커밋 어제 · 배포 정상 21:32",
+      "note": "오늘 1커밋 · 배포 정상 03:44",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "9f55378f691d3d9f73872936acffe42b08e1558f",
-          "message": "Merge pull request #53 from munansa1003/claude/wonderful-knuth-guhe79",
-          "at": "2026-11-11T12:31:59Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/9f55378f691d3d9f73872936acffe42b08e1558f"
+          "sha": "be1a0ec418038b6a04693636cf7fad1d4949fd1e",
+          "message": "chore(news): 2026-11-12 다이제스트 자동 생성",
+          "at": "2026-11-11T18:44:54Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/be1a0ec418038b6a04693636cf7fad1d4949fd1e"
         }
       ],
       "ci": {
@@ -241,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-11T12:32:02.142Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/2XyXkXSVjksiPwD4zvgqUj3QFHAw"
+        "at": "2026-11-11T18:44:58.117Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/3ToFPiQEzheaRRS2mSH49JDYCEbi"
       }
     }
   ],
-  "lastRunAt": "2026-11-11T16:16:30.700Z",
+  "lastRunAt": "2026-11-11T22:50:12.473Z",
   "sources": [
     {
       "source": "github",
