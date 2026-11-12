@@ -4,7 +4,7 @@
       "id": "dyp-proto-team",
       "name": "Proto Team",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록 · 배포 정상 14:10",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 14:10",
       "repoUrl": "https://github.com/munansa1003/DYP_Proto_Team",
       "commits": [
         {
@@ -12,12 +12,6 @@
           "message": "docs(m2a): PR-2 는 화면만 배포 — 서버는 #203 의 API 5 그대로(사용자 정정) (#205)",
           "at": "2026-11-12T05:10:15Z",
           "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/34a9e1fc80dc0bb86cbe39dc052b566c485331d6"
-        },
-        {
-          "sha": "e0cd674e3a76c221a54d68c099beb7bf183a00f0",
-          "message": "docs(m2a): PR-1 서버 배포 기록 — 11/12 11:44 배포(api 4)·확인·태그, #203 먼저 순서 (#204)",
-          "at": "2026-11-12T05:04:19Z",
-          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/e0cd674e3a76c221a54d68c099beb7bf183a00f0"
         }
       ],
       "ci": {
@@ -35,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 3커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -43,18 +37,6 @@
           "message": "docs(deploy): 재고 품명 정렬 배포 기록 — e59ef67 · 11-12 14:48경 · 세대 20 → 20 · 롤백 좌표 7f8e370",
           "at": "2026-11-12T05:58:14Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/d161ae5cb8bb4c801c8510525325caa01d9e5979"
-        },
-        {
-          "sha": "e59ef6710f9947eac9ba5685ed8bc683a359b3fc",
-          "message": "test(stock): 품명 정렬 돌연변이 묶음의 기대치 하나를 실측으로 바로잡는다 (stockItemSortView ⑥ 3 → 2)",
-          "at": "2026-11-12T05:38:16Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/e59ef6710f9947eac9ba5685ed8bc683a359b3fc"
-        },
-        {
-          "sha": "642102dd21e0ec1c2e1f5cd111f4794f310d4145",
-          "message": "feat(stock): 품명별 격자 — 머리 «품명» 을 눌러 가나다순 · 역순 · 직접 정한 순서로 보기 (보기 전용)",
-          "at": "2026-11-12T05:19:41Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/642102dd21e0ec1c2e1f5cd111f4794f310d4145"
         }
       ],
       "ci": {
@@ -135,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -244,26 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 38커밋 · 배포 정상 16:27",
+      "note": "오늘 1커밋 · 배포 정상 03:45",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "52c478969a323a2f3ea9a16e5102f9e7a86d6a19",
-          "message": "Merge pull request #59 from munansa1003/claude/m11-2-7-proofreading-yk31hg",
-          "at": "2026-11-12T07:27:19Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/52c478969a323a2f3ea9a16e5102f9e7a86d6a19"
-        },
-        {
-          "sha": "8e72e9955d8b4663e1bc12ee8bc3b4bbfce206d0",
-          "message": "chore(news): 2026-11-12 석간 자동 생성",
-          "at": "2026-11-12T07:23:58Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/8e72e9955d8b4663e1bc12ee8bc3b4bbfce206d0"
-        },
-        {
-          "sha": "e3956952e63aa5d9c9ad53ae4bbd297052176114",
-          "message": "fix(m11-2-7): 성적서 PR #59 뒤 — 지우기 '원문 요약' 꼴로 되돌림 · 지운 문장 로그 · 가드 · 실물 오탐 · 숫자 규칙 참고",
-          "at": "2026-11-12T05:42:51Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/e3956952e63aa5d9c9ad53ae4bbd297052176114"
+          "sha": "e25f8cbfbc68c2c09e5f15de5e1f34569fbc2510",
+          "message": "chore(news): 2026-11-13 다이제스트 자동 생성",
+          "at": "2026-11-12T18:45:14Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/e25f8cbfbc68c2c09e5f15de5e1f34569fbc2510"
         }
       ],
       "ci": {
@@ -271,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-12T07:27:22.856Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/E3tJRdrUGxcj8At4jYwPEFd3nB6m"
+        "at": "2026-11-12T18:45:20.854Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/C2aQZBCwYjwSJUXXeGyHjWaxA587"
       }
     }
   ],
-  "lastRunAt": "2026-11-12T12:51:55.838Z",
+  "lastRunAt": "2026-11-12T20:53:31.212Z",
   "sources": [
     {
       "source": "github",
