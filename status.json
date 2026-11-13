@@ -4,38 +4,32 @@
       "id": "dyp-proto-team",
       "name": "Proto Team",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록 · 배포 정상 14:43",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 22:07",
       "repoUrl": "https://github.com/munansa1003/DYP_Proto_Team",
       "commits": [
         {
-          "sha": "b3ee3ff56b749f7e416e74be0db62152344bba24",
-          "message": "docs(docs): #203 PT552 서버 배포 기록 — 11/13 배포(api 5)·확인·사람 확인·태그 (#206)",
-          "at": "2026-11-13T05:43:14Z",
-          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/b3ee3ff56b749f7e416e74be0db62152344bba24"
-        },
-        {
-          "sha": "a198d263234a2dd2df9f35e8e3f180b3729f7335",
-          "message": "feat(docs): 기안·발주서 — 작성 · A4 인쇄 · 상태 · 개정 · 결재본 첨부 · 이력 (주간 업무 탭) (#203)",
-          "at": "2026-11-13T01:10:35Z",
-          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/a198d263234a2dd2df9f35e8e3f180b3729f7335"
+          "sha": "b9f8b57adee50b9bbdd44aea84a49bf35f14c17a",
+          "message": "feat(docs-import): 기안·발주서 이관 도구 + 운영 이관 기록(11/13 넣기 31건) (#207)",
+          "at": "2026-11-13T13:07:09Z",
+          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/b9f8b57adee50b9bbdd44aea84a49bf35f14c17a"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/43373856302",
-        "at": "2026-11-13T05:43:18Z"
+        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/43430895525",
+        "at": "2026-11-13T13:07:13Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-13T05:43:18.631Z",
-        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/5KmhDN7v3c33gXHV7t1igFXkxXdq"
+        "at": "2026-11-13T13:07:13.253Z",
+        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/CJacE5955V94PgWchbfgwwv56kJt"
       }
     },
     {
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "오늘 3커밋 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -43,18 +37,6 @@
           "message": "docs(deploy): 3-af 인쇄 판의 «주 고르기» 배포 기록 — bff87a7 · 11-13 14:59경 · 세대 20 → 20 · 롤백 좌표 e59ef67",
           "at": "2026-11-13T06:13:10Z",
           "url": "https://github.com/munansa1003/piston-issues/commit/6c253dd796c9099aaae516e6394737e72d460b2f"
-        },
-        {
-          "sha": "bff87a741153c337d151d329d2aa565cf3700d1f",
-          "message": "test(schedule): 인쇄 판 «주 고르기» — 가운데 단추가 닫힘을 말하는지도 본다 (정식 돌연변이 ⑫ «약함» 이 짚은 틈)",
-          "at": "2026-11-13T05:46:49Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/bff87a741153c337d151d329d2aa565cf3700d1f"
-        },
-        {
-          "sha": "e14e28acc6c827bbb3507d723c69efbf38aee579",
-          "message": "feat(schedule): 인쇄 판의 «주 고르기» — 가운데 주차를 눌러 목록에서 고르고 지난 주 · 이번 주 · 다음 주 칩 (3-af)",
-          "at": "2026-11-13T05:41:38Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/e14e28acc6c827bbb3507d723c69efbf38aee579"
         }
       ],
       "ci": {
@@ -135,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 11/12",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -244,26 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 25커밋 · 배포 정상 16:24",
+      "note": "마지막 커밋 어제 · 배포 정상 22:27",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "83f1015749ed2bc78e593b477f066e95c31784d4",
-          "message": "chore(news): 2026-11-13 석간 자동 생성",
-          "at": "2026-11-13T07:24:19Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/83f1015749ed2bc78e593b477f066e95c31784d4"
-        },
-        {
-          "sha": "7449137121d6a1bf2fe7b7a1b2af1e2ef72a5491",
-          "message": "Merge pull request #64 from munansa1003/claude/awesome-sagan-ibkl9x",
-          "at": "2026-11-13T05:24:24Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/7449137121d6a1bf2fe7b7a1b2af1e2ef72a5491"
-        },
-        {
-          "sha": "d50381af4f1abfc2377b41e7009af9fa16e7baed",
-          "message": "Merge pull request #63 from munansa1003/claude/inspiring-johnson-mh9s99",
-          "at": "2026-11-13T05:24:00Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/d50381af4f1abfc2377b41e7009af9fa16e7baed"
+          "sha": "9cae2d9eb2c3012e1495b3ff0ec878428dfa80b3",
+          "message": "Merge pull request #65 from munansa1003/claude/kind-maxwell-wue57o",
+          "at": "2026-11-13T13:24:08Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/9cae2d9eb2c3012e1495b3ff0ec878428dfa80b3"
         }
       ],
       "ci": {
@@ -271,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-13T07:24:22.133Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/9wZceHMBXov2NM6NvqxRq7Pkwwa4"
+        "at": "2026-11-13T13:27:48.286Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/ELc2yF77Lw21SBVEFpWzrgRFcAyJ"
       }
     }
   ],
-  "lastRunAt": "2026-11-13T09:39:54.001Z",
+  "lastRunAt": "2026-11-13T17:49:40.564Z",
   "sources": [
     {
       "source": "github",
