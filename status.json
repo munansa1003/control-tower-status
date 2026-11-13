@@ -4,25 +4,25 @@
       "id": "dyp-proto-team",
       "name": "Proto Team",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 14:10",
+      "note": "오늘 1커밋 · CI 초록 · 배포 정상 10:10",
       "repoUrl": "https://github.com/munansa1003/DYP_Proto_Team",
       "commits": [
         {
-          "sha": "34a9e1fc80dc0bb86cbe39dc052b566c485331d6",
-          "message": "docs(m2a): PR-2 는 화면만 배포 — 서버는 #203 의 API 5 그대로(사용자 정정) (#205)",
-          "at": "2026-11-12T05:10:15Z",
-          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/34a9e1fc80dc0bb86cbe39dc052b566c485331d6"
+          "sha": "a198d263234a2dd2df9f35e8e3f180b3729f7335",
+          "message": "feat(docs): 기안·발주서 — 작성 · A4 인쇄 · 상태 · 개정 · 결재본 첨부 · 이력 (주간 업무 탭) (#203)",
+          "at": "2026-11-13T01:10:35Z",
+          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/a198d263234a2dd2df9f35e8e3f180b3729f7335"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/43159566234",
-        "at": "2026-11-12T05:10:18Z"
+        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/43342892002",
+        "at": "2026-11-13T01:10:39Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-12T05:10:18.485Z",
-        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/4xUbF6ssNbAMe3SdnGugVWkRiQ9w"
+        "at": "2026-11-13T01:10:40.462Z",
+        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/Cmt2PNmbqjXfWNpYEjtEMZTD988U"
       }
     },
     {
@@ -226,14 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 1커밋 · 배포 정상 03:45",
+      "note": "오늘 4커밋 · 배포 정상 06:08",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "e25f8cbfbc68c2c09e5f15de5e1f34569fbc2510",
-          "message": "chore(news): 2026-11-13 다이제스트 자동 생성",
-          "at": "2026-11-12T18:45:14Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/e25f8cbfbc68c2c09e5f15de5e1f34569fbc2510"
+          "sha": "2ee97690640a39068c415a1f1a9a6f7db626daf2",
+          "message": "Merge pull request #62 from munansa1003/claude/m11-2-7-proofreading-yk31hg",
+          "at": "2026-11-12T21:08:09Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/2ee97690640a39068c415a1f1a9a6f7db626daf2"
+        },
+        {
+          "sha": "c4ad9c8045c5233af8819028b191ea75d15181cb",
+          "message": "docs(m11-2-7): live_verified — 11/13 본판 실전 (#117) · 지운 문장 2 확인 · 남긴 작업 설명 5 · 석간은 미확인",
+          "at": "2026-11-12T20:59:55Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/c4ad9c8045c5233af8819028b191ea75d15181cb"
+        },
+        {
+          "sha": "084e0c63c179d80228291abec38128eedcfea46b",
+          "message": "Merge pull request #61 from munansa1003/claude/stoic-shannon-9ij1t8",
+          "at": "2026-11-12T20:54:04Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/084e0c63c179d80228291abec38128eedcfea46b"
         }
       ],
       "ci": {
@@ -241,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-12T18:45:20.854Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/C2aQZBCwYjwSJUXXeGyHjWaxA587"
+        "at": "2026-11-12T21:08:13.223Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/BKQGPYhbXBMkiqHzzHSZrwSCmDRu"
       }
     }
   ],
-  "lastRunAt": "2026-11-12T20:53:31.212Z",
+  "lastRunAt": "2026-11-13T01:54:12.457Z",
   "sources": [
     {
       "source": "github",
