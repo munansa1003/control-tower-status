@@ -226,14 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 1커밋 · 배포 정상 03:45",
+      "note": "오늘 4커밋 · 배포 정상 07:49",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "14ca2787f33e8ed36194b1c42bbcca87a31f3396",
-          "message": "chore(news): 2026-11-15 다이제스트 자동 생성",
-          "at": "2026-11-14T18:45:21Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/14ca2787f33e8ed36194b1c42bbcca87a31f3396"
+          "sha": "ffa2e4f2da16ec7e91115b95a7c0182a2e8bb412",
+          "message": "Merge pull request #75 from munansa1003/claude/gracious-noether-1xga1v",
+          "at": "2026-11-14T22:49:27Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/ffa2e4f2da16ec7e91115b95a7c0182a2e8bb412"
+        },
+        {
+          "sha": "b28ebcdf8366832b4b2b78774b0826f32a44c9f8",
+          "message": "docs(workflow): PROGRESS — PR #75 pr_open (G2-02 · G2-08 · G1-10)",
+          "at": "2026-11-14T22:36:12Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b28ebcdf8366832b4b2b78774b0826f32a44c9f8"
+        },
+        {
+          "sha": "c0eb1907df6c6d105c38f688cc5a8c4fe5d72a45",
+          "message": "fix(workflow): 신문을 잃지 않게 — 날짜 한 곳 · push 다시 시도 · 작업 시간 상한 · 평일 석간 백업 예약 (G2-02 · G2-08 · G1-10)",
+          "at": "2026-11-14T22:35:11Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/c0eb1907df6c6d105c38f688cc5a8c4fe5d72a45"
         }
       ],
       "ci": {
@@ -241,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-14T18:45:26.312Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/bdpUkTZh8ues4gPhQgLDqfancB3c"
+        "at": "2026-11-14T22:49:30.776Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/4rfg5ZhNL4vQHG83h6EJ7EAxDFhN"
       }
     }
   ],
-  "lastRunAt": "2026-11-14T19:15:26.592Z",
+  "lastRunAt": "2026-11-14T23:06:49.915Z",
   "sources": [
     {
       "source": "github",
