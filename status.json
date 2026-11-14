@@ -226,26 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 35커밋 · 배포 정상 14:37",
+      "note": "오늘 45커밋 · 배포 정상 16:46",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "a9fa8b865ead13af3b2afdeb9ad674596217e2be",
-          "message": "Merge pull request #72 from munansa1003/claude/ecstatic-ritchie-cdy71f",
-          "at": "2026-11-14T05:37:26Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/a9fa8b865ead13af3b2afdeb9ad674596217e2be"
+          "sha": "f68805746502ee6a846fe9117a5d4afe17d8ce6f",
+          "message": "Merge pull request #74 from munansa1003/claude/tender-dijkstra-5bmg69",
+          "at": "2026-11-14T07:46:53Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/f68805746502ee6a846fe9117a5d4afe17d8ce6f"
         },
         {
-          "sha": "df779743a51cc29fbecea218f13eec50f2c7a682",
-          "message": "docs(m11-2-5a): PROGRESS — PR #72 pr_open",
-          "at": "2026-11-14T04:59:56Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/df779743a51cc29fbecea218f13eec50f2c7a682"
+          "sha": "d3ea8a32ca04b2378ee614408e6b8c54ed97a090",
+          "message": "chore(settings): 병합 규칙 — 사람의 '머지' 한마디로 세션이 자기 PR 병합 (사람 11/14)",
+          "at": "2026-11-14T07:41:08Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/d3ea8a32ca04b2378ee614408e6b8c54ed97a090"
         },
         {
-          "sha": "f21691e3e178c000660b5f9aba58cc03794d8a54",
-          "message": "docs(m11-2-5a): AI 면 — README 'AI 면' 절 · CLAUDE.md · 명세 '구현 결과 — 2-5a' · PROGRESS local_green",
-          "at": "2026-11-14T04:58:13Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/f21691e3e178c000660b5f9aba58cc03794d8a54"
+          "sha": "b943a5c151289ac4315041137eaf5f076be701d1",
+          "message": "Merge pull request #73 from munansa1003/claude/admiring-archimedes-yl2h3x",
+          "at": "2026-11-14T07:31:28Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b943a5c151289ac4315041137eaf5f076be701d1"
         }
       ],
       "ci": {
@@ -253,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-14T05:37:29.926Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/FLjUocpieWBEjNZg1nxrcBFtfWwu"
+        "at": "2026-11-14T07:46:56.765Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/7BE2pDibP1SAabVR1mVHH8XGo78h"
       }
     }
   ],
-  "lastRunAt": "2026-11-14T06:37:59.287Z",
+  "lastRunAt": "2026-11-14T14:14:44.368Z",
   "sources": [
     {
       "source": "github",
