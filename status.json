@@ -4,25 +4,31 @@
       "id": "dyp-proto-team",
       "name": "Proto Team",
       "status": "ok",
-      "note": "마지막 커밋 11/13 · CI 초록 · 배포 정상 22:07",
+      "note": "오늘 2커밋 · CI 초록 · 배포 정상 08:47",
       "repoUrl": "https://github.com/munansa1003/DYP_Proto_Team",
       "commits": [
         {
-          "sha": "b9f8b57adee50b9bbdd44aea84a49bf35f14c17a",
-          "message": "feat(docs-import): 기안·발주서 이관 도구 + 운영 이관 기록(11/13 넣기 31건) (#207)",
-          "at": "2026-11-13T13:07:09Z",
-          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/b9f8b57adee50b9bbdd44aea84a49bf35f14c17a"
+          "sha": "9bdd0cb83785873d1184e4f32e50a49f810d9255",
+          "message": "Merge pull request #208 from munansa1003/docs/merge-rule-chat-1115",
+          "at": "2026-11-14T23:47:19Z",
+          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/9bdd0cb83785873d1184e4f32e50a49f810d9255"
+        },
+        {
+          "sha": "f8e4ef839dccc159c0bafa1a63fb3cc19164b853",
+          "message": "docs(merge): 병합 규칙 — 운영 파트너 채팅 '머지' 가 기본 (사람 11/15)",
+          "at": "2026-11-14T23:36:30Z",
+          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/f8e4ef839dccc159c0bafa1a63fb3cc19164b853"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/43430895525",
-        "at": "2026-11-13T13:07:13Z"
+        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/43654971768",
+        "at": "2026-11-14T23:47:22Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-13T13:07:13.253Z",
-        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/CJacE5955V94PgWchbfgwwv56kJt"
+        "at": "2026-11-14T23:47:22.888Z",
+        "url": "https://vercel.com/munansa-2761s-projects/dyp-proto-team/mYXG3sM96nqCJdLzuSg4dcfrx2PJ"
       }
     },
     {
@@ -92,25 +98,31 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 11:15",
+      "note": "오늘 2커밋 · CI 초록 · 배포 정상 08:47",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
-          "sha": "2d2489d19afb75c3abd5322a1cf1089b9b1481a4",
-          "message": "chore(screen): weekly refresh 2026-11-14T02:15:43Z",
-          "at": "2026-11-14T02:15:43Z",
-          "url": "https://github.com/munansa1003/us-value-lab/commit/2d2489d19afb75c3abd5322a1cf1089b9b1481a4"
+          "sha": "7ea0d48bf0494d312e8242983fc9abf70ddc42f2",
+          "message": "Merge pull request #54 from munansa1003/docs/merge-rule-chat-1115",
+          "at": "2026-11-14T23:47:13Z",
+          "url": "https://github.com/munansa1003/us-value-lab/commit/7ea0d48bf0494d312e8242983fc9abf70ddc42f2"
+        },
+        {
+          "sha": "7b483e28264d48ba6c3a31ed64251c6bbbebec20",
+          "message": "docs(merge): 병합 규칙 — 운영 파트너 채팅 '머지' 가 기본 (사람 11/15)",
+          "at": "2026-11-14T23:36:26Z",
+          "url": "https://github.com/munansa1003/us-value-lab/commit/7b483e28264d48ba6c3a31ed64251c6bbbebec20"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/33253050507",
-        "at": "2026-08-29T12:39:26Z"
+        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/43654962934",
+        "at": "2026-11-14T23:47:16Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-14T02:15:47.086Z",
-        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/3xssZC7MZktPXBHzZXrTAcND5WQB"
+        "at": "2026-11-14T23:47:16.205Z",
+        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/J6dmJyXxQG4MgA2nGgRkw1odUNRy"
       }
     },
     {
@@ -226,26 +238,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 4커밋 · 배포 정상 07:49",
+      "note": "오늘 14커밋 · 배포 정상 11:28",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "ffa2e4f2da16ec7e91115b95a7c0182a2e8bb412",
-          "message": "Merge pull request #75 from munansa1003/claude/gracious-noether-1xga1v",
-          "at": "2026-11-14T22:49:27Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/ffa2e4f2da16ec7e91115b95a7c0182a2e8bb412"
+          "sha": "934e0283ed1ec5648adf8760781144c5df2fe6bf",
+          "message": "Merge pull request #78 from munansa1003/claude/gallant-noether-kepeen",
+          "at": "2026-11-15T02:27:57Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/934e0283ed1ec5648adf8760781144c5df2fe6bf"
         },
         {
-          "sha": "b28ebcdf8366832b4b2b78774b0826f32a44c9f8",
-          "message": "docs(workflow): PROGRESS — PR #75 pr_open (G2-02 · G2-08 · G1-10)",
-          "at": "2026-11-14T22:36:12Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b28ebcdf8366832b4b2b78774b0826f32a44c9f8"
+          "sha": "0b17015f8cabc26c3fd86d3eb9b17c01202a07c9",
+          "message": "docs(m11-b1): PROGRESS — PR #78 pr_open",
+          "at": "2026-11-15T01:53:40Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/0b17015f8cabc26c3fd86d3eb9b17c01202a07c9"
         },
         {
-          "sha": "c0eb1907df6c6d105c38f688cc5a8c4fe5d72a45",
-          "message": "fix(workflow): 신문을 잃지 않게 — 날짜 한 곳 · push 다시 시도 · 작업 시간 상한 · 평일 석간 백업 예약 (G2-02 · G2-08 · G1-10)",
-          "at": "2026-11-14T22:35:11Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/c0eb1907df6c6d105c38f688cc5a8c4fe5d72a45"
+          "sha": "1ec803e4fc75c4245d0e82e9423490911eb053bd",
+          "message": "docs(m11-b1): 명세 '구현 결과 — B1' · CLAUDE.md 시황 줄 · PROGRESS",
+          "at": "2026-11-15T01:51:17Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/1ec803e4fc75c4245d0e82e9423490911eb053bd"
         }
       ],
       "ci": {
@@ -253,12 +265,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-14T22:49:30.776Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/4rfg5ZhNL4vQHG83h6EJ7EAxDFhN"
+        "at": "2026-11-15T02:28:01.583Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/3g63w99j5TyWNQDZKZyUYH8kZUaF"
       }
     }
   ],
-  "lastRunAt": "2026-11-14T23:06:49.915Z",
+  "lastRunAt": "2026-11-15T02:46:01.368Z",
   "sources": [
     {
       "source": "github",
