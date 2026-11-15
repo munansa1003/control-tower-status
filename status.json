@@ -226,14 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "마지막 커밋 어제 · 배포 정상 18:48",
+      "note": "오늘 1커밋 · 배포 정상 03:46",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "15f6bd8aa4fcbc17c65a5cd25fb28e467d645cc7",
-          "message": "Merge pull request #82 from munansa1003/claude/narrative-contagion-lead-fix-txgu6i",
-          "at": "2026-11-15T09:48:25Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/15f6bd8aa4fcbc17c65a5cd25fb28e467d645cc7"
+          "sha": "6a17d96fe355e8f952ec2a8b17c10fdbc7947527",
+          "message": "chore(news): 2026-11-16 다이제스트 자동 생성",
+          "at": "2026-11-15T18:46:16Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/6a17d96fe355e8f952ec2a8b17c10fdbc7947527"
         }
       ],
       "ci": {
@@ -241,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-15T09:48:28.965Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/42DPFVVUreUW1CdzVQg2qK7SaGxU"
+        "at": "2026-11-15T18:46:18.807Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/FcZbWxMZWivxmHn7APs1NogdGfGz"
       }
     }
   ],
-  "lastRunAt": "2026-11-15T17:48:32.102Z",
+  "lastRunAt": "2026-11-15T22:55:46.333Z",
   "sources": [
     {
       "source": "github",
