@@ -4,7 +4,7 @@
       "id": "dyp-proto-team",
       "name": "Proto Team",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록 · 배포 정상 08:47",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 08:47",
       "repoUrl": "https://github.com/munansa1003/DYP_Proto_Team",
       "commits": [
         {
@@ -12,12 +12,6 @@
           "message": "Merge pull request #208 from munansa1003/docs/merge-rule-chat-1115",
           "at": "2026-11-14T23:47:19Z",
           "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/9bdd0cb83785873d1184e4f32e50a49f810d9255"
-        },
-        {
-          "sha": "f8e4ef839dccc159c0bafa1a63fb3cc19164b853",
-          "message": "docs(merge): 병합 규칙 — 운영 파트너 채팅 '머지' 가 기본 (사람 11/15)",
-          "at": "2026-11-14T23:36:30Z",
-          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/f8e4ef839dccc159c0bafa1a63fb3cc19164b853"
         }
       ],
       "ci": {
@@ -98,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록 · 배포 정상 08:47",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 08:47",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -106,12 +100,6 @@
           "message": "Merge pull request #54 from munansa1003/docs/merge-rule-chat-1115",
           "at": "2026-11-14T23:47:13Z",
           "url": "https://github.com/munansa1003/us-value-lab/commit/7ea0d48bf0494d312e8242983fc9abf70ddc42f2"
-        },
-        {
-          "sha": "7b483e28264d48ba6c3a31ed64251c6bbbebec20",
-          "message": "docs(merge): 병합 규칙 — 운영 파트너 채팅 '머지' 가 기본 (사람 11/15)",
-          "at": "2026-11-14T23:36:26Z",
-          "url": "https://github.com/munansa1003/us-value-lab/commit/7b483e28264d48ba6c3a31ed64251c6bbbebec20"
         }
       ],
       "ci": {
@@ -213,7 +201,7 @@
       "id": "jjj-family-acb",
       "name": "JJJ ACB",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 18:46",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 18:46",
       "repoUrl": "https://github.com/munansa1003/jjj-family-ACB",
       "commits": [
         {
@@ -238,7 +226,7 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 34커밋 · 배포 정상 18:48",
+      "note": "마지막 커밋 어제 · 배포 정상 18:48",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
@@ -246,18 +234,6 @@
           "message": "Merge pull request #82 from munansa1003/claude/narrative-contagion-lead-fix-txgu6i",
           "at": "2026-11-15T09:48:25Z",
           "url": "https://github.com/munansa1003/Daniel-daily-news/commit/15f6bd8aa4fcbc17c65a5cd25fb28e467d645cc7"
-        },
-        {
-          "sha": "ff1ce6a82e4263691f53ca83f4d67abd800a5091",
-          "message": "fix(m11-b4): 드라이런 43695513503 뒤 — 리드 축마다 문장 수 · 통찰 본문 예시 꼴 지움",
-          "at": "2026-11-15T09:00:20Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/ff1ce6a82e4263691f53ca83f4d67abd800a5091"
-        },
-        {
-          "sha": "1b6e048bec9c413b0629890abf625dccd620a05c",
-          "message": "docs(m11-b4): PROGRESS — PR #82 pr_open",
-          "at": "2026-11-15T08:35:06Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/1b6e048bec9c413b0629890abf625dccd620a05c"
         }
       ],
       "ci": {
@@ -270,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-11-15T11:08:08.679Z",
+  "lastRunAt": "2026-11-15T17:48:32.102Z",
   "sources": [
     {
       "source": "github",
