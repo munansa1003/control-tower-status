@@ -74,7 +74,7 @@
       "id": "estate-ledger",
       "name": "Estate Ledger",
       "status": "ok",
-      "note": "마지막 커밋 어제",
+      "note": "마지막 커밋 11/16",
       "repoUrl": "https://github.com/munansa1003/estate-ledger",
       "commits": [
         {
@@ -226,26 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 12커밋 · 배포 정상 16:24",
+      "note": "오늘 1커밋 · 배포 정상 03:45",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "fa4092824db55c1f13c88d111c5d6ea42f314816",
-          "message": "chore(news): 2026-11-17 석간 자동 생성",
-          "at": "2026-11-17T07:24:19Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/fa4092824db55c1f13c88d111c5d6ea42f314816"
-        },
-        {
-          "sha": "ba545eb2d96982472c190b173272273525fdcdfd",
-          "message": "Merge pull request #85 from munansa1003/claude/inspiring-pasteur-2bp880",
-          "at": "2026-11-17T04:54:14Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/ba545eb2d96982472c190b173272273525fdcdfd"
-        },
-        {
-          "sha": "d2bec52e8eca76b6970605b3430bf6a41ff31172",
-          "message": "feat(m11-b7): 심층 주어 줄 (언론사 이름은 differentViews 에서만) · 1면 내러티브 effort high → medium 실험",
-          "at": "2026-11-17T04:47:40Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/d2bec52e8eca76b6970605b3430bf6a41ff31172"
+          "sha": "fad856c2e499cc02ef267a95deabd1b62592bafb",
+          "message": "chore(news): 2026-11-18 다이제스트 자동 생성",
+          "at": "2026-11-17T18:45:23Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/fad856c2e499cc02ef267a95deabd1b62592bafb"
         }
       ],
       "ci": {
@@ -253,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-17T07:24:22.547Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/B1YSLg95srfTpXLghtmtFRsLue48"
+        "at": "2026-11-17T18:45:26.452Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/m2h5iGqx3pahWeSEeebQg7Dxt4tn"
       }
     }
   ],
-  "lastRunAt": "2026-11-17T14:35:11.684Z",
+  "lastRunAt": "2026-11-17T22:57:31.941Z",
   "sources": [
     {
       "source": "github",
