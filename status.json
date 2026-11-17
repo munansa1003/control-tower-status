@@ -226,14 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 1커밋 · 배포 정상 03:46",
+      "note": "오늘 5커밋 · 배포 정상 10:44",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "86b415c22da18202f73e714574fd7f85fe4545af",
-          "message": "chore(news): 2026-11-17 다이제스트 자동 생성",
-          "at": "2026-11-16T18:46:36Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/86b415c22da18202f73e714574fd7f85fe4545af"
+          "sha": "23014617a08de3cfbaa550938d275b31b195d94d",
+          "message": "Merge pull request #83 from munansa1003/claude/editorial-summary-work-desc-49nqqr",
+          "at": "2026-11-17T01:44:44Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/23014617a08de3cfbaa550938d275b31b195d94d"
+        },
+        {
+          "sha": "4c9ecbcca30b62458a8e011a5d8dce6dfd1599aa",
+          "message": "docs(m11-b5): PROGRESS — PR #83 pr_open",
+          "at": "2026-11-17T00:51:29Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/4c9ecbcca30b62458a8e011a5d8dce6dfd1599aa"
+        },
+        {
+          "sha": "a4da0dbcb85e75db036ebaa64d1b0a75003ebdb0",
+          "message": "feat(m11-b5): 사설 요약 지시에 원칙서 부분 · 말투 '-다' · 매체 이름 칸 · 요지 필자 표지 (G4-02)",
+          "at": "2026-11-17T00:50:03Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/a4da0dbcb85e75db036ebaa64d1b0a75003ebdb0"
         }
       ],
       "ci": {
@@ -241,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-16T18:46:39.943Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/GUJkHUWEZieLBsYPqNkYe9MXDoKT"
+        "at": "2026-11-17T01:44:48.180Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/8njpjT6VQENvY63zzLbFH7iGwjXD"
       }
     }
   ],
-  "lastRunAt": "2026-11-16T22:15:10.333Z",
+  "lastRunAt": "2026-11-17T04:36:52.907Z",
   "sources": [
     {
       "source": "github",
