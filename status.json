@@ -226,20 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 2커밋 · 배포 정상 16:26",
+      "note": "오늘 1커밋 · 배포 정상 03:45",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "71fb090abd7aa911f917b5cde560b9b9feb5d354",
-          "message": "chore(news): 2026-11-18 석간 자동 생성",
-          "at": "2026-11-18T07:26:11Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/71fb090abd7aa911f917b5cde560b9b9feb5d354"
-        },
-        {
-          "sha": "fad856c2e499cc02ef267a95deabd1b62592bafb",
-          "message": "chore(news): 2026-11-18 다이제스트 자동 생성",
-          "at": "2026-11-17T18:45:23Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/fad856c2e499cc02ef267a95deabd1b62592bafb"
+          "sha": "840435708fb755eb68d61c36bccd3e30d683b1af",
+          "message": "chore(news): 2026-11-19 다이제스트 자동 생성",
+          "at": "2026-11-18T18:45:55Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/840435708fb755eb68d61c36bccd3e30d683b1af"
         }
       ],
       "ci": {
@@ -247,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-18T07:26:14.487Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/2V11bkDbT248EmsBzTiPiujMNdp8"
+        "at": "2026-11-18T18:45:58.807Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/3qjtYYQ8t4kAopktr9ANLUGmNXn3"
       }
     }
   ],
-  "lastRunAt": "2026-11-18T14:11:50.780Z",
+  "lastRunAt": "2026-11-18T22:03:46.419Z",
   "sources": [
     {
       "source": "github",
