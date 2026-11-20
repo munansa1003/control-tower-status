@@ -226,9 +226,15 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 4커밋 · 배포 정상 11:34",
+      "note": "오늘 5커밋 · 배포 정상 16:23",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
+        {
+          "sha": "7169ed7a87223e00300916c4603abfe2d226fc96",
+          "message": "chore(news): 2026-11-20 석간 자동 생성",
+          "at": "2026-11-20T07:23:11Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/7169ed7a87223e00300916c4603abfe2d226fc96"
+        },
         {
           "sha": "fc3a74489607cd284c09456ef14c398ef6292273",
           "message": "Merge pull request #86 from munansa1003/claude/vigilant-bohr-fvubh6",
@@ -240,12 +246,6 @@
           "message": "feat(M11 B8): 심층 — 증시 기준 묶음 · 기사 발행 시각 · 오래된 기사부터",
           "at": "2026-11-20T02:06:41Z",
           "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b48e7783eadc035090758ab69dde224c1d86949b"
-        },
-        {
-          "sha": "87a0a138d6c49344ae5bb37a663e385c21747e13",
-          "message": "docs(M11 B8): 계획 — 심층 증시 기준 · 기사 발행 시각 · B7 merged 기록",
-          "at": "2026-11-20T01:04:17Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/87a0a138d6c49344ae5bb37a663e385c21747e13"
         }
       ],
       "ci": {
@@ -253,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-20T02:34:57.735Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/Epts4nQiFDwj4XFsTap3GVQ3BEmo"
+        "at": "2026-11-20T07:23:14.879Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/9V9ojPxby8PiTzepYB8iXFxkxhZe"
       }
     }
   ],
-  "lastRunAt": "2026-11-20T03:29:16.415Z",
+  "lastRunAt": "2026-11-20T13:04:37.666Z",
   "sources": [
     {
       "source": "github",
