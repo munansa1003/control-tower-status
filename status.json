@@ -226,14 +226,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 1커밋 · 배포 정상 03:46",
+      "note": "오늘 4커밋 · 배포 정상 11:34",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "fb392416a7447ef3b926571360eaeba28b8819e3",
-          "message": "chore(news): 2026-11-20 다이제스트 자동 생성",
-          "at": "2026-11-19T18:46:20Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/fb392416a7447ef3b926571360eaeba28b8819e3"
+          "sha": "fc3a74489607cd284c09456ef14c398ef6292273",
+          "message": "Merge pull request #86 from munansa1003/claude/vigilant-bohr-fvubh6",
+          "at": "2026-11-20T02:34:54Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/fc3a74489607cd284c09456ef14c398ef6292273"
+        },
+        {
+          "sha": "b48e7783eadc035090758ab69dde224c1d86949b",
+          "message": "feat(M11 B8): 심층 — 증시 기준 묶음 · 기사 발행 시각 · 오래된 기사부터",
+          "at": "2026-11-20T02:06:41Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b48e7783eadc035090758ab69dde224c1d86949b"
+        },
+        {
+          "sha": "87a0a138d6c49344ae5bb37a663e385c21747e13",
+          "message": "docs(M11 B8): 계획 — 심층 증시 기준 · 기사 발행 시각 · B7 merged 기록",
+          "at": "2026-11-20T01:04:17Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/87a0a138d6c49344ae5bb37a663e385c21747e13"
         }
       ],
       "ci": {
@@ -241,12 +253,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-19T18:46:23.330Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/2AxXcpwgHQLkP5zLiH69KfpVojeb"
+        "at": "2026-11-20T02:34:57.735Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/Epts4nQiFDwj4XFsTap3GVQ3BEmo"
       }
     }
   ],
-  "lastRunAt": "2026-11-19T22:13:54.800Z",
+  "lastRunAt": "2026-11-20T03:29:16.415Z",
   "sources": [
     {
       "source": "github",
