@@ -92,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "오늘 1커밋 · CI 초록 · 배포 정상 12:08",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 12:08",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -230,10 +230,10 @@
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "895e7d79e7bda4a16df0ac30a9a4ccc390565b92",
-          "message": "chore(news): 2026-11-21 다이제스트 자동 생성",
-          "at": "2026-11-20T18:45:46Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/895e7d79e7bda4a16df0ac30a9a4ccc390565b92"
+          "sha": "492bd643a35562ab7b45039dd538ae1149e770ea",
+          "message": "chore(news): 2026-11-22 다이제스트 자동 생성",
+          "at": "2026-11-21T18:45:51Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/492bd643a35562ab7b45039dd538ae1149e770ea"
         }
       ],
       "ci": {
@@ -241,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-20T18:45:50.154Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/FU9rkc7pzf3C3xFwXqh4MXFdoVV5"
+        "at": "2026-11-21T18:45:55.538Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/7BSCe5WXSiey7MUAFh15bRHAhhvN"
       }
     }
   ],
-  "lastRunAt": "2026-11-21T11:18:20.771Z",
+  "lastRunAt": "2026-11-21T19:25:01.548Z",
   "sources": [
     {
       "source": "github",
