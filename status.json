@@ -92,14 +92,14 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "마지막 커밋 11/15 · CI 초록 · 배포 정상 08:47",
+      "note": "오늘 1커밋 · CI 초록 · 배포 정상 12:08",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
-          "sha": "7ea0d48bf0494d312e8242983fc9abf70ddc42f2",
-          "message": "Merge pull request #54 from munansa1003/docs/merge-rule-chat-1115",
-          "at": "2026-11-14T23:47:13Z",
-          "url": "https://github.com/munansa1003/us-value-lab/commit/7ea0d48bf0494d312e8242983fc9abf70ddc42f2"
+          "sha": "15d158b3b2f355e2e54928e84637509fe728a525",
+          "message": "chore(screen): weekly refresh 2026-11-21T03:08:51Z",
+          "at": "2026-11-21T03:08:51Z",
+          "url": "https://github.com/munansa1003/us-value-lab/commit/15d158b3b2f355e2e54928e84637509fe728a525"
         }
       ],
       "ci": {
@@ -109,8 +109,8 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-14T23:47:16.205Z",
-        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/J6dmJyXxQG4MgA2nGgRkw1odUNRy"
+        "at": "2026-11-21T03:08:55.160Z",
+        "url": "https://vercel.com/munansa-2761s-projects/us-value-lab/9SnXbirAXWffJkJ3C6Bd91Bw38js"
       }
     },
     {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-11-21T02:29:42.254Z",
+  "lastRunAt": "2026-11-21T11:18:20.771Z",
   "sources": [
     {
       "source": "github",
