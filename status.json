@@ -226,14 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "마지막 커밋 어제 · 배포 정상 11:48",
+      "note": "오늘 1커밋 · 배포 정상 03:45",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "e01399861c08f41db4d25e90f6260d4d9f8bd58e",
-          "message": "Merge pull request #87 from munansa1003/m11-b8-followup-deep-date-index",
-          "at": "2026-11-22T02:48:25Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/e01399861c08f41db4d25e90f6260d4d9f8bd58e"
+          "sha": "4444ddd4e3b7aaaeef4077ad5b7f94a5a9f1f59e",
+          "message": "chore(news): 2026-11-23 다이제스트 자동 생성",
+          "at": "2026-11-22T18:45:37Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/4444ddd4e3b7aaaeef4077ad5b7f94a5a9f1f59e"
         }
       ],
       "ci": {
@@ -241,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-22T02:48:28.857Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/9D2CE8LBvmmh2WcJbBZAGPX7Hbas"
+        "at": "2026-11-22T18:45:41.214Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/7m5L1CXGCPN61zkdYoJzCkUicgQm"
       }
     }
   ],
-  "lastRunAt": "2026-11-22T16:21:30.714Z",
+  "lastRunAt": "2026-11-22T22:30:23.281Z",
   "sources": [
     {
       "source": "github",
