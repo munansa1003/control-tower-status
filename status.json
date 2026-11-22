@@ -92,7 +92,7 @@
       "id": "us-value-lab",
       "name": "US Value Lab",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 12:08",
+      "note": "마지막 커밋 11/21 · CI 초록 · 배포 정상 12:08",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
       "commits": [
         {
@@ -135,31 +135,25 @@
       "id": "daniel-tracker",
       "name": "Body Plan",
       "status": "ok",
-      "note": "오늘 2커밋 · CI 초록 · 배포 정상 16:05",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 17:33",
       "repoUrl": "https://github.com/munansa1003/daniel-tracker",
       "commits": [
         {
-          "sha": "59dbe252327f606432aa85fe6ad7d09f584d840f",
-          "message": "Merge pull request #108 from munansa1003/claude/push-resubscribe-fix",
-          "at": "2026-11-22T07:05:07Z",
-          "url": "https://github.com/munansa1003/daniel-tracker/commit/59dbe252327f606432aa85fe6ad7d09f584d840f"
-        },
-        {
-          "sha": "74e5e492a7be806ccc8f02a9e6ad93893f20f3dd",
-          "message": "fix(push): 앱이 열릴 때 현재 구독도 다시 올려 지워진 구독을 자동 복구",
-          "at": "2026-11-22T07:01:40Z",
-          "url": "https://github.com/munansa1003/daniel-tracker/commit/74e5e492a7be806ccc8f02a9e6ad93893f20f3dd"
+          "sha": "2046183e1d33713390b9e50b01fd9b7ce461492d",
+          "message": "Merge pull request #109 from munansa1003/claude/ai-api-auth",
+          "at": "2026-11-22T08:33:04Z",
+          "url": "https://github.com/munansa1003/daniel-tracker/commit/2046183e1d33713390b9e50b01fd9b7ce461492d"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/44996607547",
-        "at": "2026-11-22T07:05:10Z"
+        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/45003340271",
+        "at": "2026-11-22T08:33:07Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-22T07:05:10.644Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-tracker/GyNvpWJ1NEffk9orzsVs6wfUXnMG"
+        "at": "2026-11-22T08:33:08.099Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-tracker/EZc2fDBRHYDRTDpQb1AYqtsrBZP5"
       }
     },
     {
@@ -232,7 +226,7 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 4커밋 · 배포 정상 11:48",
+      "note": "마지막 커밋 어제 · 배포 정상 11:48",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
@@ -240,18 +234,6 @@
           "message": "Merge pull request #87 from munansa1003/m11-b8-followup-deep-date-index",
           "at": "2026-11-22T02:48:25Z",
           "url": "https://github.com/munansa1003/Daniel-daily-news/commit/e01399861c08f41db4d25e90f6260d4d9f8bd58e"
-        },
-        {
-          "sha": "d9b805ccdc565b0b8a27d9ea2d9305b92fc52097",
-          "message": "M11 B8 후속 — 심층 날짜 · 지수 범위 (B8 드라이런 F1 · F2)",
-          "at": "2026-11-22T02:44:55Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/d9b805ccdc565b0b8a27d9ea2d9305b92fc52097"
-        },
-        {
-          "sha": "97d663c50afc2d35940a719e6ca5c46909fd3f15",
-          "message": "docs(progress): M11 B8 merged (PR #86 · fc3a744 · 11/20 11:34)",
-          "at": "2026-11-22T02:42:46Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/97d663c50afc2d35940a719e6ca5c46909fd3f15"
         }
       ],
       "ci": {
@@ -264,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-11-22T08:04:48.691Z",
+  "lastRunAt": "2026-11-22T16:21:30.714Z",
   "sources": [
     {
       "source": "github",
