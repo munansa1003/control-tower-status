@@ -135,25 +135,31 @@
       "id": "daniel-tracker",
       "name": "Body Plan",
       "status": "ok",
-      "note": "마지막 커밋 9/7 · CI 초록 · 배포 정상 19:14",
+      "note": "오늘 2커밋 · CI 초록 · 배포 정상 16:05",
       "repoUrl": "https://github.com/munansa1003/daniel-tracker",
       "commits": [
         {
-          "sha": "ea27d00c1d9e6fd9b866729c73e96972336b1044",
-          "message": "Merge pull request #105 from munansa1003/claude/vercel-firebase-migration-design-lvay3m",
-          "at": "2026-09-07T10:13:58Z",
-          "url": "https://github.com/munansa1003/daniel-tracker/commit/ea27d00c1d9e6fd9b866729c73e96972336b1044"
+          "sha": "59dbe252327f606432aa85fe6ad7d09f584d840f",
+          "message": "Merge pull request #108 from munansa1003/claude/push-resubscribe-fix",
+          "at": "2026-11-22T07:05:07Z",
+          "url": "https://github.com/munansa1003/daniel-tracker/commit/59dbe252327f606432aa85fe6ad7d09f584d840f"
+        },
+        {
+          "sha": "74e5e492a7be806ccc8f02a9e6ad93893f20f3dd",
+          "message": "fix(push): 앱이 열릴 때 현재 구독도 다시 올려 지워진 구독을 자동 복구",
+          "at": "2026-11-22T07:01:40Z",
+          "url": "https://github.com/munansa1003/daniel-tracker/commit/74e5e492a7be806ccc8f02a9e6ad93893f20f3dd"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/34110365202",
-        "at": "2026-09-07T10:14:01Z"
+        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/44996607547",
+        "at": "2026-11-22T07:05:10Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-09-07T10:14:01.804Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-tracker/9Pw4zQLXSnfrQBxmxM8JELxVYirs"
+        "at": "2026-11-22T07:05:10.644Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-tracker/GyNvpWJ1NEffk9orzsVs6wfUXnMG"
       }
     },
     {
@@ -226,14 +232,26 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 1커밋 · 배포 정상 03:45",
+      "note": "오늘 4커밋 · 배포 정상 11:48",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "492bd643a35562ab7b45039dd538ae1149e770ea",
-          "message": "chore(news): 2026-11-22 다이제스트 자동 생성",
-          "at": "2026-11-21T18:45:51Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/492bd643a35562ab7b45039dd538ae1149e770ea"
+          "sha": "e01399861c08f41db4d25e90f6260d4d9f8bd58e",
+          "message": "Merge pull request #87 from munansa1003/m11-b8-followup-deep-date-index",
+          "at": "2026-11-22T02:48:25Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/e01399861c08f41db4d25e90f6260d4d9f8bd58e"
+        },
+        {
+          "sha": "d9b805ccdc565b0b8a27d9ea2d9305b92fc52097",
+          "message": "M11 B8 후속 — 심층 날짜 · 지수 범위 (B8 드라이런 F1 · F2)",
+          "at": "2026-11-22T02:44:55Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/d9b805ccdc565b0b8a27d9ea2d9305b92fc52097"
+        },
+        {
+          "sha": "97d663c50afc2d35940a719e6ca5c46909fd3f15",
+          "message": "docs(progress): M11 B8 merged (PR #86 · fc3a744 · 11/20 11:34)",
+          "at": "2026-11-22T02:42:46Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/97d663c50afc2d35940a719e6ca5c46909fd3f15"
         }
       ],
       "ci": {
@@ -241,12 +259,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-21T18:45:55.538Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/7BSCe5WXSiey7MUAFh15bRHAhhvN"
+        "at": "2026-11-22T02:48:28.857Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/9D2CE8LBvmmh2WcJbBZAGPX7Hbas"
       }
     }
   ],
-  "lastRunAt": "2026-11-22T00:23:23.267Z",
+  "lastRunAt": "2026-11-22T08:04:48.691Z",
   "sources": [
     {
       "source": "github",
