@@ -3,22 +3,9 @@
     {
       "id": "dyp-proto-team",
       "name": "Proto Team",
-      "status": "ok",
-      "note": "마지막 커밋 11/15 · CI 초록 · 배포 정상 08:47",
+      "status": "warn",
+      "note": "github 수집 실패 · 배포 정상 08:47",
       "repoUrl": "https://github.com/munansa1003/DYP_Proto_Team",
-      "commits": [
-        {
-          "sha": "9bdd0cb83785873d1184e4f32e50a49f810d9255",
-          "message": "Merge pull request #208 from munansa1003/docs/merge-rule-chat-1115",
-          "at": "2026-11-14T23:47:19Z",
-          "url": "https://github.com/munansa1003/DYP_Proto_Team/commit/9bdd0cb83785873d1184e4f32e50a49f810d9255"
-        }
-      ],
-      "ci": {
-        "state": "success",
-        "url": "https://github.com/munansa1003/DYP_Proto_Team/actions/runs/43654971768",
-        "at": "2026-11-14T23:47:22Z"
-      },
       "deploy": {
         "state": "READY",
         "at": "2026-11-14T23:47:22.888Z",
@@ -28,42 +15,16 @@
     {
       "id": "piston-issues",
       "name": "Piston Issues",
-      "status": "ok",
-      "note": "마지막 커밋 11/13 · CI 초록",
-      "repoUrl": "https://github.com/munansa1003/piston-issues",
-      "commits": [
-        {
-          "sha": "6c253dd796c9099aaae516e6394737e72d460b2f",
-          "message": "docs(deploy): 3-af 인쇄 판의 «주 고르기» 배포 기록 — bff87a7 · 11-13 14:59경 · 세대 20 → 20 · 롤백 좌표 e59ef67",
-          "at": "2026-11-13T06:13:10Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/6c253dd796c9099aaae516e6394737e72d460b2f"
-        }
-      ],
-      "ci": {
-        "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/43377500948",
-        "at": "2026-11-13T06:16:00Z"
-      }
+      "status": "warn",
+      "note": "github 수집 실패",
+      "repoUrl": "https://github.com/munansa1003/piston-issues"
     },
     {
       "id": "control-tower",
       "name": "Control Tower",
-      "status": "ok",
-      "note": "마지막 커밋 9/18 · CI 초록 · 배포 정상 11:21",
+      "status": "warn",
+      "note": "github 수집 실패 · 배포 정상 11:21",
       "repoUrl": "https://github.com/munansa1003/control-tower",
-      "commits": [
-        {
-          "sha": "cd9db4c6d4c8915045284812000b0f6c649bd56a",
-          "message": "feat(dashboard): 달력에 회사 휴무일 — 표를 둘로 두고 작업일수로 채점한다",
-          "at": "2026-09-18T02:21:24Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/cd9db4c6d4c8915045284812000b0f6c649bd56a"
-        }
-      ],
-      "ci": {
-        "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/35299015774",
-        "at": "2026-09-18T02:21:32Z"
-      },
       "deploy": {
         "state": "READY",
         "at": "2026-09-18T02:21:34.792Z",
@@ -73,40 +34,16 @@
     {
       "id": "estate-ledger",
       "name": "Estate Ledger",
-      "status": "ok",
-      "note": "오늘 1커밋",
-      "repoUrl": "https://github.com/munansa1003/estate-ledger",
-      "commits": [
-        {
-          "sha": "35927823d6b1f585da18f47d188ce9d274236ddf",
-          "message": "chore: weekly digest inbox (2026-11-23)",
-          "at": "2026-11-23T01:25:29Z",
-          "url": "https://github.com/munansa1003/estate-ledger/commit/35927823d6b1f585da18f47d188ce9d274236ddf"
-        }
-      ],
-      "ci": {
-        "state": "none"
-      }
+      "status": "warn",
+      "note": "github 수집 실패",
+      "repoUrl": "https://github.com/munansa1003/estate-ledger"
     },
     {
       "id": "us-value-lab",
       "name": "US Value Lab",
-      "status": "ok",
-      "note": "마지막 커밋 11/21 · CI 초록 · 배포 정상 12:08",
+      "status": "warn",
+      "note": "github 수집 실패 · 배포 정상 12:08",
       "repoUrl": "https://github.com/munansa1003/us-value-lab",
-      "commits": [
-        {
-          "sha": "15d158b3b2f355e2e54928e84637509fe728a525",
-          "message": "chore(screen): weekly refresh 2026-11-21T03:08:51Z",
-          "at": "2026-11-21T03:08:51Z",
-          "url": "https://github.com/munansa1003/us-value-lab/commit/15d158b3b2f355e2e54928e84637509fe728a525"
-        }
-      ],
-      "ci": {
-        "state": "success",
-        "url": "https://github.com/munansa1003/us-value-lab/actions/runs/43654962934",
-        "at": "2026-11-14T23:47:16Z"
-      },
       "deploy": {
         "state": "READY",
         "at": "2026-11-21T03:08:55.160Z",
@@ -116,40 +53,16 @@
     {
       "id": "weekly-reports",
       "name": "Weekly Reports",
-      "status": "ok",
-      "note": "마지막 커밋 11/19",
-      "repoUrl": "https://github.com/munansa1003/weekly-reports",
-      "commits": [
-        {
-          "sha": "1cf777bcf49728d911d5379490cc074057993e72",
-          "message": "docs: 주간 개발 리포트 2026-11-19",
-          "at": "2026-11-18T23:16:10Z",
-          "url": "https://github.com/munansa1003/weekly-reports/commit/1cf777bcf49728d911d5379490cc074057993e72"
-        }
-      ],
-      "ci": {
-        "state": "none"
-      }
+      "status": "warn",
+      "note": "github 수집 실패",
+      "repoUrl": "https://github.com/munansa1003/weekly-reports"
     },
     {
       "id": "daniel-tracker",
       "name": "Body Plan",
-      "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 17:33",
+      "status": "warn",
+      "note": "github 수집 실패 · 배포 정상 17:33",
       "repoUrl": "https://github.com/munansa1003/daniel-tracker",
-      "commits": [
-        {
-          "sha": "2046183e1d33713390b9e50b01fd9b7ce461492d",
-          "message": "Merge pull request #109 from munansa1003/claude/ai-api-auth",
-          "at": "2026-11-22T08:33:04Z",
-          "url": "https://github.com/munansa1003/daniel-tracker/commit/2046183e1d33713390b9e50b01fd9b7ce461492d"
-        }
-      ],
-      "ci": {
-        "state": "success",
-        "url": "https://github.com/munansa1003/daniel-tracker/actions/runs/45003340271",
-        "at": "2026-11-22T08:33:07Z"
-      },
       "deploy": {
         "state": "READY",
         "at": "2026-11-22T08:33:08.099Z",
@@ -159,38 +72,16 @@
     {
       "id": "jump-quiz-island",
       "name": "Jump Quiz",
-      "status": "ok",
-      "note": "마지막 커밋 7/25",
-      "repoUrl": "https://github.com/munansa1003/jump-quiz-island",
-      "commits": [
-        {
-          "sha": "f1532d0754c6b821b4cc860fb3ac27d412311cc7",
-          "message": "v4.2 — 침공 모드 · 자연스러운 이동 · 진짜 배우는 섬 · 데이터 무손실 (#8)",
-          "at": "2026-07-25T01:44:19Z",
-          "url": "https://github.com/munansa1003/jump-quiz-island/commit/f1532d0754c6b821b4cc860fb3ac27d412311cc7"
-        }
-      ],
-      "ci": {
-        "state": "none"
-      }
+      "status": "warn",
+      "note": "github 수집 실패",
+      "repoUrl": "https://github.com/munansa1003/jump-quiz-island"
     },
     {
       "id": "jaegyeong-study",
       "name": "Jaegyeong Study",
-      "status": "ok",
-      "note": "마지막 커밋 6/30 · 배포 정상 15:10",
+      "status": "warn",
+      "note": "github 수집 실패 · 배포 정상 15:10",
       "repoUrl": "https://github.com/munansa1003/jaegyeong-study",
-      "commits": [
-        {
-          "sha": "c7ee0f31fc9f12e94e1ec5054e03352f6e5e4855",
-          "message": "v30 후속 버그수정 + due큐 사용성 튜닝 (하루 묶음)",
-          "at": "2026-06-30T06:10:42Z",
-          "url": "https://github.com/munansa1003/jaegyeong-study/commit/c7ee0f31fc9f12e94e1ec5054e03352f6e5e4855"
-        }
-      ],
-      "ci": {
-        "state": "none"
-      },
       "deploy": {
         "state": "READY",
         "at": "2026-06-30T06:10:47.004Z",
@@ -200,22 +91,9 @@
     {
       "id": "jjj-family-acb",
       "name": "JJJ ACB",
-      "status": "ok",
-      "note": "마지막 커밋 11/15 · CI 초록 · 배포 정상 18:46",
+      "status": "warn",
+      "note": "github 수집 실패 · 배포 정상 18:46",
       "repoUrl": "https://github.com/munansa1003/jjj-family-ACB",
-      "commits": [
-        {
-          "sha": "8855cb111da1fb569ce395f009ae90cd04d359ec",
-          "message": "chore(data): 2026-09·10 마감 정본화 + 2026-11 반영(11-01~11-14) · 스냅샷 11-15",
-          "at": "2026-11-15T09:24:59Z",
-          "url": "https://github.com/munansa1003/jjj-family-ACB/commit/8855cb111da1fb569ce395f009ae90cd04d359ec"
-        }
-      ],
-      "ci": {
-        "state": "success",
-        "url": "https://github.com/munansa1003/jjj-family-ACB/actions/runs/43700849417",
-        "at": "2026-11-15T09:46:28Z"
-      },
       "deploy": {
         "state": "READY",
         "at": "2026-11-15T09:46:29.000Z",
@@ -225,38 +103,22 @@
     {
       "id": "daniel-daily-news",
       "name": "Daily News",
-      "status": "ok",
-      "note": "오늘 2커밋 · 배포 정상 16:24",
+      "status": "warn",
+      "note": "github 수집 실패 · 배포 정상 03:46",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
-      "commits": [
-        {
-          "sha": "b5a9bb5ae52c40bdbea89dcff54a836c24ce276b",
-          "message": "chore(news): 2026-11-23 석간 자동 생성",
-          "at": "2026-11-23T07:24:03Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/b5a9bb5ae52c40bdbea89dcff54a836c24ce276b"
-        },
-        {
-          "sha": "4444ddd4e3b7aaaeef4077ad5b7f94a5a9f1f59e",
-          "message": "chore(news): 2026-11-23 다이제스트 자동 생성",
-          "at": "2026-11-22T18:45:37Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/4444ddd4e3b7aaaeef4077ad5b7f94a5a9f1f59e"
-        }
-      ],
-      "ci": {
-        "state": "none"
-      },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-23T07:24:07.362Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/2AzDAwMyX3wnM4Tn2CUUwC5mhq5k"
+        "at": "2026-11-23T18:46:23.059Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/AiiVKKx2FFFzkiV3Geg8FyXmQQB8"
       }
     }
   ],
-  "lastRunAt": "2026-11-23T14:50:04.610Z",
+  "lastRunAt": "2026-11-24T02:16:40.061Z",
   "sources": [
     {
       "source": "github",
-      "ok": true
+      "ok": false,
+      "error": "11건 실패: github munansa1003/piston-issues: HTTP 401"
     },
     {
       "source": "vercel",
