@@ -104,21 +104,21 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "warn",
-      "note": "github 수집 실패 · 배포 정상 03:46",
+      "note": "github 수집 실패 · 배포 정상 16:24",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "deploy": {
         "state": "READY",
-        "at": "2026-11-23T18:46:23.059Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/AiiVKKx2FFFzkiV3Geg8FyXmQQB8"
+        "at": "2026-11-24T07:24:27.924Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/JDa4dBxMJNDAPCM6T8G76SVeSgci"
       }
     }
   ],
-  "lastRunAt": "2026-11-24T02:16:40.061Z",
+  "lastRunAt": "2026-11-24T12:40:24.999Z",
   "sources": [
     {
       "source": "github",
       "ok": false,
-      "error": "11건 실패: github munansa1003/piston-issues: HTTP 401"
+      "error": "11건 실패: github munansa1003/control-tower: HTTP 401"
     },
     {
       "source": "vercel",
