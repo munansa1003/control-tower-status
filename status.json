@@ -49,7 +49,7 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "오늘 4커밋 · CI 초록 · 배포 정상 13:51",
+      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 13:51",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
@@ -57,18 +57,6 @@
           "message": "feat(dashboard): 배치 1-C — PC 링을 윗줄 판으로, 시계·달력 크게 (#8)",
           "at": "2026-11-25T04:51:14Z",
           "url": "https://github.com/munansa1003/control-tower/commit/b1c492375525f5368a973e441689fc074cfff03b"
-        },
-        {
-          "sha": "af78941ea21f00f33f2424c6790afe8f7eb085e7",
-          "message": "feat(dashboard): 앱 신분증(manifest·아이콘) — 작업 표시줄에 관제탑 아이콘 하나로 (#7)",
-          "at": "2026-11-25T02:39:28Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/af78941ea21f00f33f2424c6790afe8f7eb085e7"
-        },
-        {
-          "sha": "d66f6e26460f5fba4b346b84eb9feeeabd08f2cd",
-          "message": "feat: Vercel 화면에도 PC 계기 링 — 노트북이 1분마다 서명해 중계 (#6)",
-          "at": "2026-11-25T01:52:41Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/d66f6e26460f5fba4b346b84eb9feeeabd08f2cd"
         }
       ],
       "ci": {
@@ -238,14 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 1커밋 · 배포 정상 03:45",
+      "note": "마지막 커밋 어제 · 배포 정상 16:24",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "ff7b280084385b7d71048bfeb74cda5632c43971",
-          "message": "chore(news): 2026-11-25 다이제스트 자동 생성",
-          "at": "2026-11-24T18:45:46Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/ff7b280084385b7d71048bfeb74cda5632c43971"
+          "sha": "8a6dd092ab0cdf1d1b5631e93b6907513b086c87",
+          "message": "chore(news): 2026-11-25 석간 자동 생성",
+          "at": "2026-11-25T07:24:31Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/8a6dd092ab0cdf1d1b5631e93b6907513b086c87"
         }
       ],
       "ci": {
@@ -253,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-24T18:45:50.399Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/5uGc1a3u93YnjE5dHijcPb6skq7n"
+        "at": "2026-11-25T07:24:35.066Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/6B6gWSJd8AxirvEXKjJ91JNr17bt"
       }
     }
   ],
-  "lastRunAt": "2026-11-25T05:28:27.391Z",
+  "lastRunAt": "2026-11-25T17:21:37.631Z",
   "sources": [
     {
       "source": "github",
