@@ -29,7 +29,7 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록",
+      "note": "마지막 커밋 11/25 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
@@ -49,7 +49,7 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "마지막 커밋 어제 · CI 초록 · 배포 정상 13:51",
+      "note": "마지막 커밋 11/25 · CI 초록 · 배포 정상 13:51",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
@@ -117,7 +117,7 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "오늘 1커밋",
+      "note": "마지막 커밋 어제",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
@@ -226,20 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 2커밋 · 배포 정상 16:23",
+      "note": "오늘 1커밋 · 배포 정상 03:45",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "52f0ff52f3a3d01cbf35c32d2751b1125f4c5144",
-          "message": "chore(news): 2026-11-26 석간 자동 생성",
-          "at": "2026-11-26T07:23:33Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/52f0ff52f3a3d01cbf35c32d2751b1125f4c5144"
-        },
-        {
-          "sha": "37d4d078fe56a7a26744cebed2aeec370a403ad3",
-          "message": "chore(news): 2026-11-26 다이제스트 자동 생성",
-          "at": "2026-11-25T18:46:13Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/37d4d078fe56a7a26744cebed2aeec370a403ad3"
+          "sha": "5d2499d8f512e70f7c48161da6d15757de2f6c94",
+          "message": "chore(news): 2026-11-27 다이제스트 자동 생성",
+          "at": "2026-11-26T18:45:40Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/5d2499d8f512e70f7c48161da6d15757de2f6c94"
         }
       ],
       "ci": {
@@ -247,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-26T07:23:37.227Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/5dZhkN7ufAQ6mxsEEPXbccQMVvYB"
+        "at": "2026-11-26T18:45:43.976Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/ExjPbcGE73kB2SqZFzY23EaPLLzv"
       }
     }
   ],
-  "lastRunAt": "2026-11-26T11:00:16.998Z",
+  "lastRunAt": "2026-11-26T20:13:34.322Z",
   "sources": [
     {
       "source": "github",
