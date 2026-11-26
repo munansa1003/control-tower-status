@@ -226,9 +226,15 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "오늘 1커밋 · 배포 정상 03:46",
+      "note": "오늘 2커밋 · 배포 정상 16:23",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
+        {
+          "sha": "52f0ff52f3a3d01cbf35c32d2751b1125f4c5144",
+          "message": "chore(news): 2026-11-26 석간 자동 생성",
+          "at": "2026-11-26T07:23:33Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/52f0ff52f3a3d01cbf35c32d2751b1125f4c5144"
+        },
         {
           "sha": "37d4d078fe56a7a26744cebed2aeec370a403ad3",
           "message": "chore(news): 2026-11-26 다이제스트 자동 생성",
@@ -241,12 +247,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-25T18:46:16.717Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/AgCeZtDAWsLRnoZ7kPys4sGr4DDa"
+        "at": "2026-11-26T07:23:37.227Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/5dZhkN7ufAQ6mxsEEPXbccQMVvYB"
       }
     }
   ],
-  "lastRunAt": "2026-11-26T01:48:56.122Z",
+  "lastRunAt": "2026-11-26T11:00:16.998Z",
   "sources": [
     {
       "source": "github",
