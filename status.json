@@ -29,20 +29,20 @@
       "id": "piston-issues",
       "name": "Piston Issues",
       "status": "ok",
-      "note": "마지막 커밋 11/13 · CI 초록",
+      "note": "마지막 커밋 어제 · CI 초록",
       "repoUrl": "https://github.com/munansa1003/piston-issues",
       "commits": [
         {
-          "sha": "6c253dd796c9099aaae516e6394737e72d460b2f",
-          "message": "docs(deploy): 3-af 인쇄 판의 «주 고르기» 배포 기록 — bff87a7 · 11-13 14:59경 · 세대 20 → 20 · 롤백 좌표 e59ef67",
-          "at": "2026-11-13T06:13:10Z",
-          "url": "https://github.com/munansa1003/piston-issues/commit/6c253dd796c9099aaae516e6394737e72d460b2f"
+          "sha": "b933cae1d518a5dbbae571cd21507c6231a32b4f",
+          "message": "feat(stock): PISTON 등급(A/B/C)별 입고 · 출고 — 주문서별 묶음 (세대 20 → 21)",
+          "at": "2026-11-25T01:58:39Z",
+          "url": "https://github.com/munansa1003/piston-issues/commit/b933cae1d518a5dbbae571cd21507c6231a32b4f"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/piston-issues/actions/runs/43377500948",
-        "at": "2026-11-13T06:16:00Z"
+        "url": "https://github.com/munansa1003/piston-issues/actions/runs/45718576016",
+        "at": "2026-11-25T23:05:20Z"
       }
     },
     {
@@ -117,14 +117,14 @@
       "id": "weekly-reports",
       "name": "Weekly Reports",
       "status": "ok",
-      "note": "마지막 커밋 11/19",
+      "note": "오늘 1커밋",
       "repoUrl": "https://github.com/munansa1003/weekly-reports",
       "commits": [
         {
-          "sha": "1cf777bcf49728d911d5379490cc074057993e72",
-          "message": "docs: 주간 개발 리포트 2026-11-19",
-          "at": "2026-11-18T23:16:10Z",
-          "url": "https://github.com/munansa1003/weekly-reports/commit/1cf777bcf49728d911d5379490cc074057993e72"
+          "sha": "01007d7c8caf877d651b0d15f3a610309c204529",
+          "message": "docs: 주간 개발 리포트 2026-11-26",
+          "at": "2026-11-25T23:14:16Z",
+          "url": "https://github.com/munansa1003/weekly-reports/commit/01007d7c8caf877d651b0d15f3a610309c204529"
         }
       ],
       "ci": {
@@ -226,14 +226,14 @@
       "id": "daniel-daily-news",
       "name": "Daily News",
       "status": "ok",
-      "note": "마지막 커밋 어제 · 배포 정상 16:24",
+      "note": "오늘 1커밋 · 배포 정상 03:46",
       "repoUrl": "https://github.com/munansa1003/Daniel-daily-news",
       "commits": [
         {
-          "sha": "8a6dd092ab0cdf1d1b5631e93b6907513b086c87",
-          "message": "chore(news): 2026-11-25 석간 자동 생성",
-          "at": "2026-11-25T07:24:31Z",
-          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/8a6dd092ab0cdf1d1b5631e93b6907513b086c87"
+          "sha": "37d4d078fe56a7a26744cebed2aeec370a403ad3",
+          "message": "chore(news): 2026-11-26 다이제스트 자동 생성",
+          "at": "2026-11-25T18:46:13Z",
+          "url": "https://github.com/munansa1003/Daniel-daily-news/commit/37d4d078fe56a7a26744cebed2aeec370a403ad3"
         }
       ],
       "ci": {
@@ -241,12 +241,12 @@
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-25T07:24:35.066Z",
-        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/6B6gWSJd8AxirvEXKjJ91JNr17bt"
+        "at": "2026-11-25T18:46:16.717Z",
+        "url": "https://vercel.com/munansa-2761s-projects/daniel-daily-news/AgCeZtDAWsLRnoZ7kPys4sGr4DDa"
       }
     }
   ],
-  "lastRunAt": "2026-11-25T17:21:37.631Z",
+  "lastRunAt": "2026-11-26T01:48:56.122Z",
   "sources": [
     {
       "source": "github",
