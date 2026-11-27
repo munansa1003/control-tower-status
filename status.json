@@ -49,25 +49,25 @@
       "id": "control-tower",
       "name": "Control Tower",
       "status": "ok",
-      "note": "마지막 커밋 11/25 · CI 초록 · 배포 정상 13:51",
+      "note": "오늘 1커밋 · CI 초록 · 배포 정상 09:32",
       "repoUrl": "https://github.com/munansa1003/control-tower",
       "commits": [
         {
-          "sha": "b1c492375525f5368a973e441689fc074cfff03b",
-          "message": "feat(dashboard): 배치 1-C — PC 링을 윗줄 판으로, 시계·달력 크게 (#8)",
-          "at": "2026-11-25T04:51:14Z",
-          "url": "https://github.com/munansa1003/control-tower/commit/b1c492375525f5368a973e441689fc074cfff03b"
+          "sha": "e997df00fa7d014568ec8bca030d39bf468c3e60",
+          "message": "fix(startup): 재부팅 후 감독이 터미널 창과 함께 죽지 않게 (#9)",
+          "at": "2026-11-27T00:32:50Z",
+          "url": "https://github.com/munansa1003/control-tower/commit/e997df00fa7d014568ec8bca030d39bf468c3e60"
         }
       ],
       "ci": {
         "state": "success",
-        "url": "https://github.com/munansa1003/control-tower/actions/runs/45549589441",
-        "at": "2026-11-25T04:51:18Z"
+        "url": "https://github.com/munansa1003/control-tower/actions/runs/45917350492",
+        "at": "2026-11-27T00:32:53Z"
       },
       "deploy": {
         "state": "READY",
-        "at": "2026-11-25T04:51:19.605Z",
-        "url": "https://vercel.com/munansa-2761s-projects/control-tower/EZyfMXeEhPNPs5zMKQNZURKKConu"
+        "at": "2026-11-27T00:32:54.473Z",
+        "url": "https://vercel.com/munansa-2761s-projects/control-tower/6KRC3osAnaq4tctMo69knTpnd1vi"
       }
     },
     {
@@ -246,7 +246,7 @@
       }
     }
   ],
-  "lastRunAt": "2026-11-26T20:13:34.322Z",
+  "lastRunAt": "2026-11-27T02:56:13.444Z",
   "sources": [
     {
       "source": "github",
